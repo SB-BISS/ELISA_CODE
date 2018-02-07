@@ -1,5 +1,9 @@
 # This function maps a set of keywords provided and returns the number of the sentence
 # in which a keyword appears x is the text, and kw are the keywords provided
+# Libraries used are
+# library(quanteda) # needed for tokenization etc
+# library(magrittr)
+# library(jsonlite) # not needed per se
 
 # This is a helper function We later use this function in the map_kw function
 map_kw_helper <- function(x, kw) {
