@@ -1,0 +1,32 @@
+---
+title: "Get daily price data from public sources"
+author: "Eran Raviv"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_notebook
+---
+
+This is a short script to pull data from public sources, in this case from yahoo, but can also be from google finance.
+
+
+```{r chunk0, eval= T, echo = T, results= "markup"}
+# install.packages(quantmod) # if not yet installed
+#Load library
+library(quantmod)
+sym = c('NOK', 'SESG.PA', 'CNA.L', 'BT') # get tickers
+l <- length(sym) # set how many tickers
+end <- format(Sys.Date(),"%Y-%m-%d") # end date is set for today
+start<-format(as.Date("2000-01-01"),"%Y-%m-%d") # start in 2000, if data is available
+
+list_price <- list() # make container for the prices
+
+#  Loop through the prices
+for (i in 1:l){
+  list_price[[i]] = getSymbols(sym[i], src="yahoo", from=start, to=end, auto.assign = F)
+}
+# Print the first and last line of the list
+for(i in 1:l){
+print(head(list_price[[i]], 1))
+print(tail(list_price[[i]], 1))
+}
+```
+
