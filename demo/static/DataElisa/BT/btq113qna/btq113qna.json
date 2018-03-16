@@ -1,0 +1,6264 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.720",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "O: Thank you."
+   ]
+  },
+  {
+   "begin": "0.720",
+   "children": [],
+   "end": "4.200",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "Ladies and gentleman your question and answer session will now begin."
+   ]
+  },
+  {
+   "begin": "4.200",
+   "children": [],
+   "end": "8.600",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "If you wish to ask a question please key star-one on your tone dial telephone."
+   ]
+  },
+  {
+   "begin": "8.600",
+   "children": [],
+   "end": "12.720",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "If you change your mind and decide to withdraw your question please key star-two."
+   ]
+  },
+  {
+   "begin": "12.720",
+   "children": [],
+   "end": "17.320",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "All questions will be answered in the order received and you will be advised when to ask a question."
+   ]
+  },
+  {
+   "begin": "17.320",
+   "children": [],
+   "end": "19.760",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "All other lines will remain in listen only."
+   ]
+  },
+  {
+   "begin": "19.760",
+   "children": [],
+   "end": "24.040",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Once again if you wish to ask a question please key star followed by one."
+   ]
+  },
+  {
+   "begin": "24.040",
+   "children": [],
+   "end": "28.160",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "Our first question is from the line of Andrew Lee, from Goldman Sachs."
+   ]
+  },
+  {
+   "begin": "28.160",
+   "children": [],
+   "end": "29.880",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "Please go ahead, Andrew."
+   ]
+  },
+  {
+   "begin": "29.880",
+   "children": [],
+   "end": "30.600",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "Q: Thank you."
+   ]
+  },
+  {
+   "begin": "30.600",
+   "children": [],
+   "end": "32.320",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Good morning, everyone."
+   ]
+  },
+  {
+   "begin": "32.320",
+   "children": [],
+   "end": "35.880",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "A question on global services, and then a second question."
+   ]
+  },
+  {
+   "begin": "35.880",
+   "children": [],
+   "end": "43.360",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Firstly on global services, the domestic trading environment, how is the competitive intensity here at the moment?"
+   ]
+  },
+  {
+   "begin": "43.360",
+   "children": [],
+   "end": "51.160",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "Have you seen any shift in the competitive pressure from cable and wireless on the bigger contracts or from the rest of your competitors in SME?"
+   ]
+  },
+  {
+   "begin": "51.160",
+   "children": [],
+   "end": "57.760",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "And then the second question was on the side that Ofcom highlighted there was a spectrum for a fourth national wholesaler."
+   ]
+  },
+  {
+   "begin": "57.760",
+   "children": [],
+   "end": "64.920",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "I just got to give you the opportunity to say you're still not interested in owning a mobile network or to see if there's any change there."
+   ]
+  },
+  {
+   "begin": "64.920",
+   "children": [],
+   "end": "65.960",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "65.960",
+   "children": [],
+   "end": "67.760",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "A: The answer to the second one, yeah."
+   ]
+  },
+  {
+   "begin": "67.760",
+   "children": [],
+   "end": "71.040",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "I can confirm there's no change there to that question."
+   ]
+  },
+  {
+   "begin": "71.040",
+   "children": [],
+   "end": "76.880",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "And there probably will be 13 questions that will now drop off the list."
+   ]
+  },
+  {
+   "begin": "76.880",
+   "children": [],
+   "end": "87.400",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "In terms of domestic, I assume when you say domestic, you mean domestic UK because of course we've got domestic businesses in a lot of countries."
+   ]
+  },
+  {
+   "begin": "87.400",
+   "children": [],
+   "end": "96.440",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "In terms of that competitive intensity, I would see if Jeff wants to add anything, but it remains a competitive market."
+   ]
+  },
+  {
+   "begin": "96.440",
+   "children": [],
+   "end": "99.800",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "We've had some good wins, which we are pleased with."
+   ]
+  },
+  {
+   "begin": "99.800",
+   "children": [],
+   "end": "110.840",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "I think the same in SME business where we've done well in what's been a difficult marketplace, but maybe Jeff, you want to talk about the corporate side and government side on SMEs?"
+   ]
+  },
+  {
+   "begin": "110.840",
+   "children": [],
+   "end": "116.640",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "A: I would say it's about the same intensity as we've seen in the past."
+   ]
+  },
+  {
+   "begin": "116.640",
+   "children": [],
+   "end": "121.720",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "I wouldn't say we see cable and wireless any more aggressive on our existing accounts."
+   ]
+  },
+  {
+   "begin": "121.720",
+   "children": [],
+   "end": "124.800",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "We're both very aggressive on accounts that we both own."
+   ]
+  },
+  {
+   "begin": "124.800",
+   "children": [],
+   "end": "127.840",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "But I wouldn't say it's any more intense."
+   ]
+  },
+  {
+   "begin": "127.840",
+   "children": [],
+   "end": "130.880",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "A: Can register out on the Swiss space."
+   ]
+  },
+  {
+   "begin": "130.880",
+   "children": [],
+   "end": "138.880",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "I think we're seeing the market contract as a number of customers are looking to consolidate their estate, for want of a better word."
+   ]
+  },
+  {
+   "begin": "138.880",
+   "children": [],
+   "end": "140.680",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Where we're operating, we are actually growing market share."
+   ]
+  },
+  {
+   "begin": "140.680",
+   "children": [],
+   "end": "143.560",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "A: Okay, thanks very much."
+   ]
+  },
+  {
+   "begin": "143.560",
+   "children": [],
+   "end": "144.920",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Q: Thank you."
+   ]
+  },
+  {
+   "begin": "144.920",
+   "children": [],
+   "end": "147.000",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "A: The next question?"
+   ]
+  },
+  {
+   "begin": "147.000",
+   "children": [],
+   "end": "147.400",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "O: Thank you."
+   ]
+  },
+  {
+   "begin": "147.400",
+   "children": [],
+   "end": "149.160",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "It's from the line of Nick Delfas from Morgan Stanley."
+   ]
+  },
+  {
+   "begin": "149.160",
+   "children": [],
+   "end": "150.640",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "Please go ahead, Nick."
+   ]
+  },
+  {
+   "begin": "150.640",
+   "children": [],
+   "end": "152.880",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "Q: Yeah, thanks very much."
+   ]
+  },
+  {
+   "begin": "152.880",
+   "children": [],
+   "end": "154.280",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "So two questions."
+   ]
+  },
+  {
+   "begin": "154.280",
+   "children": [],
+   "end": "168.760",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "But from H2 revenue recovery, I calculate roughly your IT hardware points will give you a following wind of 60 basis points compared to the first half."
+   ]
+  },
+  {
+   "begin": "168.760",
+   "children": [],
+   "end": "185.960",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "But given that one, I guess, shouldn't expect any change in the European economic environment, maybe you could say a little bit more about where you expect the rest of the recovery to come, calculate you need to get the that flat revenues in H2 to reach your all-new guidance."
+   ]
+  },
+  {
+   "begin": "185.960",
+   "children": [],
+   "end": "191.680",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "And secondly, what else can you tell us about Global Services to reassure us?"
+   ]
+  },
+  {
+   "begin": "191.680",
+   "children": [],
+   "end": "199.680",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "I mean, if you look at EBITDA minus CapEx versus cash flow, we're spanning to see a gap opening up again in the quarter."
+   ]
+  },
+  {
+   "begin": "199.680",
+   "children": [],
+   "end": "207.640",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "And also, as you said at full year in the year, what reassurance can you give that that's not a problem of profit recognition?"
+   ]
+  },
+  {
+   "begin": "207.640",
+   "children": [],
+   "end": "208.680",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "208.680",
+   "children": [],
+   "end": "210.400",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "A: All right."
+   ]
+  },
+  {
+   "begin": "210.400",
+   "children": [],
+   "end": "212.960",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "I'll let Tony add to this just in a second."
+   ]
+  },
+  {
+   "begin": "212.960",
+   "children": [],
+   "end": "227.840",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "But, yeah, I mean, we had - it's about a 20 million pound hit in Q1 from that point about the - what was going with the, with trade sales and that would drop out."
+   ]
+  },
+  {
+   "begin": "227.840",
+   "children": [],
+   "end": "232.000",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "It's a bit less in Q2, but will drop out in Q3 and Q4."
+   ]
+  },
+  {
+   "begin": "232.000",
+   "children": [],
+   "end": "248.360",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "And also of course, we've got the anniversarying if you recall I think from recollection in Q2 last year, actually our revenue was up because of the 60 million stage payment we had, that we've highlighted there numerous times."
+   ]
+  },
+  {
+   "begin": "248.360",
+   "children": [],
+   "end": "250.320",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "So no great surprise there."
+   ]
+  },
+  {
+   "begin": "250.320",
+   "children": [],
+   "end": "266.280",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "I think also it's the buildup of the investments as add more fibre, as we improve on vision and the other actions we're taking, is the reasons we expect to see materially a better position overall in revenue in the second half."
+   ]
+  },
+  {
+   "begin": "266.280",
+   "children": [],
+   "end": "273.760",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "In terms of Global Services, perhaps Tony, when we said there would be working capital movements this year."
+   ]
+  },
+  {
+   "begin": "273.760",
+   "children": [],
+   "end": "276.480",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "And that's why we expect a lower cash flow."
+   ]
+  },
+  {
+   "begin": "276.480",
+   "children": [],
+   "end": "293.920",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "I think Tony can give you some reassurance on some of the key numbers that show that this is a very different and the main expected issue on cash flow, but that's also different from the fact that we have a more difficult economic environment, but Tony."
+   ]
+  },
+  {
+   "begin": "293.920",
+   "children": [],
+   "end": "298.360",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "A: Nick, the first thing is the working capital is going to bounce around quarter-on-quarter."
+   ]
+  },
+  {
+   "begin": "298.360",
+   "children": [],
+   "end": "304.160",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "That's always going to happen based on things like supply of payments, contract payments, et cetera."
+   ]
+  },
+  {
+   "begin": "304.160",
+   "children": [],
+   "end": "308.040",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "If I looked at the previous two years, we had positive working capital."
+   ]
+  },
+  {
+   "begin": "308.040",
+   "children": [],
+   "end": "311.320",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "You can't have positive working capital every single year."
+   ]
+  },
+  {
+   "begin": "311.320",
+   "children": [],
+   "end": "316.560",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "This year, we're into a , as we indicated previously, we'll have negative working capital."
+   ]
+  },
+  {
+   "begin": "316.560",
+   "children": [],
+   "end": "323.400",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "In terms of your concern, putting it bluntly, what you're saying is that we defer in cost on the balance sheet to improve profitability."
+   ]
+  },
+  {
+   "begin": "323.400",
+   "children": [],
+   "end": "328.680",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "If I look at the quarter four to quarter one movements, there is no movement in terms of deferred cost."
+   ]
+  },
+  {
+   "begin": "328.680",
+   "children": [],
+   "end": "337.200",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "If I look at the quarter one movement to quarter one last year, we've actually got about 150 million reduction in deferred cost."
+   ]
+  },
+  {
+   "begin": "337.200",
+   "children": [],
+   "end": "342.200",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "So, effectively, the balance sheet is materially stronger than this same time last year."
+   ]
+  },
+  {
+   "begin": "342.200",
+   "children": [],
+   "end": "346.440",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "And if I took it back a further year, you'll see similar sorts of reductions."
+   ]
+  },
+  {
+   "begin": "346.440",
+   "children": [],
+   "end": "352.720",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "So this is not a situation where you've got an overhang on the balance sheet that could lead to potential issues."
+   ]
+  },
+  {
+   "begin": "352.720",
+   "children": [],
+   "end": "353.520",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "A: Okay."
+   ]
+  },
+  {
+   "begin": "353.520",
+   "children": [],
+   "end": "354.160",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "Thanks, Nick."
+   ]
+  },
+  {
+   "begin": "354.160",
+   "children": [],
+   "end": "355.640",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "Q: Okay, that was great."
+   ]
+  },
+  {
+   "begin": "355.640",
+   "children": [],
+   "end": "357.360",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "Thanks very much."
+   ]
+  },
+  {
+   "begin": "357.360",
+   "children": [],
+   "end": "358.280",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "O: Thank you."
+   ]
+  },
+  {
+   "begin": "358.280",
+   "children": [],
+   "end": "361.600",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "The next question is from the line of Robert Grindle from Deutsche Bank."
+   ]
+  },
+  {
+   "begin": "361.600",
+   "children": [],
+   "end": "363.200",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "Please go ahead."
+   ]
+  },
+  {
+   "begin": "363.200",
+   "children": [],
+   "end": "363.880",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "Q: Yeah, good morning."
+   ]
+  },
+  {
+   "begin": "363.880",
+   "children": [],
+   "end": "369.440",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "And as you flagged in in the presentation you've been very successful in winning a large number of BT UK contracts."
+   ]
+  },
+  {
+   "begin": "369.440",
+   "children": [],
+   "end": "374.960",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "Is the CapEx and EBITDA associated with these fully in the new guidance?"
+   ]
+  },
+  {
+   "begin": "374.960",
+   "children": [],
+   "end": "378.520",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "And was it accretive to free cash flow over next couple of years?"
+   ]
+  },
+  {
+   "begin": "378.520",
+   "children": [],
+   "end": "387.560",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "And then, secondly, the UK government appears to have made some progress in re-contracting some of its business, or at least shortlisting suppliers."
+   ]
+  },
+  {
+   "begin": "387.560",
+   "children": [],
+   "end": "390.360",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "Is there any change in your expectation due to all of that?"
+   ]
+  },
+  {
+   "begin": "390.360",
+   "children": [],
+   "end": "393.400",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "It seems very impenetrable."
+   ]
+  },
+  {
+   "begin": "393.400",
+   "children": [],
+   "end": "396.240",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "And when would the process have an impact, if any, at all?"
+   ]
+  },
+  {
+   "begin": "396.240",
+   "children": [],
+   "end": "396.560",
+   "id": "f000082",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "396.560",
+   "children": [],
+   "end": "399.600",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "A: I'll ask Jeff to talk about UK government."
+   ]
+  },
+  {
+   "begin": "399.600",
+   "children": [],
+   "end": "407.360",
+   "id": "f000084",
+   "language": "eng",
+   "lines": [
+    "BT UK, given these long-term investments, it will not - when we're spending the money, it will not be accretive to free cash flow when we start spending it."
+   ]
+  },
+  {
+   "begin": "407.360",
+   "children": [],
+   "end": "417.680",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "It will be - the expectations in terms of cash flow and profitability include the BT UK debts we've got."
+   ]
+  },
+  {
+   "begin": "417.680",
+   "children": [],
+   "end": "431.880",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "Yeah, I think the comment I made before about BT UK, when we talked about the 2.5 billion that we were spending, we contained that with the new overall guidance about 2.6 billion of CapEx."
+   ]
+  },
+  {
+   "begin": "431.880",
+   "children": [],
+   "end": "438.720",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "If we hadn't been involved in BT UK when we finished about two-thirds of the UK, that number would drop quite materially."
+   ]
+  },
+  {
+   "begin": "438.720",
+   "children": [],
+   "end": "443.240",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "Because we are doing BT UK, it is less likely to do so."
+   ]
+  },
+  {
+   "begin": "443.240",
+   "children": [],
+   "end": "446.080",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "And so it will carry on for some more years."
+   ]
+  },
+  {
+   "begin": "446.080",
+   "children": [],
+   "end": "454.480",
+   "id": "f000090",
+   "language": "eng",
+   "lines": [
+    "Probably, if we won all of the BT UK bids, it's a round about 1 billion of our overall money."
+   ]
+  },
+  {
+   "begin": "454.480",
+   "children": [],
+   "end": "460.720",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "And providing over a three-year period or something, isn't that different a sort of rate of expenditure."
+   ]
+  },
+  {
+   "begin": "460.720",
+   "children": [],
+   "end": "466.160",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "It has been a shade less than we're spending on fibre at the moment."
+   ]
+  },
+  {
+   "begin": "466.160",
+   "children": [],
+   "end": "470.280",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "It may change the profile of exactly what we do, but it's contained within the numbers."
+   ]
+  },
+  {
+   "begin": "470.280",
+   "children": [],
+   "end": "482.320",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "It will just mean that the - as we look to some outer years, that we've got a lot more fibre in the UK, which gives us some really good EBITDA opportunities because, of course, once you spend the capital, the EBITDA is there."
+   ]
+  },
+  {
+   "begin": "482.320",
+   "children": [],
+   "end": "496.160",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "And I think you see both in the results in Ireland, for instance, where our EBITDA has grown and also in the Openreach starting to see some of the impact of that coming through."
+   ]
+  },
+  {
+   "begin": "496.160",
+   "children": [],
+   "end": "501.840",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "But now within the overall forecast, we can manage that very nicely."
+   ]
+  },
+  {
+   "begin": "501.840",
+   "children": [],
+   "end": "506.160",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "On UK government renegotiation, Jeff, anything?"
+   ]
+  },
+  {
+   "begin": "506.160",
+   "children": [],
+   "end": "514.240",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "A: Well, I think just a general comment that our revenues are stable year-over-year in our government business."
+   ]
+  },
+  {
+   "begin": "514.240",
+   "children": [],
+   "end": "521.440",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "If you're referencing PSN, I think we've been very robust and proactive with the Canada office."
+   ]
+  },
+  {
+   "begin": "521.440",
+   "children": [],
+   "end": "523.920",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "I think we're positioned very well."
+   ]
+  },
+  {
+   "begin": "523.920",
+   "children": [],
+   "end": "531.320",
+   "id": "f000101",
+   "language": "eng",
+   "lines": [
+    "In March, we were successful in eight of 12 lots there, which positions us well in our core business."
+   ]
+  },
+  {
+   "begin": "531.320",
+   "children": [],
+   "end": "545.920",
+   "id": "f000102",
+   "language": "eng",
+   "lines": [
+    "Yet to be seen on those contracts, but even on our existing contracts, as we do in most of these, we gain PSN compliance agreements, and then move our customers closer to PSN requirements."
+   ]
+  },
+  {
+   "begin": "545.920",
+   "children": [],
+   "end": "549.320",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    "So net-net, it shouldn't change drastically."
+   ]
+  },
+  {
+   "begin": "549.320",
+   "children": [],
+   "end": "552.520",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "We normally compete in this market previously, and we'll continue to do so."
+   ]
+  },
+  {
+   "begin": "552.520",
+   "children": [],
+   "end": "554.440",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "Q: Okay, thanks."
+   ]
+  },
+  {
+   "begin": "554.440",
+   "children": [],
+   "end": "555.480",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "A: Thanks, John."
+   ]
+  },
+  {
+   "begin": "555.480",
+   "children": [],
+   "end": "557.240",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "O: Thank you."
+   ]
+  },
+  {
+   "begin": "557.240",
+   "children": [],
+   "end": "560.280",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "Next question is from the line of Paul Sidney from Credit Suisse."
+   ]
+  },
+  {
+   "begin": "560.280",
+   "children": [],
+   "end": "561.000",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "Please go ahead."
+   ]
+  },
+  {
+   "begin": "561.000",
+   "children": [],
+   "end": "562.920",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "Q: Thank you very much."
+   ]
+  },
+  {
+   "begin": "562.920",
+   "children": [],
+   "end": "564.600",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "Just two quick questions please."
+   ]
+  },
+  {
+   "begin": "564.600",
+   "children": [],
+   "end": "570.800",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "Could you remind us in Global Services the number of large contracts that will be renegotiated the next few years?"
+   ]
+  },
+  {
+   "begin": "570.800",
+   "children": [],
+   "end": "572.920",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "I think you've given us this information in the past."
+   ]
+  },
+  {
+   "begin": "572.920",
+   "children": [],
+   "end": "581.120",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "And maybe just sort of big picture and give us the potential impact of those renegotiations as past both in it the revenue and the cost side."
+   ]
+  },
+  {
+   "begin": "581.120",
+   "children": [],
+   "end": "590.200",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "And the second question, could you just give us a bit more information on the adverse impacts from the weather in the quarter."
+   ]
+  },
+  {
+   "begin": "590.200",
+   "children": [],
+   "end": "602.360",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "Have you seen a lot of pent-up demand coming through the broadband and the line trend reversing in the quarter, so far?"
+   ]
+  },
+  {
+   "begin": "602.360",
+   "children": [],
+   "end": "603.560",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "603.560",
+   "children": [],
+   "end": "608.240",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "A: In this quarter, that we're now in pent-up demand?"
+   ]
+  },
+  {
+   "begin": "608.240",
+   "children": [],
+   "end": "612.000",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "Q: Yes, indeed."
+   ]
+  },
+  {
+   "begin": "612.000",
+   "children": [],
+   "end": "613.440",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "Have you seen sort of..."
+   ]
+  },
+  {
+   "begin": "613.440",
+   "children": [],
+   "end": "616.080",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "A: I'm not allowed to give for the three weeks."
+   ]
+  },
+  {
+   "begin": "616.080",
+   "children": [],
+   "end": "618.760",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "So Q2 we're now in talk about that."
+   ]
+  },
+  {
+   "begin": "618.760",
+   "children": [],
+   "end": "629.240",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "In terms of GS contracts, as we said, there's less than the normal of the existing contracts of the of the very largest contracts coming out for renewal."
+   ]
+  },
+  {
+   "begin": "629.240",
+   "children": [],
+   "end": "639.760",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "But one of the things we meet is that's about renewal date, but you got to add on top of that is we may decide to try to renegotiate some of these earlier."
+   ]
+  },
+  {
+   "begin": "639.760",
+   "children": [],
+   "end": "640.920",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "It will."
+   ]
+  },
+  {
+   "begin": "640.920",
+   "children": [],
+   "end": "646.960",
+   "id": "f000126",
+   "language": "eng",
+   "lines": [
+    "So and I think we would look in a couple of places to do that, and at the same time to lengthen them as well."
+   ]
+  },
+  {
+   "begin": "646.960",
+   "children": [],
+   "end": "665.080",
+   "id": "f000127",
+   "language": "eng",
+   "lines": [
+    "So I think whilst we don't have a huge number of contracts absolutely end, what we were actually trying to do I know with a couple of large contracts proactively extend them well before because a lot of these things it would take a couple of years to change over."
+   ]
+  },
+  {
+   "begin": "665.080",
+   "children": [],
+   "end": "668.960",
+   "id": "f000128",
+   "language": "eng",
+   "lines": [
+    "So it's a good time to negotiate earlier."
+   ]
+  },
+  {
+   "begin": "668.960",
+   "children": [],
+   "end": "673.240",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "But we are comparatively right in contracts that end over the next couple of years."
+   ]
+  },
+  {
+   "begin": "673.240",
+   "children": [],
+   "end": "683.040",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "And it comes up a little bit more in sort of a year after that, but we'll probably do a bit more in terms of that in terms of being things lowered."
+   ]
+  },
+  {
+   "begin": "683.040",
+   "children": [],
+   "end": "689.920",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "So that's - yeah, and that may alter the mix between renewals and existing."
+   ]
+  },
+  {
+   "begin": "689.920",
+   "children": [],
+   "end": "698.680",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "If we don't renew them, the contract volume will be lower than if we do renew them, but the mix will be more towards new."
+   ]
+  },
+  {
+   "begin": "698.680",
+   "children": [],
+   "end": "703.600",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "And so that's just and we'll try and give you that idea as the numbers come through quarter-by-quarter."
+   ]
+  },
+  {
+   "begin": "703.600",
+   "children": [],
+   "end": "704.400",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "Thanks very much."
+   ]
+  },
+  {
+   "begin": "704.400",
+   "children": [],
+   "end": "706.360",
+   "id": "f000135",
+   "language": "eng",
+   "lines": [
+    "Q: Thank you."
+   ]
+  },
+  {
+   "begin": "706.360",
+   "children": [],
+   "end": "708.560",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "O: Thank you."
+   ]
+  },
+  {
+   "begin": "708.560",
+   "children": [],
+   "end": "711.320",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "Next question is from the line of Nick Lyall from UBS."
+   ]
+  },
+  {
+   "begin": "711.320",
+   "children": [],
+   "end": "712.000",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "Please go ahead."
+   ]
+  },
+  {
+   "begin": "712.000",
+   "children": [],
+   "end": "714.080",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "Q: Yeah, morning."
+   ]
+  },
+  {
+   "begin": "714.080",
+   "children": [],
+   "end": "716.000",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "It was two questions, please."
+   ]
+  },
+  {
+   "begin": "716.000",
+   "children": [],
+   "end": "725.480",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "Firstly, on the Global Services cost that you mentioned, I mean, is that enough to actually start to increase margins slightly, or is there's just enough to contain the weaker revenue outlook do you think?"
+   ]
+  },
+  {
+   "begin": "725.480",
+   "children": [],
+   "end": "731.080",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "And then secondly, on the overall group cash flows, you've maintained the 2.3 billion for the year."
+   ]
+  },
+  {
+   "begin": "731.080",
+   "children": [],
+   "end": "736.560",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "Is there any change in the working capital assumptions within the overall 2.3 billion guidance, please?"
+   ]
+  },
+  {
+   "begin": "736.560",
+   "children": [],
+   "end": "736.560",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "736.560",
+   "children": [],
+   "end": "741.320",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "A: Well, I don't think we gave you working capital assumptions in the 2.3 billion guidance."
+   ]
+  },
+  {
+   "begin": "741.320",
+   "children": [],
+   "end": "744.480",
+   "id": "f000146",
+   "language": "eng",
+   "lines": [
+    "So, no, there's no change in terms of us not giving you guidance within that."
+   ]
+  },
+  {
+   "begin": "744.480",
+   "children": [],
+   "end": "746.960",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    "I think I gave you the overall number."
+   ]
+  },
+  {
+   "begin": "746.960",
+   "children": [],
+   "end": "747.880",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "And then..."
+   ]
+  },
+  {
+   "begin": "747.880",
+   "children": [],
+   "end": "761.040",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "Q: I'm just trying to get to get to where that 2.3 billion was more risky because there was no change of issuance, I mean, without knowing what the actual number is."
+   ]
+  },
+  {
+   "begin": "761.040",
+   "children": [],
+   "end": "762.520",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "A: No, no."
+   ]
+  },
+  {
+   "begin": "762.520",
+   "children": [],
+   "end": "766.880",
+   "id": "f000151",
+   "language": "eng",
+   "lines": [
+    "We said there'll be challenges to the working capital in the Global Services."
+   ]
+  },
+  {
+   "begin": "766.880",
+   "children": [],
+   "end": "768.280",
+   "id": "f000152",
+   "language": "eng",
+   "lines": [
+    "We said that was a movement."
+   ]
+  },
+  {
+   "begin": "768.280",
+   "children": [],
+   "end": "772.560",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "So I don't think we commented on the rest of the business."
+   ]
+  },
+  {
+   "begin": "772.560",
+   "children": [],
+   "end": "781.760",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "On GS and EBITDA, I mean, yes, margins will increase in Global - EBITDA margins will increase de facto if we're saying that the EBITDA will increase, and obviously there's revenue pressures."
+   ]
+  },
+  {
+   "begin": "781.760",
+   "children": [],
+   "end": "788.320",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "We need one heck of a turnaround in revenue for the margins not to be increasing in Global Services."
+   ]
+  },
+  {
+   "begin": "788.320",
+   "children": [],
+   "end": "791.160",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "So I think you can take for that EBITDA margins or expect to increase."
+   ]
+  },
+  {
+   "begin": "791.160",
+   "children": [],
+   "end": "792.840",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "It's not long term."
+   ]
+  },
+  {
+   "begin": "792.840",
+   "children": [],
+   "end": "798.160",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "Of course, it's about creating a business that generates the sort of free cash flow a market leader should do."
+   ]
+  },
+  {
+   "begin": "798.160",
+   "children": [],
+   "end": "810.280",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "But we're still - we will have fluctuations annually, and that's why we highlighted in Q4 that we'd expect the working capital to be an outflow, and therefore, bring the free cash flow down for this year."
+   ]
+  },
+  {
+   "begin": "810.280",
+   "children": [],
+   "end": "811.720",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "Thanks very much."
+   ]
+  },
+  {
+   "begin": "811.720",
+   "children": [],
+   "end": "814.720",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "Q: Okay, cheers."
+   ]
+  },
+  {
+   "begin": "814.720",
+   "children": [],
+   "end": "817.080",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "O: Thank you."
+   ]
+  },
+  {
+   "begin": "817.080",
+   "children": [],
+   "end": "824.080",
+   "id": "f000163",
+   "language": "eng",
+   "lines": [
+    "Next question is from the line of Carl Murdock-Smith from JPMorgan Cazenove."
+   ]
+  },
+  {
+   "begin": "824.080",
+   "children": [],
+   "end": "824.640",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "Please go ahead."
+   ]
+  },
+  {
+   "begin": "824.640",
+   "children": [],
+   "end": "828.640",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "Q: Hi, it's mostly a question for Gavin, I suppose."
+   ]
+  },
+  {
+   "begin": "828.640",
+   "children": [],
+   "end": "837.680",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "Just from the mix between Infinity packages, I was just wondering what proportion of Infinity net ads have you seen taking the 18-megabit products?"
+   ]
+  },
+  {
+   "begin": "837.680",
+   "children": [],
+   "end": "839.600",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "839.600",
+   "children": [],
+   "end": "842.600",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "A: I mean, the majority."
+   ]
+  },
+  {
+   "begin": "842.600",
+   "children": [],
+   "end": "844.160",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "It take the higher tier."
+   ]
+  },
+  {
+   "begin": "844.160",
+   "children": [],
+   "end": "850.680",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "So I don't know whether we're - we've given any - I'm getting a shake of the head from my IR friends."
+   ]
+  },
+  {
+   "begin": "850.680",
+   "children": [],
+   "end": "851.960",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "So it is the majority."
+   ]
+  },
+  {
+   "begin": "851.960",
+   "children": [],
+   "end": "853.240",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "Q: Okay, thanks."
+   ]
+  },
+  {
+   "begin": "853.240",
+   "children": [],
+   "end": "863.320",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "Okay, given that was such a concise answer, I'll ask a second."
+   ]
+  },
+  {
+   "begin": "863.320",
+   "children": [],
+   "end": "868.760",
+   "id": "f000174",
+   "language": "eng",
+   "lines": [
+    "Just on the YouView offerings, obviously you talked about launching their offering tomorrow."
+   ]
+  },
+  {
+   "begin": "868.760",
+   "children": [],
+   "end": "875.840",
+   "id": "f000175",
+   "language": "eng",
+   "lines": [
+    "When you do come to launching the bundles in the autumn, are you minded to at the same time also launch YouView within Plusnet bundles?"
+   ]
+  },
+  {
+   "begin": "875.840",
+   "children": [],
+   "end": "885.800",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "A: I don't expect Plusnet to launch in the autumn, but I do expect YouView to be available over Plusnet - over the Plusnet network in the next 12 months."
+   ]
+  },
+  {
+   "begin": "885.800",
+   "children": [],
+   "end": "886.560",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "I'll say that."
+   ]
+  },
+  {
+   "begin": "886.560",
+   "children": [],
+   "end": "889.320",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "Q: That's great, thank you."
+   ]
+  },
+  {
+   "begin": "889.320",
+   "children": [],
+   "end": "890.040",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "A: Cheers."
+   ]
+  },
+  {
+   "begin": "890.040",
+   "children": [],
+   "end": "893.440",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "O: Thank you, next question is from the line of James Britton from Nomura."
+   ]
+  },
+  {
+   "begin": "893.440",
+   "children": [],
+   "end": "894.000",
+   "id": "f000181",
+   "language": "eng",
+   "lines": [
+    "Please go ahead."
+   ]
+  },
+  {
+   "begin": "894.000",
+   "children": [],
+   "end": "896.040",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "Q: Thanks very much."
+   ]
+  },
+  {
+   "begin": "896.040",
+   "children": [],
+   "end": "897.160",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "I've got two questions please."
+   ]
+  },
+  {
+   "begin": "897.160",
+   "children": [],
+   "end": "904.240",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "Firstly, on regulation, how do you interpret the issue statement on MGN and broadband costing methodologies?"
+   ]
+  },
+  {
+   "begin": "904.240",
+   "children": [],
+   "end": "907.920",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "Should we assume flat or increasing on bundling prices in the future?"
+   ]
+  },
+  {
+   "begin": "907.920",
+   "children": [],
+   "end": "915.080",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "And does it make sense for you to do fibre any differently if you're guaranteed full cost recovery on these investments?"
+   ]
+  },
+  {
+   "begin": "915.080",
+   "children": [],
+   "end": "924.320",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "And then secondly, could you just perhaps give us some color on any lumpiness in revenues or cost associated with the Olympics for Q2?"
+   ]
+  },
+  {
+   "begin": "924.320",
+   "children": [],
+   "end": "931.160",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "And would you be able to strip out from an Olympics-related cost to improve Openreach margins in the second half?"
+   ]
+  },
+  {
+   "begin": "931.160",
+   "children": [],
+   "end": "933.120",
+   "id": "f000189",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "933.120",
+   "children": [],
+   "end": "936.280",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "A: All right, and thanks for that."
+   ]
+  },
+  {
+   "begin": "936.280",
+   "children": [],
+   "end": "941.080",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "In terms of the lumpiness, there is some additional cost to do with the Olympics."
+   ]
+  },
+  {
+   "begin": "941.080",
+   "children": [],
+   "end": "947.040",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "It shouldn't be dramatically material, but there will be some additional cost we've got incurred."
+   ]
+  },
+  {
+   "begin": "947.040",
+   "children": [],
+   "end": "957.880",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "And I think some focus in there and certainly - but it won't be enormous, but we'll be able to notice it."
+   ]
+  },
+  {
+   "begin": "957.880",
+   "children": [],
+   "end": "976.320",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "In terms of regulation, I think the thing about - if I understand your question right, the EU announcement on regulation was actually - we're really encouraged about it because what it did is very much brought it into line with what the UK position is."
+   ]
+  },
+  {
+   "begin": "976.320",
+   "children": [],
+   "end": "982.920",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "And I think that's a big movement from where the EU started, which they started a different place."
+   ]
+  },
+  {
+   "begin": "982.920",
+   "children": [],
+   "end": "994.000",
+   "id": "f000196",
+   "language": "eng",
+   "lines": [
+    "And now they've come up and said actually what we look at is cost orientation, non-discrimination, equal access, which is the UK model."
+   ]
+  },
+  {
+   "begin": "994.000",
+   "children": [],
+   "end": "997.480",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "And the reason they came up with that, I believe, is because the UK is succeeding."
+   ]
+  },
+  {
+   "begin": "997.480",
+   "children": [],
+   "end": "1010.720",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "And whilst clearly it wouldn't be mentioned in the UK like this, Europe looked around Europe and decided the UK model works really well in terms of delivering to customers what's required and encouraging investment."
+   ]
+  },
+  {
+   "begin": "1010.720",
+   "children": [],
+   "end": "1012.480",
+   "id": "f000199",
+   "language": "eng",
+   "lines": [
+    "And that's exactly what has happened."
+   ]
+  },
+  {
+   "begin": "1012.480",
+   "children": [],
+   "end": "1015.840",
+   "id": "f000200",
+   "language": "eng",
+   "lines": [
+    "So I think it really - we were very pleased with that."
+   ]
+  },
+  {
+   "begin": "1015.840",
+   "children": [],
+   "end": "1019.000",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    "Olivia, is there anything you want to add to that?"
+   ]
+  },
+  {
+   "begin": "1019.000",
+   "children": [],
+   "end": "1022.960",
+   "id": "f000202",
+   "language": "eng",
+   "lines": [
+    "A: The only thing, I guess - you asked specifically about cost orientation."
+   ]
+  },
+  {
+   "begin": "1022.960",
+   "children": [],
+   "end": "1026.400",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "So I guess as you said previously that it was a wholly cost-oriented model."
+   ]
+  },
+  {
+   "begin": "1026.400",
+   "children": [],
+   "end": "1030.160",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "Prices could go up or could stay the same, I believe."
+   ]
+  },
+  {
+   "begin": "1030.160",
+   "children": [],
+   "end": "1035.760",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "The interesting thing, I think, that came out of the E-1 wasn't a guaranteed cost orientation would be fully recovered."
+   ]
+  },
+  {
+   "begin": "1035.760",
+   "children": [],
+   "end": "1037.000",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "It was a direction of travel."
+   ]
+  },
+  {
+   "begin": "1037.000",
+   "children": [],
+   "end": "1043.920",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "So I think you should just view it's our previous commercial case, and it's now got a strong support across Europe."
+   ]
+  },
+  {
+   "begin": "1043.920",
+   "children": [],
+   "end": "1047.240",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "A: Was there another question, James, to it?"
+   ]
+  },
+  {
+   "begin": "1047.240",
+   "children": [],
+   "end": "1049.160",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "Q: No."
+   ]
+  },
+  {
+   "begin": "1049.160",
+   "children": [],
+   "end": "1053.800",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "A: No, that was it?"
+   ]
+  },
+  {
+   "begin": "1053.800",
+   "children": [],
+   "end": "1054.800",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "We've done it."
+   ]
+  },
+  {
+   "begin": "1054.800",
+   "children": [],
+   "end": "1066.440",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "Q: On the Olympic side, I guess I was just wondering whether or not the cost will fall out after the Olympics, and actually you'll be able to reach margins having a lift within the year?"
+   ]
+  },
+  {
+   "begin": "1066.440",
+   "children": [],
+   "end": "1068.240",
+   "id": "f000213",
+   "language": "eng",
+   "lines": [
+    "A: No, no, no."
+   ]
+  },
+  {
+   "begin": "1068.240",
+   "children": [],
+   "end": "1069.240",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "No, no, no."
+   ]
+  },
+  {
+   "begin": "1069.240",
+   "children": [],
+   "end": "1069.560",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "No lift."
+   ]
+  },
+  {
+   "begin": "1069.560",
+   "children": [],
+   "end": "1073.480",
+   "id": "f000216",
+   "language": "eng",
+   "lines": [
+    "Will resume her normal cost reduction plans, her reasonable reduction plans."
+   ]
+  },
+  {
+   "begin": "1073.480",
+   "children": [],
+   "end": "1078.080",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "But, no, you won't see an impact in terms of in Openreach in that terms."
+   ]
+  },
+  {
+   "begin": "1078.080",
+   "children": [],
+   "end": "1082.720",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "I think actually more of the impact might be you see a bit - things like advertising and marketing and things like that."
+   ]
+  },
+  {
+   "begin": "1082.720",
+   "children": [],
+   "end": "1084.560",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "It's not going to be an Openreach thing."
+   ]
+  },
+  {
+   "begin": "1084.560",
+   "children": [],
+   "end": "1086.360",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "A: We've been delivering it for two years."
+   ]
+  },
+  {
+   "begin": "1086.360",
+   "children": [],
+   "end": "1087.720",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "So it's an ongoing delivery."
+   ]
+  },
+  {
+   "begin": "1087.720",
+   "children": [],
+   "end": "1088.440",
+   "id": "f000222",
+   "language": "eng",
+   "lines": [
+    "A: Yeah."
+   ]
+  },
+  {
+   "begin": "1088.440",
+   "children": [],
+   "end": "1099.920",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "Believe me, if the sockets aren't in now, we are a little bit in trouble, given the first Olympic game starts today in women's football, I think, in Cardiff and somewhere else."
+   ]
+  },
+  {
+   "begin": "1099.920",
+   "children": [],
+   "end": "1102.720",
+   "id": "f000224",
+   "language": "eng",
+   "lines": [
+    "Coventry, apparently, as well."
+   ]
+  },
+  {
+   "begin": "1102.720",
+   "children": [],
+   "end": "1103.600",
+   "id": "f000225",
+   "language": "eng",
+   "lines": [
+    "Q: Great."
+   ]
+  },
+  {
+   "begin": "1103.600",
+   "children": [],
+   "end": "1106.160",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "Enjoy [indiscernible] ."
+   ]
+  },
+  {
+   "begin": "1106.160",
+   "children": [],
+   "end": "1107.040",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "1107.040",
+   "children": [],
+   "end": "1108.800",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "A: Cheers."
+   ]
+  },
+  {
+   "begin": "1108.800",
+   "children": [],
+   "end": "1114.160",
+   "id": "f000229",
+   "language": "eng",
+   "lines": [
+    "O: Moving on to the next question, is from the line of Simon Weeden from Citigroup."
+   ]
+  },
+  {
+   "begin": "1114.160",
+   "children": [],
+   "end": "1114.760",
+   "id": "f000230",
+   "language": "eng",
+   "lines": [
+    "Please, go ahead."
+   ]
+  },
+  {
+   "begin": "1114.760",
+   "children": [],
+   "end": "1118.320",
+   "id": "f000231",
+   "language": "eng",
+   "lines": [
+    "Q: Yes, thank you very much, just one question, if I may."
+   ]
+  },
+  {
+   "begin": "1118.320",
+   "children": [],
+   "end": "1121.720",
+   "id": "f000232",
+   "language": "eng",
+   "lines": [
+    "And that is on the impacts to the MTR cuts during the quarter."
+   ]
+  },
+  {
+   "begin": "1121.720",
+   "children": [],
+   "end": "1130.840",
+   "id": "f000233",
+   "language": "eng",
+   "lines": [
+    "Could you give us a view or a number for - rough number for the impact on the cost base as the later status MTR reductions?"
+   ]
+  },
+  {
+   "begin": "1130.840",
+   "children": [],
+   "end": "1136.320",
+   "id": "f000234",
+   "language": "eng",
+   "lines": [
+    "And whether or not you think in due course you'll be obliged to pass some or all of that on?"
+   ]
+  },
+  {
+   "begin": "1136.320",
+   "children": [],
+   "end": "1137.160",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "1137.160",
+   "children": [],
+   "end": "1143.080",
+   "id": "f000236",
+   "language": "eng",
+   "lines": [
+    "A: What we - I'll ask Gavin about passing on."
+   ]
+  },
+  {
+   "begin": "1143.080",
+   "children": [],
+   "end": "1148.680",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "I think we are looking to use it to - we would up to now, passed - pass the cost straight on."
+   ]
+  },
+  {
+   "begin": "1148.680",
+   "children": [],
+   "end": "1156.160",
+   "id": "f000238",
+   "language": "eng",
+   "lines": [
+    "I think now, we'll look more and more to put in the packages to really encourage people to make more calls from the fixed line to the mobile."
+   ]
+  },
+  {
+   "begin": "1156.160",
+   "children": [],
+   "end": "1157.240",
+   "id": "f000239",
+   "language": "eng",
+   "lines": [
+    "And I think that's the way."
+   ]
+  },
+  {
+   "begin": "1157.240",
+   "children": [],
+   "end": "1160.640",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "We do give a number, of course, for ex-transit and MTRs."
+   ]
+  },
+  {
+   "begin": "1160.640",
+   "children": [],
+   "end": "1163.920",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "And within that, we give the MTR number."
+   ]
+  },
+  {
+   "begin": "1163.920",
+   "children": [],
+   "end": "1167.000",
+   "id": "f000242",
+   "language": "eng",
+   "lines": [
+    "And that - it's a big number in the quarter."
+   ]
+  },
+  {
+   "begin": "1167.000",
+   "children": [],
+   "end": "1169.680",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "And - but Gavin, do you want to talk about -"
+   ]
+  },
+  {
+   "begin": "1169.680",
+   "children": [],
+   "end": "1171.320",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "A: No, I think..."
+   ]
+  },
+  {
+   "begin": "1171.320",
+   "children": [],
+   "end": "1173.720",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "A: - passing them on and the outstandingly [indiscernible] -"
+   ]
+  },
+  {
+   "begin": "1173.720",
+   "children": [],
+   "end": "1174.520",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "A: Yeah, I know."
+   ]
+  },
+  {
+   "begin": "1174.520",
+   "children": [],
+   "end": "1175.160",
+   "id": "f000247",
+   "language": "eng",
+   "lines": [
+    "I think -"
+   ]
+  },
+  {
+   "begin": "1175.160",
+   "children": [],
+   "end": "1176.440",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "A: - prices you have."
+   ]
+  },
+  {
+   "begin": "1176.440",
+   "children": [],
+   "end": "1179.720",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "A: I mean, we passed them on to-date, as Ian says."
+   ]
+  },
+  {
+   "begin": "1179.720",
+   "children": [],
+   "end": "1195.280",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "And going forward, I think the lower MTRs give us the scope to introduce more innovative propositions, particularly our own on unlimited-type packages or cap-type packages."
+   ]
+  },
+  {
+   "begin": "1195.280",
+   "children": [],
+   "end": "1200.120",
+   "id": "f000251",
+   "language": "eng",
+   "lines": [
+    "So I'm not going to announce it today, but that's the sort of direction we're looking at going forward."
+   ]
+  },
+  {
+   "begin": "1200.120",
+   "children": [],
+   "end": "1202.000",
+   "id": "f000252",
+   "language": "eng",
+   "lines": [
+    "A: Okay."
+   ]
+  },
+  {
+   "begin": "1202.000",
+   "children": [],
+   "end": "1203.040",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "Thanks very much."
+   ]
+  },
+  {
+   "begin": "1203.040",
+   "children": [],
+   "end": "1205.720",
+   "id": "f000254",
+   "language": "eng",
+   "lines": [
+    "Next question please."
+   ]
+  },
+  {
+   "begin": "1205.720",
+   "children": [],
+   "end": "1206.160",
+   "id": "f000255",
+   "language": "eng",
+   "lines": [
+    "O: Thank you."
+   ]
+  },
+  {
+   "begin": "1206.160",
+   "children": [],
+   "end": "1208.360",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "It's from the line of Michael Bishop from Barclays."
+   ]
+  },
+  {
+   "begin": "1208.360",
+   "children": [],
+   "end": "1209.000",
+   "id": "f000257",
+   "language": "eng",
+   "lines": [
+    "Please go ahead."
+   ]
+  },
+  {
+   "begin": "1209.000",
+   "children": [],
+   "end": "1211.760",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "Q: Hi, good morning."
+   ]
+  },
+  {
+   "begin": "1211.760",
+   "children": [],
+   "end": "1213.400",
+   "id": "f000259",
+   "language": "eng",
+   "lines": [
+    "Just two questions, please."
+   ]
+  },
+  {
+   "begin": "1213.400",
+   "children": [],
+   "end": "1219.560",
+   "id": "f000260",
+   "language": "eng",
+   "lines": [
+    "Firstly on TV, it seems like you have some two solutions coming up, obviously, YouView and the new Vision 2 box."
+   ]
+  },
+  {
+   "begin": "1219.560",
+   "children": [],
+   "end": "1227.200",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "So I was just keen to get your thoughts around how will you decide which ones to promote and when and into which customer base?"
+   ]
+  },
+  {
+   "begin": "1227.200",
+   "children": [],
+   "end": "1230.920",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "And then I guess another question on retail, following up from Carl's."
+   ]
+  },
+  {
+   "begin": "1230.920",
+   "children": [],
+   "end": "1241.280",
+   "id": "f000263",
+   "language": "eng",
+   "lines": [
+    "Just on the fibre gross ads, VMED yesterday were trying to essentially imply that most of your fibre gross ads were just up-sell, as opposed to new retail subs."
+   ]
+  },
+  {
+   "begin": "1241.280",
+   "children": [],
+   "end": "1245.240",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "So I'd like to get your thoughts on that, given the strong adds in the quarter?"
+   ]
+  },
+  {
+   "begin": "1245.240",
+   "children": [],
+   "end": "1245.320",
+   "id": "f000265",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "1245.320",
+   "children": [],
+   "end": "1251.240",
+   "id": "f000266",
+   "language": "eng",
+   "lines": [
+    "A: Well, I think you just - in answer to the second question, I think you almost asked and answered it yourself."
+   ]
+  },
+  {
+   "begin": "1251.240",
+   "children": [],
+   "end": "1264.560",
+   "id": "f000267",
+   "language": "eng",
+   "lines": [
+    "Which is, look, I know VMED in their presentations do like to talk about how well they're doing and how people providing it through on the BT network aren't doing well."
+   ]
+  },
+  {
+   "begin": "1264.560",
+   "children": [],
+   "end": "1274.960",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "Looking at the net numbers, I mean, that's - I mean we can debate about how much we're adding in market three areas , which is we're doing very well."
+   ]
+  },
+  {
+   "begin": "1274.960",
+   "children": [],
+   "end": "1277.560",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "Where we've got fibre, we see much higher growth."
+   ]
+  },
+  {
+   "begin": "1277.560",
+   "children": [],
+   "end": "1285.120",
+   "id": "f000270",
+   "language": "eng",
+   "lines": [
+    "And this is a comment I've made a number of times, where we've got a much higher broadband growth where we've got fibre than where we don't."
+   ]
+  },
+  {
+   "begin": "1285.120",
+   "children": [],
+   "end": "1290.520",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "And the net result as you say, we've added 85,000 broadband customers."
+   ]
+  },
+  {
+   "begin": "1290.520",
+   "children": [],
+   "end": "1296.720",
+   "id": "f000272",
+   "language": "eng",
+   "lines": [
+    "I think VMED lost net 10,000 of their on-net customers."
+   ]
+  },
+  {
+   "begin": "1296.720",
+   "children": [],
+   "end": "1306.480",
+   "id": "f000273",
+   "language": "eng",
+   "lines": [
+    "So it's - to be honest that's really, they're not really the discussion point in terms of market growth, as has been for a number of quarters."
+   ]
+  },
+  {
+   "begin": "1306.480",
+   "children": [],
+   "end": "1313.240",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "I don't think it's going to change, that Sky have - and BT have accounted for over 100% of the market."
+   ]
+  },
+  {
+   "begin": "1313.240",
+   "children": [],
+   "end": "1315.880",
+   "id": "f000275",
+   "language": "eng",
+   "lines": [
+    "And unless Sky come out with their numbers."
+   ]
+  },
+  {
+   "begin": "1315.880",
+   "children": [],
+   "end": "1318.360",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "But certainly that's been the position for a number of quarters."
+   ]
+  },
+  {
+   "begin": "1318.360",
+   "children": [],
+   "end": "1322.680",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "And I mean that's where the intensity of the battle is."
+   ]
+  },
+  {
+   "begin": "1322.680",
+   "children": [],
+   "end": "1327.280",
+   "id": "f000278",
+   "language": "eng",
+   "lines": [
+    "And the rest of the market have been net contributors to there."
+   ]
+  },
+  {
+   "begin": "1327.280",
+   "children": [],
+   "end": "1330.520",
+   "id": "f000279",
+   "language": "eng",
+   "lines": [
+    "We're fighting very hard in the marketplace."
+   ]
+  },
+  {
+   "begin": "1330.520",
+   "children": [],
+   "end": "1331.600",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "But Gavin -"
+   ]
+  },
+  {
+   "begin": "1331.600",
+   "children": [],
+   "end": "1336.680",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "A: Just a comment on the two platforms, YouView and Vision 2.0."
+   ]
+  },
+  {
+   "begin": "1336.680",
+   "children": [],
+   "end": "1343.720",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "Of course, the Vision 2.0 portal will feature within our YouView proposition."
+   ]
+  },
+  {
+   "begin": "1343.720",
+   "children": [],
+   "end": "1349.480",
+   "id": "f000283",
+   "language": "eng",
+   "lines": [
+    "And ultimately the two will completely converge into a single proposition later next year."
+   ]
+  },
+  {
+   "begin": "1349.480",
+   "children": [],
+   "end": "1360.160",
+   "id": "f000284",
+   "language": "eng",
+   "lines": [
+    "The key for us is getting IP channels, linear channels available on YouView, and we're working with a venture to make sure that's part of the proposition next year."
+   ]
+  },
+  {
+   "begin": "1360.160",
+   "children": [],
+   "end": "1361.440",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "And I think that's the point they all come together."
+   ]
+  },
+  {
+   "begin": "1361.440",
+   "children": [],
+   "end": "1363.400",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "Q: Okay, thanks."
+   ]
+  },
+  {
+   "begin": "1363.400",
+   "children": [],
+   "end": "1364.440",
+   "id": "f000287",
+   "language": "eng",
+   "lines": [
+    "A: Next question."
+   ]
+  },
+  {
+   "begin": "1364.440",
+   "children": [],
+   "end": "1368.640",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "O: Okay, next question is from the line of Jerry Dellis from Jefferies."
+   ]
+  },
+  {
+   "begin": "1368.640",
+   "children": [],
+   "end": "1369.440",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "Please go ahead."
+   ]
+  },
+  {
+   "begin": "1369.440",
+   "children": [],
+   "end": "1371.200",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "Q: Yes, good morning."
+   ]
+  },
+  {
+   "begin": "1371.200",
+   "children": [],
+   "end": "1371.840",
+   "id": "f000291",
+   "language": "eng",
+   "lines": [
+    "Two questions please."
+   ]
+  },
+  {
+   "begin": "1371.840",
+   "children": [],
+   "end": "1379.880",
+   "id": "f000292",
+   "language": "eng",
+   "lines": [
+    "Firstly, on Global Services, I think you've got quite a lot of capital invested in the large businesses in southern Europe, particularly in Italy."
+   ]
+  },
+  {
+   "begin": "1379.880",
+   "children": [],
+   "end": "1389.240",
+   "id": "f000293",
+   "language": "eng",
+   "lines": [
+    "Given that the southern European outlook could be depressed for quite a long time, I wonder if you could talk about the rationale for keeping capital tied up here?"
+   ]
+  },
+  {
+   "begin": "1389.240",
+   "children": [],
+   "end": "1393.440",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "Is there a scope perhaps to sort of reinvest in high growth markets?"
+   ]
+  },
+  {
+   "begin": "1393.440",
+   "children": [],
+   "end": "1398.280",
+   "id": "f000295",
+   "language": "eng",
+   "lines": [
+    "Or is there a strong business reason for maintaining that southern European presence?"
+   ]
+  },
+  {
+   "begin": "1398.280",
+   "children": [],
+   "end": "1403.880",
+   "id": "f000296",
+   "language": "eng",
+   "lines": [
+    "And then the second question is just to do with the second-half revenue outlook."
+   ]
+  },
+  {
+   "begin": "1403.880",
+   "children": [],
+   "end": "1417.520",
+   "id": "f000297",
+   "language": "eng",
+   "lines": [
+    "Given that I guess things look a little bit harder at the H1 stage, is hitting your guidance now I guess putting more pressure on retail perhaps to deliver in the second half than was previously the case?"
+   ]
+  },
+  {
+   "begin": "1417.520",
+   "children": [],
+   "end": "1418.040",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "1418.040",
+   "children": [],
+   "end": "1427.840",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "A: Well, I can tell you as I look around the table, when you said put more pressure on Retail - Wholesale, GS and Openreach immediately smiled."
+   ]
+  },
+  {
+   "begin": "1427.840",
+   "children": [],
+   "end": "1430.600",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "I pointed to Gavin."
+   ]
+  },
+  {
+   "begin": "1430.600",
+   "children": [],
+   "end": "1435.080",
+   "id": "f000301",
+   "language": "eng",
+   "lines": [
+    "No, they all have lots of pressure on them to deliver."
+   ]
+  },
+  {
+   "begin": "1435.080",
+   "children": [],
+   "end": "1436.280",
+   "id": "f000302",
+   "language": "eng",
+   "lines": [
+    "That's not going to change."
+   ]
+  },
+  {
+   "begin": "1436.280",
+   "children": [],
+   "end": "1438.680",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "I mean, look, the economic conditions do make it more difficult."
+   ]
+  },
+  {
+   "begin": "1438.680",
+   "children": [],
+   "end": "1440.720",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "There's no question about that."
+   ]
+  },
+  {
+   "begin": "1440.720",
+   "children": [],
+   "end": "1450.840",
+   "id": "f000305",
+   "language": "eng",
+   "lines": [
+    "I think - whilst we didn't expect any massive upturn, I think we didn't expect Europe to be effectively lurching from crisis to crisis."
+   ]
+  },
+  {
+   "begin": "1450.840",
+   "children": [],
+   "end": "1452.800",
+   "id": "f000306",
+   "language": "eng",
+   "lines": [
+    "That's not good for decision-making."
+   ]
+  },
+  {
+   "begin": "1452.800",
+   "children": [],
+   "end": "1456.680",
+   "id": "f000307",
+   "language": "eng",
+   "lines": [
+    "Decision-making is the key thing, for instance, for large contracts."
+   ]
+  },
+  {
+   "begin": "1456.680",
+   "children": [],
+   "end": "1466.800",
+   "id": "f000308",
+   "language": "eng",
+   "lines": [
+    "And people are, frankly, just taking - let's not do anything for the meantime, particularly in - whether it's about technology refreshers."
+   ]
+  },
+  {
+   "begin": "1466.800",
+   "children": [],
+   "end": "1468.320",
+   "id": "f000309",
+   "language": "eng",
+   "lines": [
+    "It's large, transformational things."
+   ]
+  },
+  {
+   "begin": "1468.320",
+   "children": [],
+   "end": "1472.520",
+   "id": "f000310",
+   "language": "eng",
+   "lines": [
+    "People are just uncertain, and that's not good for the economy."
+   ]
+  },
+  {
+   "begin": "1472.520",
+   "children": [],
+   "end": "1477.160",
+   "id": "f000311",
+   "language": "eng",
+   "lines": [
+    "In terms of the capital, I mean, there's two reasons why the answer to your question is no."
+   ]
+  },
+  {
+   "begin": "1477.160",
+   "children": [],
+   "end": "1481.760",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "We are not going to withdraw any capital."
+   ]
+  },
+  {
+   "begin": "1481.760",
+   "children": [],
+   "end": "1484.760",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    "One is that, yeah, we make money there."
+   ]
+  },
+  {
+   "begin": "1484.760",
+   "children": [],
+   "end": "1490.280",
+   "id": "f000314",
+   "language": "eng",
+   "lines": [
+    "It might be a more difficult market, but we've got to step up, and we do better if we make money."
+   ]
+  },
+  {
+   "begin": "1490.280",
+   "children": [],
+   "end": "1492.080",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "And also, the customers."
+   ]
+  },
+  {
+   "begin": "1492.080",
+   "children": [],
+   "end": "1494.760",
+   "id": "f000316",
+   "language": "eng",
+   "lines": [
+    "A lot of these about serving global customers."
+   ]
+  },
+  {
+   "begin": "1494.760",
+   "children": [],
+   "end": "1499.640",
+   "id": "f000317",
+   "language": "eng",
+   "lines": [
+    "And if you look at someone like for instance, Fiat in Italy, they are doing really well on a global basis."
+   ]
+  },
+  {
+   "begin": "1499.640",
+   "children": [],
+   "end": "1503.600",
+   "id": "f000318",
+   "language": "eng",
+   "lines": [
+    "South America is growing very strongly for them."
+   ]
+  },
+  {
+   "begin": "1503.600",
+   "children": [],
+   "end": "1512.400",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "And we have a number of these very large, global customers that we do service from these markets."
+   ]
+  },
+  {
+   "begin": "1512.400",
+   "children": [],
+   "end": "1516.280",
+   "id": "f000320",
+   "language": "eng",
+   "lines": [
+    "And economies turn down for a little time."
+   ]
+  },
+  {
+   "begin": "1516.280",
+   "children": [],
+   "end": "1520.920",
+   "id": "f000321",
+   "language": "eng",
+   "lines": [
+    "But we're not in this market for three months or six months or a couple of years."
+   ]
+  },
+  {
+   "begin": "1520.920",
+   "children": [],
+   "end": "1522.760",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "We're in there very much the long term."
+   ]
+  },
+  {
+   "begin": "1522.760",
+   "children": [],
+   "end": "1537.400",
+   "id": "f000323",
+   "language": "eng",
+   "lines": [
+    "So now what we've got to do is - and this is true across our Global Services business - is effectively do the sort of transformation we've done in some of the other parts of business because of the environment we're in."
+   ]
+  },
+  {
+   "begin": "1537.400",
+   "children": [],
+   "end": "1543.200",
+   "id": "f000324",
+   "language": "eng",
+   "lines": [
+    "And yes, of course, our investment will be focused more on the fast-growing economies."
+   ]
+  },
+  {
+   "begin": "1543.200",
+   "children": [],
+   "end": "1544.360",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "That does make sense."
+   ]
+  },
+  {
+   "begin": "1544.360",
+   "children": [],
+   "end": "1547.560",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "That absolutely makes sense."
+   ]
+  },
+  {
+   "begin": "1547.560",
+   "children": [],
+   "end": "1554.880",
+   "id": "f000327",
+   "language": "eng",
+   "lines": [
+    "And we're not - the nature of our businesses across Europe isn't particularly capital-intensive."
+   ]
+  },
+  {
+   "begin": "1554.880",
+   "children": [],
+   "end": "1558.480",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "We're not putting in massive amounts of new network and things like that."
+   ]
+  },
+  {
+   "begin": "1558.480",
+   "children": [],
+   "end": "1559.880",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "We've got networks there."
+   ]
+  },
+  {
+   "begin": "1559.880",
+   "children": [],
+   "end": "1561.000",
+   "id": "f000330",
+   "language": "eng",
+   "lines": [
+    "We're operating them."
+   ]
+  },
+  {
+   "begin": "1561.000",
+   "children": [],
+   "end": "1567.520",
+   "id": "f000331",
+   "language": "eng",
+   "lines": [
+    "We'll - if we see something that's going to give us a much better result, we are prepared to put in some additional funds."
+   ]
+  },
+  {
+   "begin": "1567.520",
+   "children": [],
+   "end": "1570.320",
+   "id": "f000332",
+   "language": "eng",
+   "lines": [
+    "But they're not hugely capital-intensive in the scheme of things."
+   ]
+  },
+  {
+   "begin": "1570.320",
+   "children": [],
+   "end": "1572.400",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "Q: Thank you."
+   ]
+  },
+  {
+   "begin": "1572.400",
+   "children": [],
+   "end": "1574.520",
+   "id": "f000334",
+   "language": "eng",
+   "lines": [
+    "O: Thank you."
+   ]
+  },
+  {
+   "begin": "1574.520",
+   "children": [],
+   "end": "1577.800",
+   "id": "f000335",
+   "language": "eng",
+   "lines": [
+    "Our next question is from the line of Steve Malcolm from Arete Research."
+   ]
+  },
+  {
+   "begin": "1577.800",
+   "children": [],
+   "end": "1578.520",
+   "id": "f000336",
+   "language": "eng",
+   "lines": [
+    "Please go ahead."
+   ]
+  },
+  {
+   "begin": "1578.520",
+   "children": [],
+   "end": "1579.240",
+   "id": "f000337",
+   "language": "eng",
+   "lines": [
+    "Q: Yeah."
+   ]
+  },
+  {
+   "begin": "1579.240",
+   "children": [],
+   "end": "1583.520",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "Morning, guys."
+   ]
+  },
+  {
+   "begin": "1583.520",
+   "children": [],
+   "end": "1585.200",
+   "id": "f000339",
+   "language": "eng",
+   "lines": [
+    "So I'm good for a couple."
+   ]
+  },
+  {
+   "begin": "1585.200",
+   "children": [],
+   "end": "1597.320",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "First, on the Infinity uptake, can you just give me an idea of how much - what the contribution from improved provisioning was?"
+   ]
+  },
+  {
+   "begin": "1597.320",
+   "children": [],
+   "end": "1601.840",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "And what the contribution from increase demand was?"
+   ]
+  },
+  {
+   "begin": "1601.840",
+   "children": [],
+   "end": "1610.280",
+   "id": "f000342",
+   "language": "eng",
+   "lines": [
+    "And sort of taking up from 100,000 to 150,000 in the quarter?"
+   ]
+  },
+  {
+   "begin": "1610.280",
+   "children": [],
+   "end": "1613.680",
+   "id": "f000343",
+   "language": "eng",
+   "lines": [
+    "And then secondly on BT UK, it looks like you had pretty good success there."
+   ]
+  },
+  {
+   "begin": "1613.680",
+   "children": [],
+   "end": "1616.000",
+   "id": "f000344",
+   "language": "eng",
+   "lines": [
+    "I know you've always said in the past, you don't expect to win all the contracts."
+   ]
+  },
+  {
+   "begin": "1616.000",
+   "children": [],
+   "end": "1616.600",
+   "id": "f000345",
+   "language": "eng",
+   "lines": [
+    "I'm sure you won't."
+   ]
+  },
+  {
+   "begin": "1616.600",
+   "children": [],
+   "end": "1621.800",
+   "id": "f000346",
+   "language": "eng",
+   "lines": [
+    "But is one of the potential upshots of a weak economy that you're seeing a little less competition in some of these tenders?"
+   ]
+  },
+  {
+   "begin": "1621.800",
+   "children": [],
+   "end": "1624.000",
+   "id": "f000347",
+   "language": "eng",
+   "lines": [
+    "And you may win a few more of them than you had originally anticipated?"
+   ]
+  },
+  {
+   "begin": "1624.000",
+   "children": [],
+   "end": "1625.560",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "Or are you very much where you thought you'd be at this stage?"
+   ]
+  },
+  {
+   "begin": "1625.560",
+   "children": [],
+   "end": "1626.360",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "1626.360",
+   "children": [],
+   "end": "1630.200",
+   "id": "f000350",
+   "language": "eng",
+   "lines": [
+    "A: Well, I think on the tenders, I mean, to be honest, I don't think it's the economy."
+   ]
+  },
+  {
+   "begin": "1630.200",
+   "children": [],
+   "end": "1634.240",
+   "id": "f000351",
+   "language": "eng",
+   "lines": [
+    "I think there's been a number of people who made bold statements, and we're left now with Fujitsu and BT."
+   ]
+  },
+  {
+   "begin": "1634.240",
+   "children": [],
+   "end": "1648.040",
+   "id": "f000352",
+   "language": "eng",
+   "lines": [
+    "And if you look back, if I had a pound for every time I hear that there's someone who's going to transform the UK environment for fibre through massive investment, and then never turns up when it comes to buying their round - it just - people just don't follow through because they realize, when they look at it, actually this is quite difficult."
+   ]
+  },
+  {
+   "begin": "1648.040",
+   "children": [],
+   "end": "1650.160",
+   "id": "f000353",
+   "language": "eng",
+   "lines": [
+    "You need to have - it's a long-term investment."
+   ]
+  },
+  {
+   "begin": "1650.160",
+   "children": [],
+   "end": "1654.200",
+   "id": "f000354",
+   "language": "eng",
+   "lines": [
+    "They haven't gotten - to actually industrialize this takes a long time."
+   ]
+  },
+  {
+   "begin": "1654.200",
+   "children": [],
+   "end": "1656.840",
+   "id": "f000355",
+   "language": "eng",
+   "lines": [
+    "And we started this in 2008."
+   ]
+  },
+  {
+   "begin": "1656.840",
+   "children": [],
+   "end": "1662.840",
+   "id": "f000356",
+   "language": "eng",
+   "lines": [
+    "And in the - it took us a year to plan it, a year to test it, and a year to industrialize it."
+   ]
+  },
+  {
+   "begin": "1662.840",
+   "children": [],
+   "end": "1668.080",
+   "id": "f000357",
+   "language": "eng",
+   "lines": [
+    "And where people are from a standing start makes it very difficult."
+   ]
+  },
+  {
+   "begin": "1668.080",
+   "children": [],
+   "end": "1673.880",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "And it's not just - a lot of people think it's the physical putting in of the fibre, which is difficult enough."
+   ]
+  },
+  {
+   "begin": "1673.880",
+   "children": [],
+   "end": "1680.800",
+   "id": "f000359",
+   "language": "eng",
+   "lines": [
+    "It's the systems that particularly that go around it, getting the base of wholesale customers and selling to a wide range of people."
+   ]
+  },
+  {
+   "begin": "1680.800",
+   "children": [],
+   "end": "1683.280",
+   "id": "f000360",
+   "language": "eng",
+   "lines": [
+    "And that's something that we are expert in."
+   ]
+  },
+  {
+   "begin": "1683.280",
+   "children": [],
+   "end": "1685.280",
+   "id": "f000361",
+   "language": "eng",
+   "lines": [
+    "So we're very pleased with how we've done so far."
+   ]
+  },
+  {
+   "begin": "1685.280",
+   "children": [],
+   "end": "1687.800",
+   "id": "f000362",
+   "language": "eng",
+   "lines": [
+    "We're competing very hard for these contracts."
+   ]
+  },
+  {
+   "begin": "1687.800",
+   "children": [],
+   "end": "1694.400",
+   "id": "f000363",
+   "language": "eng",
+   "lines": [
+    "I still don't believe we'll win all of them, but I believe where we win, we'll do a really good job."
+   ]
+  },
+  {
+   "begin": "1694.400",
+   "children": [],
+   "end": "1697.960",
+   "id": "f000364",
+   "language": "eng",
+   "lines": [
+    "And I think the proof in the pudding is just how well we're doing."
+   ]
+  },
+  {
+   "begin": "1697.960",
+   "children": [],
+   "end": "1702.280",
+   "id": "f000365",
+   "language": "eng",
+   "lines": [
+    "In terms of the uptick in Infinity net adds, actually it's quite the opposite."
+   ]
+  },
+  {
+   "begin": "1702.280",
+   "children": [],
+   "end": "1709.440",
+   "id": "f000366",
+   "language": "eng",
+   "lines": [
+    "It's actually - we've been provisioned and we've actually had provision resource moving to repair."
+   ]
+  },
+  {
+   "begin": "1709.440",
+   "children": [],
+   "end": "1713.080",
+   "id": "f000367",
+   "language": "eng",
+   "lines": [
+    "So actually, it would have been a bit better had that not happened."
+   ]
+  },
+  {
+   "begin": "1713.080",
+   "children": [],
+   "end": "1724.640",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "So compared to - we came out of Q4 just generally - this isn't just for Infinity, because it applies all across our business with - actually, our repair book's in really good shape."
+   ]
+  },
+  {
+   "begin": "1724.640",
+   "children": [],
+   "end": "1726.040",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "Our provision lead times are in really good shape."
+   ]
+  },
+  {
+   "begin": "1726.040",
+   "children": [],
+   "end": "1738.480",
+   "id": "f000370",
+   "language": "eng",
+   "lines": [
+    "And what's happened during the course of this quarter, and particularly in May, June and even now, is we've had a huge number of repairs demand because of very, very wet weather, and also quite a lot of wind, as well."
+   ]
+  },
+  {
+   "begin": "1738.480",
+   "children": [],
+   "end": "1740.800",
+   "id": "f000371",
+   "language": "eng",
+   "lines": [
+    "And we just have to divert resources."
+   ]
+  },
+  {
+   "begin": "1740.800",
+   "children": [],
+   "end": "1745.720",
+   "id": "f000372",
+   "language": "eng",
+   "lines": [
+    "So we've actually got a bigger backlog in provision going into - going out of this quarter than we started."
+   ]
+  },
+  {
+   "begin": "1745.720",
+   "children": [],
+   "end": "1750.960",
+   "id": "f000373",
+   "language": "eng",
+   "lines": [
+    "Q: And on that point, Ian, can you just give us an idea on where you think you can get to, in terms of sort of maximum provision capabilities?"
+   ]
+  },
+  {
+   "begin": "1750.960",
+   "children": [],
+   "end": "1759.240",
+   "id": "f000374",
+   "language": "eng",
+   "lines": [
+    "I guess it's going to take some time for fibre to meet DSL volumes and what you can deliver because it's a self-install."
+   ]
+  },
+  {
+   "begin": "1759.240",
+   "children": [],
+   "end": "1763.920",
+   "id": "f000375",
+   "language": "eng",
+   "lines": [
+    "But where are you on the journey at the moment, in terms of reaching maximum?"
+   ]
+  },
+  {
+   "begin": "1763.920",
+   "children": [],
+   "end": "1773.280",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "A: Well, we are recruiting more - I mean, I think, importantly, we are recruiting more staff."
+   ]
+  },
+  {
+   "begin": "1773.280",
+   "children": [],
+   "end": "1780.960",
+   "id": "f000377",
+   "language": "eng",
+   "lines": [
+    "We have recruited more staff already to help do that, and that's something we would love to do more of."
+   ]
+  },
+  {
+   "begin": "1780.960",
+   "children": [],
+   "end": "1783.320",
+   "id": "f000378",
+   "language": "eng",
+   "lines": [
+    "We are getting more efficient at it."
+   ]
+  },
+  {
+   "begin": "1783.320",
+   "children": [],
+   "end": "1786.000",
+   "id": "f000379",
+   "language": "eng",
+   "lines": [
+    "But, Liv, you want to talk about that?"
+   ]
+  },
+  {
+   "begin": "1786.000",
+   "children": [],
+   "end": "1789.400",
+   "id": "f000380",
+   "language": "eng",
+   "lines": [
+    "A: So stuff and still specifically we're working on trials of industry at the moment."
+   ]
+  },
+  {
+   "begin": "1789.400",
+   "children": [],
+   "end": "1791.840",
+   "id": "f000381",
+   "language": "eng",
+   "lines": [
+    "And that we'll look to go live next summer."
+   ]
+  },
+  {
+   "begin": "1791.840",
+   "children": [],
+   "end": "1797.000",
+   "id": "f000382",
+   "language": "eng",
+   "lines": [
+    "And then the summer after, the industry ambition shared between us all, will be to have a single CPE."
+   ]
+  },
+  {
+   "begin": "1797.000",
+   "children": [],
+   "end": "1799.080",
+   "id": "f000383",
+   "language": "eng",
+   "lines": [
+    "So that's kind of what the time windows on that part."
+   ]
+  },
+  {
+   "begin": "1799.080",
+   "children": [],
+   "end": "1805.120",
+   "id": "f000384",
+   "language": "eng",
+   "lines": [
+    "And certainly for some customers, I think the self-install is potentially a big volume opportunity gain."
+   ]
+  },
+  {
+   "begin": "1805.120",
+   "children": [],
+   "end": "1812.880",
+   "id": "f000385",
+   "language": "eng",
+   "lines": [
+    "I think for all of my large-scale customers, combining CPE has got to be an ambition because of course it makes it more attractive financially across the market."
+   ]
+  },
+  {
+   "begin": "1812.880",
+   "children": [],
+   "end": "1815.240",
+   "id": "f000386",
+   "language": "eng",
+   "lines": [
+    "So that's the time windows for those product developments."
+   ]
+  },
+  {
+   "begin": "1815.240",
+   "children": [],
+   "end": "1820.760",
+   "id": "f000387",
+   "language": "eng",
+   "lines": [
+    "I think in terms of demand, demand has followed the steady curve of growth over the last while."
+   ]
+  },
+  {
+   "begin": "1820.760",
+   "children": [],
+   "end": "1821.640",
+   "id": "f000388",
+   "language": "eng",
+   "lines": [
+    "I think that will continue."
+   ]
+  },
+  {
+   "begin": "1821.640",
+   "children": [],
+   "end": "1823.080",
+   "id": "f000389",
+   "language": "eng",
+   "lines": [
+    "There's more footprint coming out."
+   ]
+  },
+  {
+   "begin": "1823.080",
+   "children": [],
+   "end": "1824.920",
+   "id": "f000390",
+   "language": "eng",
+   "lines": [
+    "There's more ambition across the market."
+   ]
+  },
+  {
+   "begin": "1824.920",
+   "children": [],
+   "end": "1826.800",
+   "id": "f000391",
+   "language": "eng",
+   "lines": [
+    "There's more customers wanting the product."
+   ]
+  },
+  {
+   "begin": "1826.800",
+   "children": [],
+   "end": "1828.200",
+   "id": "f000392",
+   "language": "eng",
+   "lines": [
+    "And there's really good speeds."
+   ]
+  },
+  {
+   "begin": "1828.200",
+   "children": [],
+   "end": "1830.040",
+   "id": "f000393",
+   "language": "eng",
+   "lines": [
+    "So the actual speeds are fantastic."
+   ]
+  },
+  {
+   "begin": "1830.040",
+   "children": [],
+   "end": "1831.520",
+   "id": "f000394",
+   "language": "eng",
+   "lines": [
+    "So I think the demand will continue."
+   ]
+  },
+  {
+   "begin": "1831.520",
+   "children": [],
+   "end": "1833.960",
+   "id": "f000395",
+   "language": "eng",
+   "lines": [
+    "And we'll make sure that we are sourced in line to manage that demand."
+   ]
+  },
+  {
+   "begin": "1833.960",
+   "children": [],
+   "end": "1841.600",
+   "id": "f000396",
+   "language": "eng",
+   "lines": [
+    "And let's hope the good weather stays because this is the best chance of that - is less of the monsoon season and some more of the sunny season."
+   ]
+  },
+  {
+   "begin": "1841.600",
+   "children": [],
+   "end": "1842.960",
+   "id": "f000397",
+   "language": "eng",
+   "lines": [
+    "So this is very good news for us all."
+   ]
+  },
+  {
+   "begin": "1842.960",
+   "children": [],
+   "end": "1845.720",
+   "id": "f000398",
+   "language": "eng",
+   "lines": [
+    "Q: Liv, while I've got you, just on that, on the provisioning stuff."
+   ]
+  },
+  {
+   "begin": "1845.720",
+   "children": [],
+   "end": "1855.680",
+   "id": "f000399",
+   "language": "eng",
+   "lines": [
+    "I mean, on the Openreach cost base, was the 2% reduction we saw in the quarter kind of a normal number, given all the weather stuff or - and the repairs you had to do that we expect for the rest of the year?"
+   ]
+  },
+  {
+   "begin": "1855.680",
+   "children": [],
+   "end": "1862.880",
+   "id": "f000400",
+   "language": "eng",
+   "lines": [
+    "A: So I guess couldn't give individual guidance by quarter for the rest of the year because no mystic ball in terms of what will happen."
+   ]
+  },
+  {
+   "begin": "1862.880",
+   "children": [],
+   "end": "1869.080",
+   "id": "f000401",
+   "language": "eng",
+   "lines": [
+    "But I think we did a good job to cope with the weather extra and deliver those financials."
+   ]
+  },
+  {
+   "begin": "1869.080",
+   "children": [],
+   "end": "1873.200",
+   "id": "f000402",
+   "language": "eng",
+   "lines": [
+    "And I think we've set ourselves up with some good savings in the early part of the year, some of which will flow through."
+   ]
+  },
+  {
+   "begin": "1873.200",
+   "children": [],
+   "end": "1873.920",
+   "id": "f000403",
+   "language": "eng",
+   "lines": [
+    "Q: Thank you."
+   ]
+  },
+  {
+   "begin": "1873.920",
+   "children": [],
+   "end": "1874.760",
+   "id": "f000404",
+   "language": "eng",
+   "lines": [
+    "A: Thanks, Steve."
+   ]
+  },
+  {
+   "begin": "1874.760",
+   "children": [],
+   "end": "1875.880",
+   "id": "f000405",
+   "language": "eng",
+   "lines": [
+    "Next question?"
+   ]
+  },
+  {
+   "begin": "1875.880",
+   "children": [],
+   "end": "1876.000",
+   "id": "f000406",
+   "language": "eng",
+   "lines": [
+    "O: Thank you."
+   ]
+  },
+  {
+   "begin": "1876.000",
+   "children": [],
+   "end": "1879.880",
+   "id": "f000407",
+   "language": "eng",
+   "lines": [
+    "It's from the line of James Ratzer from New Street Research."
+   ]
+  },
+  {
+   "begin": "1879.880",
+   "children": [],
+   "end": "1881.400",
+   "id": "f000408",
+   "language": "eng",
+   "lines": [
+    "Please go ahead, James."
+   ]
+  },
+  {
+   "begin": "1881.400",
+   "children": [],
+   "end": "1882.680",
+   "id": "f000409",
+   "language": "eng",
+   "lines": [
+    "Q: Yes, thanks very much."
+   ]
+  },
+  {
+   "begin": "1882.680",
+   "children": [],
+   "end": "1883.640",
+   "id": "f000410",
+   "language": "eng",
+   "lines": [
+    "I've got two questions, please."
+   ]
+  },
+  {
+   "begin": "1883.640",
+   "children": [],
+   "end": "1893.760",
+   "id": "f000411",
+   "language": "eng",
+   "lines": [
+    "The first one was just regarding the overall pricing environment in the UK, the sort of debate about whether the market pricing is inflationary or not at the moment."
+   ]
+  },
+  {
+   "begin": "1893.760",
+   "children": [],
+   "end": "1905.680",
+   "id": "f000412",
+   "language": "eng",
+   "lines": [
+    "I mean, clearly, you're pushing up line rental pricing, but other parts of the bundle there seems to be promotions on - you hinted at maybe tweaks around how fixed to mobile callings inclusive in the bundle."
+   ]
+  },
+  {
+   "begin": "1905.680",
+   "children": [],
+   "end": "1915.080",
+   "id": "f000413",
+   "language": "eng",
+   "lines": [
+    "So it'd be interesting to get your feel on whether blended pricing across the base can start to potentially go up from here."
+   ]
+  },
+  {
+   "begin": "1915.080",
+   "children": [],
+   "end": "1920.520",
+   "id": "f000414",
+   "language": "eng",
+   "lines": [
+    "And secondly, now Infinity is becoming quite a meaningful part of your customer base."
+   ]
+  },
+  {
+   "begin": "1920.520",
+   "children": [],
+   "end": "1925.800",
+   "id": "f000415",
+   "language": "eng",
+   "lines": [
+    "Be interested to get some sort of that quantifying impact of that on revenue growth."
+   ]
+  },
+  {
+   "begin": "1925.800",
+   "children": [],
+   "end": "1930.880",
+   "id": "f000416",
+   "language": "eng",
+   "lines": [
+    "You're mentioning quite a high percentage of customers taking the higher tier."
+   ]
+  },
+  {
+   "begin": "1930.880",
+   "children": [],
+   "end": "1937.080",
+   "id": "f000417",
+   "language": "eng",
+   "lines": [
+    "Roughly in pound sterling, how much of an upgrade are you seeing those customers increase their spend via the Infinity?"
+   ]
+  },
+  {
+   "begin": "1937.080",
+   "children": [],
+   "end": "1940.920",
+   "id": "f000418",
+   "language": "eng",
+   "lines": [
+    "How much of the net adds are coming as new customers?"
+   ]
+  },
+  {
+   "begin": "1940.920",
+   "children": [],
+   "end": "1945.680",
+   "id": "f000419",
+   "language": "eng",
+   "lines": [
+    "It would just be helpful to try and quantify the impact of Infinity on the top line please."
+   ]
+  },
+  {
+   "begin": "1945.680",
+   "children": [],
+   "end": "1946.280",
+   "id": "f000420",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "1946.280",
+   "children": [],
+   "end": "1948.240",
+   "id": "f000421",
+   "language": "eng",
+   "lines": [
+    "A: All right."
+   ]
+  },
+  {
+   "begin": "1948.240",
+   "children": [],
+   "end": "1949.920",
+   "id": "f000422",
+   "language": "eng",
+   "lines": [
+    "Lots of questions there."
+   ]
+  },
+  {
+   "begin": "1949.920",
+   "children": [],
+   "end": "1953.400",
+   "id": "f000423",
+   "language": "eng",
+   "lines": [
+    "I'm probably not going to give you the exact dynamics of Infinity."
+   ]
+  },
+  {
+   "begin": "1953.400",
+   "children": [],
+   "end": "1955.840",
+   "id": "f000424",
+   "language": "eng",
+   "lines": [
+    "I think we're keeping that close at hand."
+   ]
+  },
+  {
+   "begin": "1955.840",
+   "children": [],
+   "end": "1978.520",
+   "id": "f000425",
+   "language": "eng",
+   "lines": [
+    "Except I think a couple of points I would say about it is that because of - whilst we're pricing Infinity effectively at the same price as option two and three broadband, we're seeing a good spin-up from people going from option one broadband to option two or three Infinity, effectively, and - or the top two tiers to Infinity."
+   ]
+  },
+  {
+   "begin": "1978.520",
+   "children": [],
+   "end": "1988.960",
+   "id": "f000426",
+   "language": "eng",
+   "lines": [
+    "And all the way through, we're seeing actually - so the ARPU, despite pricing effectively, because of this level, we do get a good ARPU increase."
+   ]
+  },
+  {
+   "begin": "1988.960",
+   "children": [],
+   "end": "1995.600",
+   "id": "f000427",
+   "language": "eng",
+   "lines": [
+    "And it contributes a very large part to the offsetting the extra cost of Infinity."
+   ]
+  },
+  {
+   "begin": "1995.600",
+   "children": [],
+   "end": "2000.560",
+   "id": "f000428",
+   "language": "eng",
+   "lines": [
+    "And that's before you start looking at the buy-in cost."
+   ]
+  },
+  {
+   "begin": "2000.560",
+   "children": [],
+   "end": "2003.880",
+   "id": "f000429",
+   "language": "eng",
+   "lines": [
+    "That's before you start looking at churn and other opportunities to sell more."
+   ]
+  },
+  {
+   "begin": "2003.880",
+   "children": [],
+   "end": "2009.520",
+   "id": "f000430",
+   "language": "eng",
+   "lines": [
+    "So it makes - it's a good economic model for our retail businesses, as it looks just now."
+   ]
+  },
+  {
+   "begin": "2009.520",
+   "children": [],
+   "end": "2020.880",
+   "id": "f000431",
+   "language": "eng",
+   "lines": [
+    "I'll ask Gavin to comment about the detailed price environment, but it is really important to say that the UK has among the cheapest places of any western country for telecoms."
+   ]
+  },
+  {
+   "begin": "2020.880",
+   "children": [],
+   "end": "2022.520",
+   "id": "f000432",
+   "language": "eng",
+   "lines": [
+    "And that reflects the competition."
+   ]
+  },
+  {
+   "begin": "2022.520",
+   "children": [],
+   "end": "2024.160",
+   "id": "f000433",
+   "language": "eng",
+   "lines": [
+    "We're regularly in service."
+   ]
+  },
+  {
+   "begin": "2024.160",
+   "children": [],
+   "end": "2033.120",
+   "id": "f000434",
+   "language": "eng",
+   "lines": [
+    "Pricing is 30% lower than the US and Germany, Spain, Italy, France, et cetera."
+   ]
+  },
+  {
+   "begin": "2033.120",
+   "children": [],
+   "end": "2034.880",
+   "id": "f000435",
+   "language": "eng",
+   "lines": [
+    "And I think that maintains."
+   ]
+  },
+  {
+   "begin": "2034.880",
+   "children": [],
+   "end": "2044.720",
+   "id": "f000436",
+   "language": "eng",
+   "lines": [
+    "And we've certainly put in a price freeze this year on key things, as well as having taken down, for instance, our fixed to mobile calls."
+   ]
+  },
+  {
+   "begin": "2044.720",
+   "children": [],
+   "end": "2046.720",
+   "id": "f000437",
+   "language": "eng",
+   "lines": [
+    "But, Gavin, your thoughts?"
+   ]
+  },
+  {
+   "begin": "2046.720",
+   "children": [],
+   "end": "2049.040",
+   "id": "f000438",
+   "language": "eng",
+   "lines": [
+    "A: Not much to add, Ian."
+   ]
+  },
+  {
+   "begin": "2049.040",
+   "children": [],
+   "end": "2051.600",
+   "id": "f000439",
+   "language": "eng",
+   "lines": [
+    "I think it is a very competitive marketplace."
+   ]
+  },
+  {
+   "begin": "2051.600",
+   "children": [],
+   "end": "2056.920",
+   "id": "f000440",
+   "language": "eng",
+   "lines": [
+    "I think customers are - they're searching for value."
+   ]
+  },
+  {
+   "begin": "2056.920",
+   "children": [],
+   "end": "2061.480",
+   "id": "f000441",
+   "language": "eng",
+   "lines": [
+    "And we've got to make sure we're continuing to deliver that."
+   ]
+  },
+  {
+   "begin": "2061.480",
+   "children": [],
+   "end": "2065.480",
+   "id": "f000442",
+   "language": "eng",
+   "lines": [
+    "So I don't see huge scope for price rises."
+   ]
+  },
+  {
+   "begin": "2065.480",
+   "children": [],
+   "end": "2072.960",
+   "id": "f000443",
+   "language": "eng",
+   "lines": [
+    "And I think we will remain extremely competitive, particularly on bundles and promotions going forward."
+   ]
+  },
+  {
+   "begin": "2072.960",
+   "children": [],
+   "end": "2077.680",
+   "id": "f000444",
+   "language": "eng",
+   "lines": [
+    "So I'd say that's probably as much as I'm prepared to share."
+   ]
+  },
+  {
+   "begin": "2077.680",
+   "children": [],
+   "end": "2079.880",
+   "id": "f000445",
+   "language": "eng",
+   "lines": [
+    "A: Okay, next question please."
+   ]
+  },
+  {
+   "begin": "2079.880",
+   "children": [],
+   "end": "2085.080",
+   "id": "f000446",
+   "language": "eng",
+   "lines": [
+    "Q: I'm sorry, one follow-up, sir, on that Infinity point, just on [indiscernible] ARPU, an increase there."
+   ]
+  },
+  {
+   "begin": "2085.080",
+   "children": [],
+   "end": "2092.400",
+   "id": "f000447",
+   "language": "eng",
+   "lines": [
+    "I mean is that, say, more than 5 a month you're seeing as an ARPU increase, or is below that level?"
+   ]
+  },
+  {
+   "begin": "2092.400",
+   "children": [],
+   "end": "2095.680",
+   "id": "f000448",
+   "language": "eng",
+   "lines": [
+    "A: I'm saying I'm not going to give you that exact number."
+   ]
+  },
+  {
+   "begin": "2095.680",
+   "children": [],
+   "end": "2102.600",
+   "id": "f000449",
+   "language": "eng",
+   "lines": [
+    "What I said - it contributes a very large part of the - to offsetting the increased cost of the - of Infinity, in terms of fibre."
+   ]
+  },
+  {
+   "begin": "2102.600",
+   "children": [],
+   "end": "2104.680",
+   "id": "f000450",
+   "language": "eng",
+   "lines": [
+    "And that's as much as you're going to get at the moment in terms of that number."
+   ]
+  },
+  {
+   "begin": "2104.680",
+   "children": [],
+   "end": "2106.520",
+   "id": "f000451",
+   "language": "eng",
+   "lines": [
+    "Q: Okay, thank you."
+   ]
+  },
+  {
+   "begin": "2106.520",
+   "children": [],
+   "end": "2107.240",
+   "id": "f000452",
+   "language": "eng",
+   "lines": [
+    "A: Cheers."
+   ]
+  },
+  {
+   "begin": "2107.240",
+   "children": [],
+   "end": "2107.760",
+   "id": "f000453",
+   "language": "eng",
+   "lines": [
+    "O: Thank you."
+   ]
+  },
+  {
+   "begin": "2107.760",
+   "children": [],
+   "end": "2112.040",
+   "id": "f000454",
+   "language": "eng",
+   "lines": [
+    "Next question is from the line of Darren Ward from Echelon Research."
+   ]
+  },
+  {
+   "begin": "2112.040",
+   "children": [],
+   "end": "2113.360",
+   "id": "f000455",
+   "language": "eng",
+   "lines": [
+    "Please go ahead, Darren."
+   ]
+  },
+  {
+   "begin": "2113.360",
+   "children": [],
+   "end": "2115.120",
+   "id": "f000456",
+   "language": "eng",
+   "lines": [
+    "Q: Yeah, good morning."
+   ]
+  },
+  {
+   "begin": "2115.120",
+   "children": [],
+   "end": "2121.560",
+   "id": "f000457",
+   "language": "eng",
+   "lines": [
+    "It's just a question about the Ethernet and wholesale lease lines issue that you flag in this morning's release."
+   ]
+  },
+  {
+   "begin": "2121.560",
+   "children": [],
+   "end": "2131.320",
+   "id": "f000458",
+   "language": "eng",
+   "lines": [
+    "Assuming that you can't get the drafts to overturned and determination is in line with the drafts, you've got to repay 145 million."
+   ]
+  },
+  {
+   "begin": "2131.320",
+   "children": [],
+   "end": "2135.520",
+   "id": "f000459",
+   "language": "eng",
+   "lines": [
+    "Could you just tell me who those parties are that will be receiving that?"
+   ]
+  },
+  {
+   "begin": "2135.520",
+   "children": [],
+   "end": "2140.280",
+   "id": "f000460",
+   "language": "eng",
+   "lines": [
+    "And over what kind of time scale is you'll have to be paying it out?"
+   ]
+  },
+  {
+   "begin": "2140.280",
+   "children": [],
+   "end": "2144.880",
+   "id": "f000461",
+   "language": "eng",
+   "lines": [
+    "And I also noticed that you say it will be a specific item."
+   ]
+  },
+  {
+   "begin": "2144.880",
+   "children": [],
+   "end": "2150.680",
+   "id": "f000462",
+   "language": "eng",
+   "lines": [
+    "Over what period of time has that sort of overcharge build up if you like?"
+   ]
+  },
+  {
+   "begin": "2150.680",
+   "children": [],
+   "end": "2154.080",
+   "id": "f000463",
+   "language": "eng",
+   "lines": [
+    "And could we please get the information to strip out this story?"
+   ]
+  },
+  {
+   "begin": "2154.080",
+   "children": [],
+   "end": "2157.520",
+   "id": "f000464",
+   "language": "eng",
+   "lines": [
+    "A: It's not an overcharge."
+   ]
+  },
+  {
+   "begin": "2157.520",
+   "children": [],
+   "end": "2161.600",
+   "id": "f000465",
+   "language": "eng",
+   "lines": [
+    "It's actually an oddity in the way the regulation was plastered."
+   ]
+  },
+  {
+   "begin": "2161.600",
+   "children": [],
+   "end": "2175.800",
+   "id": "f000466",
+   "language": "eng",
+   "lines": [
+    "And I think actually it was quite unintentional in the Ofcom - in the way Ofcom drafted the things that the - as they ended up with this issue."
+   ]
+  },
+  {
+   "begin": "2175.800",
+   "children": [],
+   "end": "2178.040",
+   "id": "f000467",
+   "language": "eng",
+   "lines": [
+    "I think it was very unexpected."
+   ]
+  },
+  {
+   "begin": "2178.040",
+   "children": [],
+   "end": "2187.400",
+   "id": "f000468",
+   "language": "eng",
+   "lines": [
+    "So I mean it goes from - it's been over last I think about three years or probably since that Ethernet prices were agreed with Ofcom."
+   ]
+  },
+  {
+   "begin": "2187.400",
+   "children": [],
+   "end": "2196.960",
+   "id": "f000469",
+   "language": "eng",
+   "lines": [
+    "And bear in mind Ethernet prices were agreed with Ofcom, but they had some cost-orientation regulations that I think had some unexpected consequences."
+   ]
+  },
+  {
+   "begin": "2196.960",
+   "children": [],
+   "end": "2200.680",
+   "id": "f000470",
+   "language": "eng",
+   "lines": [
+    "I think unexpected frankly to Ofcom, certainly unexpected to us."
+   ]
+  },
+  {
+   "begin": "2200.680",
+   "children": [],
+   "end": "2209.560",
+   "id": "f000471",
+   "language": "eng",
+   "lines": [
+    "And we just bought Ethernet, and I'm not going to go through what our exact sales are to various people on Ethernet."
+   ]
+  },
+  {
+   "begin": "2209.560",
+   "children": [],
+   "end": "2211.880",
+   "id": "f000472",
+   "language": "eng",
+   "lines": [
+    "But I'll just ask any of the team to..."
+   ]
+  },
+  {
+   "begin": "2211.880",
+   "children": [],
+   "end": "2214.280",
+   "id": "f000473",
+   "language": "eng",
+   "lines": [
+    "Q: Is it other industry players there, or are they already customers?"
+   ]
+  },
+  {
+   "begin": "2214.280",
+   "children": [],
+   "end": "2214.960",
+   "id": "f000474",
+   "language": "eng",
+   "lines": [
+    "A: Sorry?"
+   ]
+  },
+  {
+   "begin": "2214.960",
+   "children": [],
+   "end": "2218.280",
+   "id": "f000475",
+   "language": "eng",
+   "lines": [
+    "Q: Is it other industry players, or is it any customers?"
+   ]
+  },
+  {
+   "begin": "2218.280",
+   "children": [],
+   "end": "2220.000",
+   "id": "f000476",
+   "language": "eng",
+   "lines": [
+    "A: Yeah, it's all industry players."
+   ]
+  },
+  {
+   "begin": "2220.000",
+   "children": [],
+   "end": "2221.240",
+   "id": "f000477",
+   "language": "eng",
+   "lines": [
+    "Q: Yeah."
+   ]
+  },
+  {
+   "begin": "2221.240",
+   "children": [],
+   "end": "2224.200",
+   "id": "f000478",
+   "language": "eng",
+   "lines": [
+    "A: Yeah, it's other industry players."
+   ]
+  },
+  {
+   "begin": "2224.200",
+   "children": [],
+   "end": "2229.240",
+   "id": "f000479",
+   "language": "eng",
+   "lines": [
+    "Q: And just maybe the time scale with the repayment?"
+   ]
+  },
+  {
+   "begin": "2229.240",
+   "children": [],
+   "end": "2234.280",
+   "id": "f000480",
+   "language": "eng",
+   "lines": [
+    "A: I think we have to appear to have pretty quickly once the decision is made."
+   ]
+  },
+  {
+   "begin": "2234.280",
+   "children": [],
+   "end": "2236.400",
+   "id": "f000481",
+   "language": "eng",
+   "lines": [
+    "I think it's a reasonably short period."
+   ]
+  },
+  {
+   "begin": "2236.400",
+   "children": [],
+   "end": "2237.320",
+   "id": "f000482",
+   "language": "eng",
+   "lines": [
+    "Tony?"
+   ]
+  },
+  {
+   "begin": "2237.320",
+   "children": [],
+   "end": "2239.080",
+   "id": "f000483",
+   "language": "eng",
+   "lines": [
+    "A: Yeah."
+   ]
+  },
+  {
+   "begin": "2239.080",
+   "children": [],
+   "end": "2241.480",
+   "id": "f000484",
+   "language": "eng",
+   "lines": [
+    "No, it's a reasonably short period."
+   ]
+  },
+  {
+   "begin": "2241.480",
+   "children": [],
+   "end": "2242.600",
+   "id": "f000485",
+   "language": "eng",
+   "lines": [
+    "So it'll be in this year."
+   ]
+  },
+  {
+   "begin": "2242.600",
+   "children": [],
+   "end": "2243.960",
+   "id": "f000486",
+   "language": "eng",
+   "lines": [
+    "Q: Thank you."
+   ]
+  },
+  {
+   "begin": "2243.960",
+   "children": [],
+   "end": "2245.440",
+   "id": "f000487",
+   "language": "eng",
+   "lines": [
+    "A: Okay."
+   ]
+  },
+  {
+   "begin": "2245.440",
+   "children": [],
+   "end": "2246.080",
+   "id": "f000488",
+   "language": "eng",
+   "lines": [
+    "Cheers."
+   ]
+  },
+  {
+   "begin": "2246.080",
+   "children": [],
+   "end": "2247.280",
+   "id": "f000489",
+   "language": "eng",
+   "lines": [
+    "O: Thank you."
+   ]
+  },
+  {
+   "begin": "2247.280",
+   "children": [],
+   "end": "2250.280",
+   "id": "f000490",
+   "language": "eng",
+   "lines": [
+    "Next question is from the line of Stephen Howard from HSBC."
+   ]
+  },
+  {
+   "begin": "2250.280",
+   "children": [],
+   "end": "2251.040",
+   "id": "f000491",
+   "language": "eng",
+   "lines": [
+    "Please go ahead."
+   ]
+  },
+  {
+   "begin": "2251.040",
+   "children": [],
+   "end": "2252.680",
+   "id": "f000492",
+   "language": "eng",
+   "lines": [
+    "Q: Thanks very much."
+   ]
+  },
+  {
+   "begin": "2252.680",
+   "children": [],
+   "end": "2254.960",
+   "id": "f000493",
+   "language": "eng",
+   "lines": [
+    "Two sets of questions please."
+   ]
+  },
+  {
+   "begin": "2254.960",
+   "children": [],
+   "end": "2262.160",
+   "id": "f000494",
+   "language": "eng",
+   "lines": [
+    "Firstly, just following on from the earlier question about the latest regulatory developments from the European Commission."
+   ]
+  },
+  {
+   "begin": "2262.160",
+   "children": [],
+   "end": "2268.000",
+   "id": "f000495",
+   "language": "eng",
+   "lines": [
+    "I mean, presumably this gives you a lot more visibility on the Infinity business case."
+   ]
+  },
+  {
+   "begin": "2268.000",
+   "children": [],
+   "end": "2282.560",
+   "id": "f000496",
+   "language": "eng",
+   "lines": [
+    "And I guess it would help you address some of the calls made by one of your major wholesale customers that your fibre product should be priced regulated from about 2015 onwards."
+   ]
+  },
+  {
+   "begin": "2282.560",
+   "children": [],
+   "end": "2286.960",
+   "id": "f000497",
+   "language": "eng",
+   "lines": [
+    "So I'd just like your observations on that."
+   ]
+  },
+  {
+   "begin": "2286.960",
+   "children": [],
+   "end": "2303.680",
+   "id": "f000498",
+   "language": "eng",
+   "lines": [
+    "And secondly, your result statement trumpets a series of Global Services contract wins included, I note, additional branches of Caixa Econmica Federal, the Brazilian Development Bank."
+   ]
+  },
+  {
+   "begin": "2303.680",
+   "children": [],
+   "end": "2321.400",
+   "id": "f000499",
+   "language": "eng",
+   "lines": [
+    "I mean just if you can help me understand why this is a core competency for BT, and why you are the right person to be providing additional connectivity to extra branches of a Brazilian Development bank."
+   ]
+  },
+  {
+   "begin": "2321.400",
+   "children": [],
+   "end": "2321.680",
+   "id": "f000500",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "2321.680",
+   "children": [],
+   "end": "2322.360",
+   "id": "f000501",
+   "language": "eng",
+   "lines": [
+    "A: All right."
+   ]
+  },
+  {
+   "begin": "2322.360",
+   "children": [],
+   "end": "2326.000",
+   "id": "f000502",
+   "language": "eng",
+   "lines": [
+    "I'll answer the second one because we have a great expertise."
+   ]
+  },
+  {
+   "begin": "2326.000",
+   "children": [],
+   "end": "2331.760",
+   "id": "f000503",
+   "language": "eng",
+   "lines": [
+    "We've got quite to note capability in Brazil, and we've got great expertise in VSAT technology."
+   ]
+  },
+  {
+   "begin": "2331.760",
+   "children": [],
+   "end": "2338.160",
+   "id": "f000504",
+   "language": "eng",
+   "lines": [
+    "If you want particularly to understand why we do, we also do the Brazilian Post Office as well."
+   ]
+  },
+  {
+   "begin": "2338.160",
+   "children": [],
+   "end": "2353.960",
+   "id": "f000505",
+   "language": "eng",
+   "lines": [
+    "So the customers in Brazil certainly recognize our core competency and provide the - Brazil is a different market from others because of the way the fixed line network and the sheer size of the - it's a big country."
+   ]
+  },
+  {
+   "begin": "2353.960",
+   "children": [],
+   "end": "2356.400",
+   "id": "f000506",
+   "language": "eng",
+   "lines": [
+    "And that's why we can provide that."
+   ]
+  },
+  {
+   "begin": "2356.400",
+   "children": [],
+   "end": "2359.120",
+   "id": "f000507",
+   "language": "eng",
+   "lines": [
+    "As well as we got great expertise in financial services sector."
+   ]
+  },
+  {
+   "begin": "2359.120",
+   "children": [],
+   "end": "2366.720",
+   "id": "f000508",
+   "language": "eng",
+   "lines": [
+    "And it's also bringing that expertise and knowledge to national players, as well as international players."
+   ]
+  },
+  {
+   "begin": "2366.720",
+   "children": [],
+   "end": "2369.080",
+   "id": "f000509",
+   "language": "eng",
+   "lines": [
+    "Jeff, anything else you'll be adding to the sales pitch?"
+   ]
+  },
+  {
+   "begin": "2369.080",
+   "children": [],
+   "end": "2369.600",
+   "id": "f000510",
+   "language": "eng",
+   "lines": [
+    "A: Yeah."
+   ]
+  },
+  {
+   "begin": "2369.600",
+   "children": [],
+   "end": "2371.640",
+   "id": "f000511",
+   "language": "eng",
+   "lines": [
+    "I actually would add to that."
+   ]
+  },
+  {
+   "begin": "2371.640",
+   "children": [],
+   "end": "2377.800",
+   "id": "f000512",
+   "language": "eng",
+   "lines": [
+    "I think, if anything, we're probably too quiet about our assets and technology down there."
+   ]
+  },
+  {
+   "begin": "2377.800",
+   "children": [],
+   "end": "2381.440",
+   "id": "f000513",
+   "language": "eng",
+   "lines": [
+    "I think we're doing well in the market, as Ian suggested."
+   ]
+  },
+  {
+   "begin": "2381.440",
+   "children": [],
+   "end": "2386.040",
+   "id": "f000514",
+   "language": "eng",
+   "lines": [
+    "We won our largest transaction last year with the post office down there."
+   ]
+  },
+  {
+   "begin": "2386.040",
+   "children": [],
+   "end": "2396.360",
+   "id": "f000515",
+   "language": "eng",
+   "lines": [
+    "But I am hearing from some of the industry analysts that we're not as aggressive letting our customer know our asset base down there, so we're going to work on that."
+   ]
+  },
+  {
+   "begin": "2396.360",
+   "children": [],
+   "end": "2397.920",
+   "id": "f000516",
+   "language": "eng",
+   "lines": [
+    "Q: And you referred to Infinity business case."
+   ]
+  },
+  {
+   "begin": "2397.920",
+   "children": [],
+   "end": "2400.280",
+   "id": "f000517",
+   "language": "eng",
+   "lines": [
+    "I'm not quite sure if you meant the fibre business case."
+   ]
+  },
+  {
+   "begin": "2400.280",
+   "children": [],
+   "end": "2400.960",
+   "id": "f000518",
+   "language": "eng",
+   "lines": [
+    "Can I just be clear?"
+   ]
+  },
+  {
+   "begin": "2400.960",
+   "children": [],
+   "end": "2403.600",
+   "id": "f000519",
+   "language": "eng",
+   "lines": [
+    "Because, of course, they are two different things."
+   ]
+  },
+  {
+   "begin": "2403.600",
+   "children": [],
+   "end": "2405.360",
+   "id": "f000520",
+   "language": "eng",
+   "lines": [
+    "A: I beg your pardon."
+   ]
+  },
+  {
+   "begin": "2405.360",
+   "children": [],
+   "end": "2408.320",
+   "id": "f000521",
+   "language": "eng",
+   "lines": [
+    "It is to the fibre investment case that I was referring."
+   ]
+  },
+  {
+   "begin": "2408.320",
+   "children": [],
+   "end": "2413.280",
+   "id": "f000522",
+   "language": "eng",
+   "lines": [
+    "Just you know, we had to - I think we discussed this at the last result."
+   ]
+  },
+  {
+   "begin": "2413.280",
+   "children": [],
+   "end": "2414.040",
+   "id": "f000523",
+   "language": "eng",
+   "lines": [
+    "Q: Yeah."
+   ]
+  },
+  {
+   "begin": "2414.040",
+   "children": [],
+   "end": "2418.880",
+   "id": "f000524",
+   "language": "eng",
+   "lines": [
+    "A: There was an interesting interview in the press in which one of your competitors said these should be price regulated."
+   ]
+  },
+  {
+   "begin": "2418.880",
+   "children": [],
+   "end": "2420.000",
+   "id": "f000525",
+   "language": "eng",
+   "lines": [
+    "A: Yeah."
+   ]
+  },
+  {
+   "begin": "2420.000",
+   "children": [],
+   "end": "2431.880",
+   "id": "f000526",
+   "language": "eng",
+   "lines": [
+    "Well, look it doesn't affect our business case because basically what the EU staff said what we expected, what we - following UK model."
+   ]
+  },
+  {
+   "begin": "2431.880",
+   "children": [],
+   "end": "2442.640",
+   "id": "f000527",
+   "language": "eng",
+   "lines": [
+    "And as when we've been asked about, I think, of this price regulation in fibre, if anything, you can maybe look at the prices going up for so long, very long-term investment."
+   ]
+  },
+  {
+   "begin": "2442.640",
+   "children": [],
+   "end": "2447.240",
+   "id": "f000528",
+   "language": "eng",
+   "lines": [
+    "And we are driving this for volume."
+   ]
+  },
+  {
+   "begin": "2447.240",
+   "children": [],
+   "end": "2456.760",
+   "id": "f000529",
+   "language": "eng",
+   "lines": [
+    "And I think you'll have to ask the person who may have said that to clarify exactly what we said, which might have been a slight misquote."
+   ]
+  },
+  {
+   "begin": "2456.760",
+   "children": [],
+   "end": "2464.280",
+   "id": "f000530",
+   "language": "eng",
+   "lines": [
+    "But either way, I think Ofcom has been pretty clear about they didn't see any need for revisiting that issue of regulation."
+   ]
+  },
+  {
+   "begin": "2464.280",
+   "children": [],
+   "end": "2474.120",
+   "id": "f000531",
+   "language": "eng",
+   "lines": [
+    "And given that the UK enjoys one of the cheapest fibre prices anywhere in the west, actually, I think we're in a pretty good shape on this one."
+   ]
+  },
+  {
+   "begin": "2474.120",
+   "children": [],
+   "end": "2475.320",
+   "id": "f000532",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "2475.320",
+   "children": [],
+   "end": "2476.320",
+   "id": "f000533",
+   "language": "eng",
+   "lines": [
+    "Q: Thanks."
+   ]
+  },
+  {
+   "begin": "2476.320",
+   "children": [],
+   "end": "2477.680",
+   "id": "f000534",
+   "language": "eng",
+   "lines": [
+    "O: Thank you."
+   ]
+  },
+  {
+   "begin": "2477.680",
+   "children": [],
+   "end": "2480.360",
+   "id": "f000535",
+   "language": "eng",
+   "lines": [
+    "Next question is from the line of Guy Peddy from Macquarie."
+   ]
+  },
+  {
+   "begin": "2480.360",
+   "children": [],
+   "end": "2481.200",
+   "id": "f000536",
+   "language": "eng",
+   "lines": [
+    "Please go ahead."
+   ]
+  },
+  {
+   "begin": "2481.200",
+   "children": [],
+   "end": "2483.120",
+   "id": "f000537",
+   "language": "eng",
+   "lines": [
+    "Q: Yeah, good morning over there."
+   ]
+  },
+  {
+   "begin": "2483.120",
+   "children": [],
+   "end": "2485.480",
+   "id": "f000538",
+   "language": "eng",
+   "lines": [
+    "Just a couple of quick questions."
+   ]
+  },
+  {
+   "begin": "2485.480",
+   "children": [],
+   "end": "2490.920",
+   "id": "f000539",
+   "language": "eng",
+   "lines": [
+    "Firstly, on Infinity, Virgin Media managed to outsell you three times on high-speed broadband in the quarter."
+   ]
+  },
+  {
+   "begin": "2490.920",
+   "children": [],
+   "end": "2494.440",
+   "id": "f000540",
+   "language": "eng",
+   "lines": [
+    "And I was just wondering, is there anything that's underlying that?"
+   ]
+  },
+  {
+   "begin": "2494.440",
+   "children": [],
+   "end": "2499.080",
+   "id": "f000541",
+   "language": "eng",
+   "lines": [
+    "Is it just a question that you haven't marketed your product to as many customers?"
+   ]
+  },
+  {
+   "begin": "2499.080",
+   "children": [],
+   "end": "2506.320",
+   "id": "f000542",
+   "language": "eng",
+   "lines": [
+    "And I'm thinking now that your customer base or your number of lines that are covered by Infinity are broadly similar to Virgin Media's footprint."
+   ]
+  },
+  {
+   "begin": "2506.320",
+   "children": [],
+   "end": "2513.400",
+   "id": "f000543",
+   "language": "eng",
+   "lines": [
+    "And secondly, on Global Services, it's had two years of being operating cash flow positive."
+   ]
+  },
+  {
+   "begin": "2513.400",
+   "children": [],
+   "end": "2515.360",
+   "id": "f000544",
+   "language": "eng",
+   "lines": [
+    "We're now going to go operating cash flow negative."
+   ]
+  },
+  {
+   "begin": "2515.360",
+   "children": [],
+   "end": "2517.160",
+   "id": "f000545",
+   "language": "eng",
+   "lines": [
+    "I know that's not new."
+   ]
+  },
+  {
+   "begin": "2517.160",
+   "children": [],
+   "end": "2532.200",
+   "id": "f000546",
+   "language": "eng",
+   "lines": [
+    "But given the outlook for revenues is probably under more stress than originally perceived, do we think actually that it could be operating cash flow negative for another two to three years because you have to make these investments in geographies that you previously haven't been occupied in?"
+   ]
+  },
+  {
+   "begin": "2532.200",
+   "children": [],
+   "end": "2532.720",
+   "id": "f000547",
+   "language": "eng",
+   "lines": [
+    "Thank you."
+   ]
+  },
+  {
+   "begin": "2532.720",
+   "children": [],
+   "end": "2535.720",
+   "id": "f000548",
+   "language": "eng",
+   "lines": [
+    "A: Certainly not our intent or expectation."
+   ]
+  },
+  {
+   "begin": "2535.720",
+   "children": [],
+   "end": "2544.160",
+   "id": "f000549",
+   "language": "eng",
+   "lines": [
+    "Look, if we look at our retail business its revenues declined, and its profits and cash flow has been increased."
+   ]
+  },
+  {
+   "begin": "2544.160",
+   "children": [],
+   "end": "2550.560",
+   "id": "f000550",
+   "language": "eng",
+   "lines": [
+    "We said to people we knew this was going to be a difficult year in terms of because of the way the working capital was moving."
+   ]
+  },
+  {
+   "begin": "2550.560",
+   "children": [],
+   "end": "2555.160",
+   "id": "f000551",
+   "language": "eng",
+   "lines": [
+    "We saw that in advance, and we said the following year it's improved."
+   ]
+  },
+  {
+   "begin": "2555.160",
+   "children": [],
+   "end": "2557.680",
+   "id": "f000552",
+   "language": "eng",
+   "lines": [
+    "And that still remains our expectation."
+   ]
+  },
+  {
+   "begin": "2557.680",
+   "children": [],
+   "end": "2566.720",
+   "id": "f000553",
+   "language": "eng",
+   "lines": [
+    "And the investment we're talking about in these new fast-growing company, we've actually either have made or are making most of them in the current financial year."
+   ]
+  },
+  {
+   "begin": "2566.720",
+   "children": [],
+   "end": "2570.320",
+   "id": "f000554",
+   "language": "eng",
+   "lines": [
+    "So that's really not the issue."
+   ]
+  },
+  {
+   "begin": "2570.320",
+   "children": [],
+   "end": "2576.120",
+   "id": "f000555",
+   "language": "eng",
+   "lines": [
+    "And we haven't actually said it will be cash flow negative this year either."
+   ]
+  },
+  {
+   "begin": "2576.120",
+   "children": [],
+   "end": "2581.240",
+   "id": "f000556",
+   "language": "eng",
+   "lines": [
+    "So I think there's sort of a presumption, and then many questions."
+   ]
+  },
+  {
+   "begin": "2581.240",
+   "children": [],
+   "end": "2589.320",
+   "id": "f000557",
+   "language": "eng",
+   "lines": [
+    "So, no, it was happening in Global Services from a working capital point of view as we expected, overlaid with I think the economics are worst."
+   ]
+  },
+  {
+   "begin": "2589.320",
+   "children": [],
+   "end": "2594.400",
+   "id": "f000558",
+   "language": "eng",
+   "lines": [
+    "And that's made the importance of self-help even more in Global Services."
+   ]
+  },
+  {
+   "begin": "2594.400",
+   "children": [],
+   "end": "2595.880",
+   "id": "f000559",
+   "language": "eng",
+   "lines": [
+    "And that's exactly what they're working on."
+   ]
+  },
+  {
+   "begin": "2595.880",
+   "children": [],
+   "end": "2604.280",
+   "id": "f000560",
+   "language": "eng",
+   "lines": [
+    "In terms of the somewhat bizarre question about the outselling by Virgin, I think they had a forced migration of their customers up to higher speeds."
+   ]
+  },
+  {
+   "begin": "2604.280",
+   "children": [],
+   "end": "2616.840",
+   "id": "f000561",
+   "language": "eng",
+   "lines": [
+    "I would be delighted to be outsold by a company who lost 10,000 broadband customers in a quarter that we gained 85,000, and we gained 150,000 Infinity fibre customers."
+   ]
+  },
+  {
+   "begin": "2616.840",
+   "children": [],
+   "end": "2618.840",
+   "id": "f000562",
+   "language": "eng",
+   "lines": [
+    "It's a remarkable question really."
+   ]
+  },
+  {
+   "begin": "2618.840",
+   "children": [],
+   "end": "2626.720",
+   "id": "f000563",
+   "language": "eng",
+   "lines": [
+    "I don't quite see how any - our performance on any metric in terms of how we're doing on Infinity and actually fibre generally is a multiple better than Virgin have done."
+   ]
+  },
+  {
+   "begin": "2626.720",
+   "children": [],
+   "end": "2628.320",
+   "id": "f000564",
+   "language": "eng",
+   "lines": [
+    "And we are really pleased with the performance."
+   ]
+  },
+  {
+   "begin": "2628.320",
+   "children": [],
+   "end": "2634.440",
+   "id": "f000565",
+   "language": "eng",
+   "lines": [
+    "So long way may we be outsold when we came to see how many times we've had more net ads because when they are negative, we are at positive."
+   ]
+  },
+  {
+   "begin": "2634.440",
+   "children": [],
+   "end": "2636.040",
+   "id": "f000566",
+   "language": "eng",
+   "lines": [
+    "You can't really do the mass."
+   ]
+  },
+  {
+   "begin": "2636.040",
+   "children": [],
+   "end": "2638.920",
+   "id": "f000567",
+   "language": "eng",
+   "lines": [
+    "But I don't really call that being outsold."
+   ]
+  },
+  {
+   "begin": "2638.920",
+   "children": [],
+   "end": "2641.320",
+   "id": "f000568",
+   "language": "eng",
+   "lines": [
+    "So strange question, but thank you for it."
+   ]
+  },
+  {
+   "begin": "2641.320",
+   "children": [],
+   "end": "2642.840",
+   "id": "f000569",
+   "language": "eng",
+   "lines": [
+    "Next, last question."
+   ]
+  },
+  {
+   "begin": "2642.840",
+   "children": [],
+   "end": "2646.840",
+   "id": "f000570",
+   "language": "eng",
+   "lines": [
+    "O: It's from the line of Stuart Gordon from Berenberg."
+   ]
+  },
+  {
+   "begin": "2646.840",
+   "children": [],
+   "end": "2648.640",
+   "id": "f000571",
+   "language": "eng",
+   "lines": [
+    "Please go ahead, Stuart."
+   ]
+  },
+  {
+   "begin": "2648.640",
+   "children": [],
+   "end": "2649.320",
+   "id": "f000572",
+   "language": "eng",
+   "lines": [
+    "Q: Yeah."
+   ]
+  },
+  {
+   "begin": "2649.320",
+   "children": [],
+   "end": "2650.880",
+   "id": "f000573",
+   "language": "eng",
+   "lines": [
+    "Thanks, guys."
+   ]
+  },
+  {
+   "begin": "2650.880",
+   "children": [],
+   "end": "2652.080",
+   "id": "f000574",
+   "language": "eng",
+   "lines": [
+    "On - a couple for you."
+   ]
+  },
+  {
+   "begin": "2652.080",
+   "children": [],
+   "end": "2660.960",
+   "id": "f000575",
+   "language": "eng",
+   "lines": [
+    "On revenue guidance for next year, I'm assuming that this includes the revenue that you expect to get then from the football rights in the second half."
+   ]
+  },
+  {
+   "begin": "2660.960",
+   "children": [],
+   "end": "2683.680",
+   "id": "f000576",
+   "language": "eng",
+   "lines": [
+    "And clearly, the head guidance for this year we're looking at kind of flat revenue for the second half of this year."
+   ]
+  },
+  {
+   "begin": "2683.680",
+   "children": [],
+   "end": "2692.720",
+   "id": "f000577",
+   "language": "eng",
+   "lines": [
+    "I'm just curious that you beginning sort of continued worries about the economy when you're just suggesting an improvement in the trend for next year?"
+   ]
+  },
+  {
+   "begin": "2692.720",
+   "children": [],
+   "end": "2697.200",
+   "id": "f000578",
+   "language": "eng",
+   "lines": [
+    "Or are you expecting quite a significant step change in the revenue trend next year?"
+   ]
+  },
+  {
+   "begin": "2697.200",
+   "children": [],
+   "end": "2711.680",
+   "id": "f000579",
+   "language": "eng",
+   "lines": [
+    "Secondly, can you cut the cost transformation slide a slightly different way and comment on what was the cost-cutting magnitude X the cost associated with loss revenues?"
+   ]
+  },
+  {
+   "begin": "2711.680",
+   "children": [],
+   "end": "2713.480",
+   "id": "f000580",
+   "language": "eng",
+   "lines": [
+    "And last one, and this is really for Ian."
+   ]
+  },
+  {
+   "begin": "2713.480",
+   "children": [],
+   "end": "2719.000",
+   "id": "f000581",
+   "language": "eng",
+   "lines": [
+    "I know that you share my passion for Scottish football."
+   ]
+  },
+  {
+   "begin": "2719.000",
+   "children": [],
+   "end": "2729.360",
+   "id": "f000582",
+   "language": "eng",
+   "lines": [
+    "I just wondered if you had any interest in helping out the current situation by bidding for either the new Rangers' football rights or skywalk away the full Scottish football rights?"
+   ]
+  },
+  {
+   "begin": "2729.360",
+   "children": [],
+   "end": "2729.800",
+   "id": "f000583",
+   "language": "eng",
+   "lines": [
+    "Thanks."
+   ]
+  },
+  {
+   "begin": "2729.800",
+   "children": [],
+   "end": "2740.800",
+   "id": "f000584",
+   "language": "eng",
+   "lines": [
+    "A: The last one, I thought for a horrible moment you could ask me if I were going to bid for the Rangers."
+   ]
+  },
+  {
+   "begin": "2740.800",
+   "children": [],
+   "end": "2740.800",
+   "id": "f000585",
+   "language": "eng",
+   "lines": [
+    "And..."
+   ]
+  },
+  {
+   "begin": "2740.800",
+   "children": [],
+   "end": "2741.680",
+   "id": "f000586",
+   "language": "eng",
+   "lines": [
+    "Q: Please, please do."
+   ]
+  },
+  {
+   "begin": "2741.680",
+   "children": [],
+   "end": "2749.840",
+   "id": "f000587",
+   "language": "eng",
+   "lines": [
+    "A: And I could - I'd like to confirm whilst we traditionally do never confirm or deny acquisition rumors, that is one I am only too happy to deny."
+   ]
+  },
+  {
+   "begin": "2749.840",
+   "children": [],
+   "end": "2750.760",
+   "id": "f000588",
+   "language": "eng",
+   "lines": [
+    "But I'll do a workaround."
+   ]
+  },
+  {
+   "begin": "2750.760",
+   "children": [],
+   "end": "2753.800",
+   "id": "f000589",
+   "language": "eng",
+   "lines": [
+    "I feel I have supported my [indiscernible] and see what they can do."
+   ]
+  },
+  {
+   "begin": "2753.800",
+   "children": [],
+   "end": "2762.800",
+   "id": "f000590",
+   "language": "eng",
+   "lines": [
+    "Q: If they charge you 10 times for everyone that asks more than one question, we'd probably have enough."
+   ]
+  },
+  {
+   "begin": "2762.800",
+   "children": [],
+   "end": "2764.760",
+   "id": "f000591",
+   "language": "eng",
+   "lines": [
+    "A: Or indeed they ask one question."
+   ]
+  },
+  {
+   "begin": "2764.760",
+   "children": [],
+   "end": "2770.080",
+   "id": "f000592",
+   "language": "eng",
+   "lines": [
+    "Scottish football, I have to say, in terms of Scottish football rights, I am completely on it."
+   ]
+  },
+  {
+   "begin": "2770.080",
+   "children": [],
+   "end": "2779.960",
+   "id": "f000593",
+   "language": "eng",
+   "lines": [
+    "So it's actually not - I'm the last person to ask because I am not at all involved in any bidding for - or any thought about Scottish football, for the reason I'm actually on the board with Celtics."
+   ]
+  },
+  {
+   "begin": "2779.960",
+   "children": [],
+   "end": "2785.840",
+   "id": "f000594",
+   "language": "eng",
+   "lines": [
+    "So I don't - I'd defer to leave that very much to Gavin and his team are getting involved."
+   ]
+  },
+  {
+   "begin": "2785.840",
+   "children": [],
+   "end": "2790.440",
+   "id": "f000595",
+   "language": "eng",
+   "lines": [
+    "But actually got - I could honestly answer and say I have no idea."
+   ]
+  },
+  {
+   "begin": "2790.440",
+   "children": [],
+   "end": "2792.520",
+   "id": "f000596",
+   "language": "eng",
+   "lines": [
+    "And long may it remain that way."
+   ]
+  },
+  {
+   "begin": "2792.520",
+   "children": [],
+   "end": "2795.480",
+   "id": "f000597",
+   "language": "eng",
+   "lines": [
+    "Also to answer the cost cutting in the second."
+   ]
+  },
+  {
+   "begin": "2795.480",
+   "children": [],
+   "end": "2803.080",
+   "id": "f000598",
+   "language": "eng",
+   "lines": [
+    "We didn't - just to clear, we've - I mean, you have to calculate your analysis as to what exactly that means in revenue in the second half of the year."
+   ]
+  },
+  {
+   "begin": "2803.080",
+   "children": [],
+   "end": "2808.400",
+   "id": "f000599",
+   "language": "eng",
+   "lines": [
+    "But when then said improving trend, improving trend does not exclude positive."
+   ]
+  },
+  {
+   "begin": "2808.400",
+   "children": [],
+   "end": "2813.880",
+   "id": "f000600",
+   "language": "eng",
+   "lines": [
+    "It can also mean positive in the year after."
+   ]
+  },
+  {
+   "begin": "2813.880",
+   "children": [],
+   "end": "2822.000",
+   "id": "f000601",
+   "language": "eng",
+   "lines": [
+    "And so that's not altered and we think there's a number of football rights, only just one better there."
+   ]
+  },
+  {
+   "begin": "2822.000",
+   "children": [],
+   "end": "2826.280",
+   "id": "f000602",
+   "language": "eng",
+   "lines": [
+    "I think we - I talked about IP exchange, for instance, before."
+   ]
+  },
+  {
+   "begin": "2826.280",
+   "children": [],
+   "end": "2831.560",
+   "id": "f000603",
+   "language": "eng",
+   "lines": [
+    "We got the building up of fibre because actually we've only just got to 11 million."
+   ]
+  },
+  {
+   "begin": "2831.560",
+   "children": [],
+   "end": "2834.320",
+   "id": "f000604",
+   "language": "eng",
+   "lines": [
+    "By the time we speak to you next year, that will be a lot higher."
+   ]
+  },
+  {
+   "begin": "2834.320",
+   "children": [],
+   "end": "2836.120",
+   "id": "f000605",
+   "language": "eng",
+   "lines": [
+    "And we'll have that base to sell into."
+   ]
+  },
+  {
+   "begin": "2836.120",
+   "children": [],
+   "end": "2839.880",
+   "id": "f000606",
+   "language": "eng",
+   "lines": [
+    "So there's a lot of good things happening in that area."
+   ]
+  },
+  {
+   "begin": "2839.880",
+   "children": [],
+   "end": "2847.680",
+   "id": "f000607",
+   "language": "eng",
+   "lines": [
+    "And if you look, excluding the Global Services, actually, we are making that improving trend is coming through in our businesses."
+   ]
+  },
+  {
+   "begin": "2847.680",
+   "children": [],
+   "end": "2851.480",
+   "id": "f000608",
+   "language": "eng",
+   "lines": [
+    "It's hard work in this environment, but actually the hard work is paying off."
+   ]
+  },
+  {
+   "begin": "2851.480",
+   "children": [],
+   "end": "2857.120",
+   "id": "f000609",
+   "language": "eng",
+   "lines": [
+    "But, Tony, do you want to talk about the final saying about costs and cutting it a different way?"
+   ]
+  },
+  {
+   "begin": "2857.120",
+   "children": [],
+   "end": "2858.200",
+   "id": "f000610",
+   "language": "eng",
+   "lines": [
+    "A: Yes, sure."
+   ]
+  },
+  {
+   "begin": "2858.200",
+   "children": [],
+   "end": "2863.760",
+   "id": "f000611",
+   "language": "eng",
+   "lines": [
+    "If you actually look at the slides, what we're trying to do is subdivide the components."
+   ]
+  },
+  {
+   "begin": "2863.760",
+   "children": [],
+   "end": "2871.800",
+   "id": "f000612",
+   "language": "eng",
+   "lines": [
+    "So if you look at the element 123 million, which relates to transit and POLOs , two components, transit which is a straight flow through."
+   ]
+  },
+  {
+   "begin": "2871.800",
+   "children": [],
+   "end": "2878.160",
+   "id": "f000613",
+   "language": "eng",
+   "lines": [
+    "The rest of that box relates to movements in the margins associated with the revenue streams."
+   ]
+  },
+  {
+   "begin": "2878.160",
+   "children": [],
+   "end": "2881.160",
+   "id": "f000614",
+   "language": "eng",
+   "lines": [
+    "And you've got some pluses, you've got some minuses."
+   ]
+  },
+  {
+   "begin": "2881.160",
+   "children": [],
+   "end": "2882.480",
+   "id": "f000615",
+   "language": "eng",
+   "lines": [
+    "And the margin mix changes."
+   ]
+  },
+  {
+   "begin": "2882.480",
+   "children": [],
+   "end": "2887.280",
+   "id": "f000616",
+   "language": "eng",
+   "lines": [
+    "The other 124 million is really outside the revenue streams."
+   ]
+  },
+  {
+   "begin": "2887.280",
+   "children": [],
+   "end": "2894.880",
+   "id": "f000617",
+   "language": "eng",
+   "lines": [
+    "So, effectively, you've got transit flow through, mixes in changes in the margins, capturing 123 million."
+   ]
+  },
+  {
+   "begin": "2894.880",
+   "children": [],
+   "end": "2897.120",
+   "id": "f000618",
+   "language": "eng",
+   "lines": [
+    "The other 124 million is straight base cost savings."
+   ]
+  },
+  {
+   "begin": "2897.120",
+   "children": [],
+   "end": "2901.760",
+   "id": "f000619",
+   "language": "eng",
+   "lines": [
+    "Ian Paul Livingston: Okay, thank you very much."
+   ]
+  },
+  {
+   "begin": "2901.760",
+   "children": [],
+   "end": "2903.240",
+   "id": "f000620",
+   "language": "eng",
+   "lines": [
+    "And thank you, everyone, for the call."
+   ]
+  },
+  {
+   "begin": "2903.240",
+   "children": [],
+   "end": "2907.760",
+   "id": "f000621",
+   "language": "eng",
+   "lines": [
+    "For those of you who are going off on the summer holidays, have a really good one."
+   ]
+  },
+  {
+   "begin": "2907.760",
+   "children": [],
+   "end": "2915.080",
+   "id": "f000622",
+   "language": "eng",
+   "lines": [
+    "For those of you staying here and going to be enjoying the Olympics, we host a great show, and we'll speak to you in a few months' time."
+   ]
+  },
+  {
+   "begin": "2915.080",
+   "children": [],
+   "end": "2915.920",
+   "id": "f000623",
+   "language": "eng",
+   "lines": [
+    "Thank you very much everyone."
+   ]
+  },
+  {
+   "begin": "2915.920",
+   "children": [],
+   "end": "2918.960",
+   "id": "f000624",
+   "language": "eng",
+   "lines": [
+    "O: Ladies and gentlemen, that concludes your call for today."
+   ]
+  },
+  {
+   "begin": "2918.960",
+   "children": [],
+   "end": "2920.760",
+   "id": "f000625",
+   "language": "eng",
+   "lines": [
+    "Thank you for joining."
+   ]
+  },
+  {
+   "begin": "2920.760",
+   "children": [],
+   "end": "2923.960",
+   "id": "f000626",
+   "language": "eng",
+   "lines": [
+    "You may now disconnect."
+   ]
+  }
+ ]
+}

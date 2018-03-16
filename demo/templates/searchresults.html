@@ -1,0 +1,121 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Plotly.js -->
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+	
+	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+	<link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+	<title>ELISA: Emotion Analytics Query System</title>
+</head>
+<body>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+     
+	  <a class="navbar-brand" href="#">
+        <img alt="ELISA" src="{{ url_for('static', filename='elisa.png') }}" height="48px">
+		
+      </a>
+    </div>
+   		   
+      <ul class="nav navbar-nav navbar-right">
+		<li><button type="button" class="btn btn-primary" onclick="location.href = '/'">New Search</button></li>
+        <!--<li><a class="navbar_links" href="#">Help</a></li>
+		<li><a class="navbar_links" href="#">About</a></li>-->
+      </ul>
+
+  </div><!-- /.container-fluid -->
+</nav>
+
+
+	<div class="container">	
+		<div>
+			<BR>
+			<div class="row">
+			  <div class="col-md-4">
+				<div class="panel panel-primary">
+					<div class="panel-heading">
+						<h3 class="panel-title">Keyword</h3>
+					</div>
+					<div class="panel-body" id="keyword_div">{{ word }}</div>
+				</div>
+			  </div>
+			  <div class="col-md-4">
+				<div class="panel panel-primary">
+					<div class="panel-heading">
+						<h3 class="panel-title">Company</h3>
+					</div>
+					<div class="panel-body" id="keyword_company">BT</div>
+				</div>
+			  </div>
+			  <div class="col-md-4">
+				<div class="panel panel-primary">
+					<div class="panel-heading">
+						<h3 class="panel-title">Aggregation level</h3>
+					</div>
+					<div class="panel-body">Sentence</div>
+				</div>
+			  </div>
+			</div>
+		</div>
+      
+	  <br><br><hr><br>
+
+	  <div class="panel panel-info">
+			<!-- Default panel contents -->
+			<div class="panel-heading">Sentiment analysis results on text:</div>
+			{{ table|safe }}
+			<br>
+			<div class="panel-heading">Emotion analysis results on audio:</div>
+			{{ emotionTable|safe }}
+	  </div>
+	  <br><hr><br>
+	  <div class="panel panel-info">
+		<div class="panel-heading">Sentiment analysis on text:</div>
+			<div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
+	  </div>
+	  <br>
+	</div>
+      <script>
+    var trace1 = {
+  x: {{ quartiles|safe }}, 
+  y: {{ pos_results }}, 
+  name: 'Positives', 
+  type: 'bar'
+};
+
+var trace2 = {
+  x: {{ quartiles|safe }}, 
+  y: {{ neg_results }}, 
+  name: 'Negatives', 
+  type: 'bar'
+};
+
+var data = [trace1, trace2];
+var layout = {barmode: 'group'};
+
+Plotly.newPlot('myDiv', data, layout);
+
+function getAsset(x) {
+	var kword = document.getElementById('keyword_div');
+	var company = document.getElementById('keyword_company');
+	//alert(kword.innerHTML + "_" + company.innerHTML + "_" + x);
+	window.location.href = "/asset/" + kword.innerHTML + "_" + company.innerHTML + "_" + x;
+	///asset/<specs>
+
+}
+		</script>
+   </body>
+</html>
