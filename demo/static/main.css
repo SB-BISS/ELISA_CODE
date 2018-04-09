@@ -25,7 +25,10 @@ body{
 	text-align:center;
 	background-color:#E3E3E3;
 }
-
+.searchInput{
+	width: 200px;
+	height: 30px;
+}
 
 .quartileTable{
 	text-align:center;
@@ -43,14 +46,23 @@ th {
 .rowStart{
 	padding-right: 4px;
 	border-bottom: 1px solid black;
+	border-top:  1px solid black;
 }
+
+.rowStart:hover {
+	cursor: pointer;
+	background-color: tomato;
+}
+
 .borderedTD{
     border: 1px solid black; 
    
 }
 td.borderedTD:hover {
-	 background-color: lime;
+	 background-color: tomato;
 	 cursor: pointer;
+	 border: 2px solid black; 
+	 //color: red;
 	
 }
 .asset_table{
