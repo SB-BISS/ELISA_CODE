@@ -1,0 +1,256 @@
+{
+    "fragments": [
+        {
+            "begin": "0.000", 
+            "children": [], 
+            "company": "SES", 
+            "end": "4.920", 
+            "id": "f000001", 
+            "language": "eng", 
+            "lines": [
+                "Q: Yeah."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "1", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "4.920", 
+            "children": [], 
+            "company": "SES", 
+            "end": "59.920", 
+            "id": "f000002", 
+            "language": "eng", 
+            "lines": [
+                "So, Wilton, there's no correlation between what Charlie Ergen says and maturity on our bonds, so it's the first point I'd like to make."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "2", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "59.920", 
+            "children": [], 
+            "company": "SES", 
+            "end": "90.920", 
+            "id": "f000003", 
+            "language": "eng", 
+            "lines": [
+                "And just to remind you of our financial framework and our treasury road map, we've a very consistent treasury road map."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "2", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "90.920", 
+            "children": [], 
+            "company": "SES", 
+            "end": "113.680", 
+            "id": "f000004", 
+            "language": "eng", 
+            "lines": [
+                "We work off of three or four principles which will continue to prevail."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "1", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "113.680", 
+            "children": [], 
+            "company": "SES", 
+            "end": "225.160", 
+            "id": "f000005", 
+            "language": "eng", 
+            "lines": [
+                "One is we're a long-term business and, therefore, we've worked over the last two to three years to increase the overall maturity of our senior debt such that it's now around eight years."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "1", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "225.160", 
+            "children": [], 
+            "company": "SES", 
+            "end": "265.440", 
+            "id": "f000006", 
+            "language": "eng", 
+            "lines": [
+                "We did that but at the same time reducing the average cost of our debt towards the 3.87% today."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "1", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "265.440", 
+            "children": [], 
+            "company": "SES", 
+            "end": "400.400", 
+            "id": "f000007", 
+            "language": "eng", 
+            "lines": [
+                "Secondly, we keep a good mix between dollar-denominated debt and euro-denominated debt so that we match this with our dollar-denominated EBITDA and euro-denominated EBITDA."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "3", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "400.400", 
+            "children": [], 
+            "company": "SES", 
+            "end": "749.120", 
+            "id": "f000008", 
+            "language": "eng", 
+            "lines": [
+                "And you'll see, when you look our balance sheet, that that's worked very much to our favor with a very important addition of about 0.25 billion to shareholders' equity, so good FX management."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "3", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "749.120", 
+            "children": [], 
+            "company": "SES", 
+            "end": "2270.080", 
+            "id": "f000009", 
+            "language": "eng", 
+            "lines": [
+                "And then the last point, as I mentioned earlier, is we keep from maturities on a steady state so that we have, at all times, also very good liquidity, some very good facilities we have in place and a steady state maturity."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "4", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "2270.080", 
+            "children": [], 
+            "company": "SES", 
+            "end": "2278.400", 
+            "id": "f000010", 
+            "language": "eng", 
+            "lines": [
+                "And there's no change in any of that strategy."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "1", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "2278.400", 
+            "children": [], 
+            "company": "SES", 
+            "end": "2299.480", 
+            "id": "f000011", 
+            "language": "eng", 
+            "lines": [
+                "Richard Whiteing I think on that note, that's probably a good time to close out."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "3", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "2299.480", 
+            "children": [], 
+            "company": "SES", 
+            "end": "2445.480", 
+            "id": "f000012", 
+            "language": "eng", 
+            "lines": [
+                "So, thank you, everyone, for, again, joining us in the room and also those listening via the webcast and the conference call."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "2", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "2445.480", 
+            "children": [], 
+            "company": "SES", 
+            "end": "2477.080", 
+            "id": "f000013", 
+            "language": "eng", 
+            "lines": [
+                "As always, myself and the team remain at your disposal should you need any follow up later."
+            ], 
+            "negative_sentiment": "2", 
+            "positive_sentiment": "1", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }, 
+        {
+            "begin": "2477.080", 
+            "children": [], 
+            "company": "SES", 
+            "end": "2484.960", 
+            "id": "f000014", 
+            "language": "eng", 
+            "lines": [
+                "Thank you very much."
+            ], 
+            "negative_sentiment": "1", 
+            "positive_sentiment": "2", 
+            "quartile": "4", 
+            "question_id": "SES.20164.0.1.0", 
+            "sentenceMP3": "G:\\SES\\sesq416qna\\sesq416qna.json", 
+            "year": "2016", 
+            "yearQuartile": "20164"
+        }
+    ]
+}
