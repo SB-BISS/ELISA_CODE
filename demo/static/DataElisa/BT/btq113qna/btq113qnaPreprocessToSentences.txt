@@ -1,0 +1,626 @@
+O: Thank you.
+Ladies and gentleman your question and answer session will now begin.
+If you wish to ask a question please key star-one on your tone dial telephone.
+If you change your mind and decide to withdraw your question please key star-two.
+All questions will be answered in the order received and you will be advised when to ask a question.
+All other lines will remain in listen only.
+Once again if you wish to ask a question please key star followed by one.
+Our first question is from the line of Andrew Lee, from Goldman Sachs.
+Please go ahead, Andrew.
+Q: Thank you.
+Good morning, everyone.
+A question on global services, and then a second question.
+Firstly on global services, the domestic trading environment, how is the competitive intensity here at the moment?
+Have you seen any shift in the competitive pressure from cable and wireless on the bigger contracts or from the rest of your competitors in SME?
+And then the second question was on the side that Ofcom highlighted there was a spectrum for a fourth national wholesaler.
+I just got to give you the opportunity to say you're still not interested in owning a mobile network or to see if there's any change there.
+Thank you.
+A: The answer to the second one, yeah.
+I can confirm there's no change there to that question.
+And there probably will be 13 questions that will now drop off the list.
+In terms of domestic, I assume when you say domestic, you mean domestic UK because of course we've got domestic businesses in a lot of countries.
+In terms of that competitive intensity, I would see if Jeff wants to add anything, but it remains a competitive market.
+We've had some good wins, which we are pleased with.
+I think the same in SME business where we've done well in what's been a difficult marketplace, but maybe Jeff, you want to talk about the corporate side and government side on SMEs?
+A: I would say it's about the same intensity as we've seen in the past.
+I wouldn't say we see cable and wireless any more aggressive on our existing accounts.
+We're both very aggressive on accounts that we both own.
+But I wouldn't say it's any more intense.
+A: Can register out on the Swiss space.
+I think we're seeing the market contract as a number of customers are looking to consolidate their estate, for want of a better word.
+Where we're operating, we are actually growing market share.
+A: Okay, thanks very much.
+Q: Thank you.
+A: The next question?
+O: Thank you.
+It's from the line of Nick Delfas from Morgan Stanley.
+Please go ahead, Nick.
+Q: Yeah, thanks very much.
+So two questions.
+But from H2 revenue recovery, I calculate roughly your IT hardware points will give you a following wind of 60 basis points compared to the first half.
+But given that one, I guess, shouldn't expect any change in the European economic environment, maybe you could say a little bit more about where you expect the rest of the recovery to come, calculate you need to get the that flat revenues in H2 to reach your all-new guidance.
+And secondly, what else can you tell us about Global Services to reassure us?
+I mean, if you look at EBITDA minus CapEx versus cash flow, we're spanning to see a gap opening up again in the quarter.
+And also, as you said at full year in the year, what reassurance can you give that that's not a problem of profit recognition?
+Thanks.
+A: All right.
+I'll let Tony add to this just in a second.
+But, yeah, I mean, we had - it's about a 20 million pound hit in Q1 from that point about the - what was going with the, with trade sales and that would drop out.
+It's a bit less in Q2, but will drop out in Q3 and Q4.
+And also of course, we've got the anniversarying if you recall I think from recollection in Q2 last year, actually our revenue was up because of the 60 million stage payment we had, that we've highlighted there numerous times.
+So no great surprise there.
+I think also it's the buildup of the investments as add more fibre, as we improve on vision and the other actions we're taking, is the reasons we expect to see materially a better position overall in revenue in the second half.
+In terms of Global Services, perhaps Tony, when we said there would be working capital movements this year.
+And that's why we expect a lower cash flow.
+I think Tony can give you some reassurance on some of the key numbers that show that this is a very different and the main expected issue on cash flow, but that's also different from the fact that we have a more difficult economic environment, but Tony.
+A: Nick, the first thing is the working capital is going to bounce around quarter-on-quarter.
+That's always going to happen based on things like supply of payments, contract payments, et cetera.
+If I looked at the previous two years, we had positive working capital.
+You can't have positive working capital every single year.
+This year, we're into a , as we indicated previously, we'll have negative working capital.
+In terms of your concern, putting it bluntly, what you're saying is that we defer in cost on the balance sheet to improve profitability.
+If I look at the quarter four to quarter one movements, there is no movement in terms of deferred cost.
+If I look at the quarter one movement to quarter one last year, we've actually got about 150 million reduction in deferred cost.
+So, effectively, the balance sheet is materially stronger than this same time last year.
+And if I took it back a further year, you'll see similar sorts of reductions.
+So this is not a situation where you've got an overhang on the balance sheet that could lead to potential issues.
+A: Okay.
+Thanks, Nick.
+Q: Okay, that was great.
+Thanks very much.
+O: Thank you.
+The next question is from the line of Robert Grindle from Deutsche Bank.
+Please go ahead.
+Q: Yeah, good morning.
+And as you flagged in in the presentation you've been very successful in winning a large number of BT UK contracts.
+Is the CapEx and EBITDA associated with these fully in the new guidance?
+And was it accretive to free cash flow over next couple of years?
+And then, secondly, the UK government appears to have made some progress in re-contracting some of its business, or at least shortlisting suppliers.
+Is there any change in your expectation due to all of that?
+It seems very impenetrable.
+And when would the process have an impact, if any, at all?
+Thanks.
+A: I'll ask Jeff to talk about UK government.
+BT UK, given these long-term investments, it will not - when we're spending the money, it will not be accretive to free cash flow when we start spending it.
+It will be - the expectations in terms of cash flow and profitability include the BT UK debts we've got.
+Yeah, I think the comment I made before about BT UK, when we talked about the 2.5 billion that we were spending, we contained that with the new overall guidance about 2.6 billion of CapEx.
+If we hadn't been involved in BT UK when we finished about two-thirds of the UK, that number would drop quite materially.
+Because we are doing BT UK, it is less likely to do so.
+And so it will carry on for some more years.
+Probably, if we won all of the BT UK bids, it's a round about 1 billion of our overall money.
+And providing over a three-year period or something, isn't that different a sort of rate of expenditure.
+It has been a shade less than we're spending on fibre at the moment.
+It may change the profile of exactly what we do, but it's contained within the numbers.
+It will just mean that the - as we look to some outer years, that we've got a lot more fibre in the UK, which gives us some really good EBITDA opportunities because, of course, once you spend the capital, the EBITDA is there.
+And I think you see both in the results in Ireland, for instance, where our EBITDA has grown and also in the Openreach starting to see some of the impact of that coming through.
+But now within the overall forecast, we can manage that very nicely.
+On UK government renegotiation, Jeff, anything?
+A: Well, I think just a general comment that our revenues are stable year-over-year in our government business.
+If you're referencing PSN, I think we've been very robust and proactive with the Canada office.
+I think we're positioned very well.
+In March, we were successful in eight of 12 lots there, which positions us well in our core business.
+Yet to be seen on those contracts, but even on our existing contracts, as we do in most of these, we gain PSN compliance agreements, and then move our customers closer to PSN requirements.
+So net-net, it shouldn't change drastically.
+We normally compete in this market previously, and we'll continue to do so.
+Q: Okay, thanks.
+A: Thanks, John.
+O: Thank you.
+Next question is from the line of Paul Sidney from Credit Suisse.
+Please go ahead.
+Q: Thank you very much.
+Just two quick questions please.
+Could you remind us in Global Services the number of large contracts that will be renegotiated the next few years?
+I think you've given us this information in the past.
+And maybe just sort of big picture and give us the potential impact of those renegotiations as past both in it the revenue and the cost side.
+And the second question, could you just give us a bit more information on the adverse impacts from the weather in the quarter.
+Have you seen a lot of pent-up demand coming through the broadband and the line trend reversing in the quarter, so far?
+Thank you.
+A: In this quarter, that we're now in pent-up demand?
+Q: Yes, indeed.
+Have you seen sort of...
+A: I'm not allowed to give for the three weeks.
+So Q2 we're now in talk about that.
+In terms of GS contracts, as we said, there's less than the normal of the existing contracts of the of the very largest contracts coming out for renewal.
+But one of the things we meet is that's about renewal date, but you got to add on top of that is we may decide to try to renegotiate some of these earlier.
+It will.
+So and I think we would look in a couple of places to do that, and at the same time to lengthen them as well.
+So I think whilst we don't have a huge number of contracts absolutely end, what we were actually trying to do I know with a couple of large contracts proactively extend them well before because a lot of these things it would take a couple of years to change over.
+So it's a good time to negotiate earlier.
+But we are comparatively right in contracts that end over the next couple of years.
+And it comes up a little bit more in sort of a year after that, but we'll probably do a bit more in terms of that in terms of being things lowered.
+So that's - yeah, and that may alter the mix between renewals and existing.
+If we don't renew them, the contract volume will be lower than if we do renew them, but the mix will be more towards new.
+And so that's just and we'll try and give you that idea as the numbers come through quarter-by-quarter.
+Thanks very much.
+Q: Thank you.
+O: Thank you.
+Next question is from the line of Nick Lyall from UBS.
+Please go ahead.
+Q: Yeah, morning.
+It was two questions, please.
+Firstly, on the Global Services cost that you mentioned, I mean, is that enough to actually start to increase margins slightly, or is there's just enough to contain the weaker revenue outlook do you think?
+And then secondly, on the overall group cash flows, you've maintained the 2.3 billion for the year.
+Is there any change in the working capital assumptions within the overall 2.3 billion guidance, please?
+Thanks.
+A: Well, I don't think we gave you working capital assumptions in the 2.3 billion guidance.
+So, no, there's no change in terms of us not giving you guidance within that.
+I think I gave you the overall number.
+And then...
+Q: I'm just trying to get to get to where that 2.3 billion was more risky because there was no change of issuance, I mean, without knowing what the actual number is.
+A: No, no.
+We said there'll be challenges to the working capital in the Global Services.
+We said that was a movement.
+So I don't think we commented on the rest of the business.
+On GS and EBITDA, I mean, yes, margins will increase in Global - EBITDA margins will increase de facto if we're saying that the EBITDA will increase, and obviously there's revenue pressures.
+We need one heck of a turnaround in revenue for the margins not to be increasing in Global Services.
+So I think you can take for that EBITDA margins or expect to increase.
+It's not long term.
+Of course, it's about creating a business that generates the sort of free cash flow a market leader should do.
+But we're still - we will have fluctuations annually, and that's why we highlighted in Q4 that we'd expect the working capital to be an outflow, and therefore, bring the free cash flow down for this year.
+Thanks very much.
+Q: Okay, cheers.
+O: Thank you.
+Next question is from the line of Carl Murdock-Smith from JPMorgan Cazenove.
+Please go ahead.
+Q: Hi, it's mostly a question for Gavin, I suppose.
+Just from the mix between Infinity packages, I was just wondering what proportion of Infinity net ads have you seen taking the 18-megabit products?
+Thanks.
+A: I mean, the majority.
+It take the higher tier.
+So I don't know whether we're - we've given any - I'm getting a shake of the head from my IR friends.
+So it is the majority.
+Q: Okay, thanks.
+Okay, given that was such a concise answer, I'll ask a second.
+Just on the YouView offerings, obviously you talked about launching their offering tomorrow.
+When you do come to launching the bundles in the autumn, are you minded to at the same time also launch YouView within Plusnet bundles?
+A: I don't expect Plusnet to launch in the autumn, but I do expect YouView to be available over Plusnet - over the Plusnet network in the next 12 months.
+I'll say that.
+Q: That's great, thank you.
+A: Cheers.
+O: Thank you, next question is from the line of James Britton from Nomura.
+Please go ahead.
+Q: Thanks very much.
+I've got two questions please.
+Firstly, on regulation, how do you interpret the issue statement on MGN and broadband costing methodologies?
+Should we assume flat or increasing on bundling prices in the future?
+And does it make sense for you to do fibre any differently if you're guaranteed full cost recovery on these investments?
+And then secondly, could you just perhaps give us some color on any lumpiness in revenues or cost associated with the Olympics for Q2?
+And would you be able to strip out from an Olympics-related cost to improve Openreach margins in the second half?
+Thanks.
+A: All right, and thanks for that.
+In terms of the lumpiness, there is some additional cost to do with the Olympics.
+It shouldn't be dramatically material, but there will be some additional cost we've got incurred.
+And I think some focus in there and certainly - but it won't be enormous, but we'll be able to notice it.
+In terms of regulation, I think the thing about - if I understand your question right, the EU announcement on regulation was actually - we're really encouraged about it because what it did is very much brought it into line with what the UK position is.
+And I think that's a big movement from where the EU started, which they started a different place.
+And now they've come up and said actually what we look at is cost orientation, non-discrimination, equal access, which is the UK model.
+And the reason they came up with that, I believe, is because the UK is succeeding.
+And whilst clearly it wouldn't be mentioned in the UK like this, Europe looked around Europe and decided the UK model works really well in terms of delivering to customers what's required and encouraging investment.
+And that's exactly what has happened.
+So I think it really - we were very pleased with that.
+Olivia, is there anything you want to add to that?
+A: The only thing, I guess - you asked specifically about cost orientation.
+So I guess as you said previously that it was a wholly cost-oriented model.
+Prices could go up or could stay the same, I believe.
+The interesting thing, I think, that came out of the E-1 wasn't a guaranteed cost orientation would be fully recovered.
+It was a direction of travel.
+So I think you should just view it's our previous commercial case, and it's now got a strong support across Europe.
+A: Was there another question, James, to it?
+Q: No.
+A: No, that was it?
+We've done it.
+Q: On the Olympic side, I guess I was just wondering whether or not the cost will fall out after the Olympics, and actually you'll be able to reach margins having a lift within the year?
+A: No, no, no.
+No, no, no.
+No lift.
+Will resume her normal cost reduction plans, her reasonable reduction plans.
+But, no, you won't see an impact in terms of in Openreach in that terms.
+I think actually more of the impact might be you see a bit - things like advertising and marketing and things like that.
+It's not going to be an Openreach thing.
+A: We've been delivering it for two years.
+So it's an ongoing delivery.
+A: Yeah.
+Believe me, if the sockets aren't in now, we are a little bit in trouble, given the first Olympic game starts today in women's football, I think, in Cardiff and somewhere else.
+Coventry, apparently, as well.
+Q: Great.
+Enjoy [indiscernible] .
+Thank you.
+A: Cheers.
+O: Moving on to the next question, is from the line of Simon Weeden from Citigroup.
+Please, go ahead.
+Q: Yes, thank you very much, just one question, if I may.
+And that is on the impacts to the MTR cuts during the quarter.
+Could you give us a view or a number for - rough number for the impact on the cost base as the later status MTR reductions?
+And whether or not you think in due course you'll be obliged to pass some or all of that on?
+Thanks.
+A: What we - I'll ask Gavin about passing on.
+I think we are looking to use it to - we would up to now, passed - pass the cost straight on.
+I think now, we'll look more and more to put in the packages to really encourage people to make more calls from the fixed line to the mobile.
+And I think that's the way.
+We do give a number, of course, for ex-transit and MTRs.
+And within that, we give the MTR number.
+And that - it's a big number in the quarter.
+And - but Gavin, do you want to talk about -
+A: No, I think...
+A: - passing them on and the outstandingly [indiscernible] -
+A: Yeah, I know.
+I think -
+A: - prices you have.
+A: I mean, we passed them on to-date, as Ian says.
+And going forward, I think the lower MTRs give us the scope to introduce more innovative propositions, particularly our own on unlimited-type packages or cap-type packages.
+So I'm not going to announce it today, but that's the sort of direction we're looking at going forward.
+A: Okay.
+Thanks very much.
+Next question please.
+O: Thank you.
+It's from the line of Michael Bishop from Barclays.
+Please go ahead.
+Q: Hi, good morning.
+Just two questions, please.
+Firstly on TV, it seems like you have some two solutions coming up, obviously, YouView and the new Vision 2 box.
+So I was just keen to get your thoughts around how will you decide which ones to promote and when and into which customer base?
+And then I guess another question on retail, following up from Carl's.
+Just on the fibre gross ads, VMED yesterday were trying to essentially imply that most of your fibre gross ads were just up-sell, as opposed to new retail subs.
+So I'd like to get your thoughts on that, given the strong adds in the quarter?
+Thanks.
+A: Well, I think you just - in answer to the second question, I think you almost asked and answered it yourself.
+Which is, look, I know VMED in their presentations do like to talk about how well they're doing and how people providing it through on the BT network aren't doing well.
+Looking at the net numbers, I mean, that's - I mean we can debate about how much we're adding in market three areas , which is we're doing very well.
+Where we've got fibre, we see much higher growth.
+And this is a comment I've made a number of times, where we've got a much higher broadband growth where we've got fibre than where we don't.
+And the net result as you say, we've added 85,000 broadband customers.
+I think VMED lost net 10,000 of their on-net customers.
+So it's - to be honest that's really, they're not really the discussion point in terms of market growth, as has been for a number of quarters.
+I don't think it's going to change, that Sky have - and BT have accounted for over 100% of the market.
+And unless Sky come out with their numbers.
+But certainly that's been the position for a number of quarters.
+And I mean that's where the intensity of the battle is.
+And the rest of the market have been net contributors to there.
+We're fighting very hard in the marketplace.
+But Gavin -
+A: Just a comment on the two platforms, YouView and Vision 2.0.
+Of course, the Vision 2.0 portal will feature within our YouView proposition.
+And ultimately the two will completely converge into a single proposition later next year.
+The key for us is getting IP channels, linear channels available on YouView, and we're working with a venture to make sure that's part of the proposition next year.
+And I think that's the point they all come together.
+Q: Okay, thanks.
+A: Next question.
+O: Okay, next question is from the line of Jerry Dellis from Jefferies.
+Please go ahead.
+Q: Yes, good morning.
+Two questions please.
+Firstly, on Global Services, I think you've got quite a lot of capital invested in the large businesses in southern Europe, particularly in Italy.
+Given that the southern European outlook could be depressed for quite a long time, I wonder if you could talk about the rationale for keeping capital tied up here?
+Is there a scope perhaps to sort of reinvest in high growth markets?
+Or is there a strong business reason for maintaining that southern European presence?
+And then the second question is just to do with the second-half revenue outlook.
+Given that I guess things look a little bit harder at the H1 stage, is hitting your guidance now I guess putting more pressure on retail perhaps to deliver in the second half than was previously the case?
+Thank you.
+A: Well, I can tell you as I look around the table, when you said put more pressure on Retail - Wholesale, GS and Openreach immediately smiled.
+I pointed to Gavin.
+No, they all have lots of pressure on them to deliver.
+That's not going to change.
+I mean, look, the economic conditions do make it more difficult.
+There's no question about that.
+I think - whilst we didn't expect any massive upturn, I think we didn't expect Europe to be effectively lurching from crisis to crisis.
+That's not good for decision-making.
+Decision-making is the key thing, for instance, for large contracts.
+And people are, frankly, just taking - let's not do anything for the meantime, particularly in - whether it's about technology refreshers.
+It's large, transformational things.
+People are just uncertain, and that's not good for the economy.
+In terms of the capital, I mean, there's two reasons why the answer to your question is no.
+We are not going to withdraw any capital.
+One is that, yeah, we make money there.
+It might be a more difficult market, but we've got to step up, and we do better if we make money.
+And also, the customers.
+A lot of these about serving global customers.
+And if you look at someone like for instance, Fiat in Italy, they are doing really well on a global basis.
+South America is growing very strongly for them.
+And we have a number of these very large, global customers that we do service from these markets.
+And economies turn down for a little time.
+But we're not in this market for three months or six months or a couple of years.
+We're in there very much the long term.
+So now what we've got to do is - and this is true across our Global Services business - is effectively do the sort of transformation we've done in some of the other parts of business because of the environment we're in.
+And yes, of course, our investment will be focused more on the fast-growing economies.
+That does make sense.
+That absolutely makes sense.
+And we're not - the nature of our businesses across Europe isn't particularly capital-intensive.
+We're not putting in massive amounts of new network and things like that.
+We've got networks there.
+We're operating them.
+We'll - if we see something that's going to give us a much better result, we are prepared to put in some additional funds.
+But they're not hugely capital-intensive in the scheme of things.
+Q: Thank you.
+O: Thank you.
+Our next question is from the line of Steve Malcolm from Arete Research.
+Please go ahead.
+Q: Yeah.
+Morning, guys.
+So I'm good for a couple.
+First, on the Infinity uptake, can you just give me an idea of how much - what the contribution from improved provisioning was?
+And what the contribution from increase demand was?
+And sort of taking up from 100,000 to 150,000 in the quarter?
+And then secondly on BT UK, it looks like you had pretty good success there.
+I know you've always said in the past, you don't expect to win all the contracts.
+I'm sure you won't.
+But is one of the potential upshots of a weak economy that you're seeing a little less competition in some of these tenders?
+And you may win a few more of them than you had originally anticipated?
+Or are you very much where you thought you'd be at this stage?
+Thank you.
+A: Well, I think on the tenders, I mean, to be honest, I don't think it's the economy.
+I think there's been a number of people who made bold statements, and we're left now with Fujitsu and BT.
+And if you look back, if I had a pound for every time I hear that there's someone who's going to transform the UK environment for fibre through massive investment, and then never turns up when it comes to buying their round - it just - people just don't follow through because they realize, when they look at it, actually this is quite difficult.
+You need to have - it's a long-term investment.
+They haven't gotten - to actually industrialize this takes a long time.
+And we started this in 2008.
+And in the - it took us a year to plan it, a year to test it, and a year to industrialize it.
+And where people are from a standing start makes it very difficult.
+And it's not just - a lot of people think it's the physical putting in of the fibre, which is difficult enough.
+It's the systems that particularly that go around it, getting the base of wholesale customers and selling to a wide range of people.
+And that's something that we are expert in.
+So we're very pleased with how we've done so far.
+We're competing very hard for these contracts.
+I still don't believe we'll win all of them, but I believe where we win, we'll do a really good job.
+And I think the proof in the pudding is just how well we're doing.
+In terms of the uptick in Infinity net adds, actually it's quite the opposite.
+It's actually - we've been provisioned and we've actually had provision resource moving to repair.
+So actually, it would have been a bit better had that not happened.
+So compared to - we came out of Q4 just generally - this isn't just for Infinity, because it applies all across our business with - actually, our repair book's in really good shape.
+Our provision lead times are in really good shape.
+And what's happened during the course of this quarter, and particularly in May, June and even now, is we've had a huge number of repairs demand because of very, very wet weather, and also quite a lot of wind, as well.
+And we just have to divert resources.
+So we've actually got a bigger backlog in provision going into - going out of this quarter than we started.
+Q: And on that point, Ian, can you just give us an idea on where you think you can get to, in terms of sort of maximum provision capabilities?
+I guess it's going to take some time for fibre to meet DSL volumes and what you can deliver because it's a self-install.
+But where are you on the journey at the moment, in terms of reaching maximum?
+A: Well, we are recruiting more - I mean, I think, importantly, we are recruiting more staff.
+We have recruited more staff already to help do that, and that's something we would love to do more of.
+We are getting more efficient at it.
+But, Liv, you want to talk about that?
+A: So stuff and still specifically we're working on trials of industry at the moment.
+And that we'll look to go live next summer.
+And then the summer after, the industry ambition shared between us all, will be to have a single CPE.
+So that's kind of what the time windows on that part.
+And certainly for some customers, I think the self-install is potentially a big volume opportunity gain.
+I think for all of my large-scale customers, combining CPE has got to be an ambition because of course it makes it more attractive financially across the market.
+So that's the time windows for those product developments.
+I think in terms of demand, demand has followed the steady curve of growth over the last while.
+I think that will continue.
+There's more footprint coming out.
+There's more ambition across the market.
+There's more customers wanting the product.
+And there's really good speeds.
+So the actual speeds are fantastic.
+So I think the demand will continue.
+And we'll make sure that we are sourced in line to manage that demand.
+And let's hope the good weather stays because this is the best chance of that - is less of the monsoon season and some more of the sunny season.
+So this is very good news for us all.
+Q: Liv, while I've got you, just on that, on the provisioning stuff.
+I mean, on the Openreach cost base, was the 2% reduction we saw in the quarter kind of a normal number, given all the weather stuff or - and the repairs you had to do that we expect for the rest of the year?
+A: So I guess couldn't give individual guidance by quarter for the rest of the year because no mystic ball in terms of what will happen.
+But I think we did a good job to cope with the weather extra and deliver those financials.
+And I think we've set ourselves up with some good savings in the early part of the year, some of which will flow through.
+Q: Thank you.
+A: Thanks, Steve.
+Next question?
+O: Thank you.
+It's from the line of James Ratzer from New Street Research.
+Please go ahead, James.
+Q: Yes, thanks very much.
+I've got two questions, please.
+The first one was just regarding the overall pricing environment in the UK, the sort of debate about whether the market pricing is inflationary or not at the moment.
+I mean, clearly, you're pushing up line rental pricing, but other parts of the bundle there seems to be promotions on - you hinted at maybe tweaks around how fixed to mobile callings inclusive in the bundle.
+So it'd be interesting to get your feel on whether blended pricing across the base can start to potentially go up from here.
+And secondly, now Infinity is becoming quite a meaningful part of your customer base.
+Be interested to get some sort of that quantifying impact of that on revenue growth.
+You're mentioning quite a high percentage of customers taking the higher tier.
+Roughly in pound sterling, how much of an upgrade are you seeing those customers increase their spend via the Infinity?
+How much of the net adds are coming as new customers?
+It would just be helpful to try and quantify the impact of Infinity on the top line please.
+Thank you.
+A: All right.
+Lots of questions there.
+I'm probably not going to give you the exact dynamics of Infinity.
+I think we're keeping that close at hand.
+Except I think a couple of points I would say about it is that because of - whilst we're pricing Infinity effectively at the same price as option two and three broadband, we're seeing a good spin-up from people going from option one broadband to option two or three Infinity, effectively, and - or the top two tiers to Infinity.
+And all the way through, we're seeing actually - so the ARPU, despite pricing effectively, because of this level, we do get a good ARPU increase.
+And it contributes a very large part to the offsetting the extra cost of Infinity.
+And that's before you start looking at the buy-in cost.
+That's before you start looking at churn and other opportunities to sell more.
+So it makes - it's a good economic model for our retail businesses, as it looks just now.
+I'll ask Gavin to comment about the detailed price environment, but it is really important to say that the UK has among the cheapest places of any western country for telecoms.
+And that reflects the competition.
+We're regularly in service.
+Pricing is 30% lower than the US and Germany, Spain, Italy, France, et cetera.
+And I think that maintains.
+And we've certainly put in a price freeze this year on key things, as well as having taken down, for instance, our fixed to mobile calls.
+But, Gavin, your thoughts?
+A: Not much to add, Ian.
+I think it is a very competitive marketplace.
+I think customers are - they're searching for value.
+And we've got to make sure we're continuing to deliver that.
+So I don't see huge scope for price rises.
+And I think we will remain extremely competitive, particularly on bundles and promotions going forward.
+So I'd say that's probably as much as I'm prepared to share.
+A: Okay, next question please.
+Q: I'm sorry, one follow-up, sir, on that Infinity point, just on [indiscernible] ARPU, an increase there.
+I mean is that, say, more than 5 a month you're seeing as an ARPU increase, or is below that level?
+A: I'm saying I'm not going to give you that exact number.
+What I said - it contributes a very large part of the - to offsetting the increased cost of the - of Infinity, in terms of fibre.
+And that's as much as you're going to get at the moment in terms of that number.
+Q: Okay, thank you.
+A: Cheers.
+O: Thank you.
+Next question is from the line of Darren Ward from Echelon Research.
+Please go ahead, Darren.
+Q: Yeah, good morning.
+It's just a question about the Ethernet and wholesale lease lines issue that you flag in this morning's release.
+Assuming that you can't get the drafts to overturned and determination is in line with the drafts, you've got to repay 145 million.
+Could you just tell me who those parties are that will be receiving that?
+And over what kind of time scale is you'll have to be paying it out?
+And I also noticed that you say it will be a specific item.
+Over what period of time has that sort of overcharge build up if you like?
+And could we please get the information to strip out this story?
+A: It's not an overcharge.
+It's actually an oddity in the way the regulation was plastered.
+And I think actually it was quite unintentional in the Ofcom - in the way Ofcom drafted the things that the - as they ended up with this issue.
+I think it was very unexpected.
+So I mean it goes from - it's been over last I think about three years or probably since that Ethernet prices were agreed with Ofcom.
+And bear in mind Ethernet prices were agreed with Ofcom, but they had some cost-orientation regulations that I think had some unexpected consequences.
+I think unexpected frankly to Ofcom, certainly unexpected to us.
+And we just bought Ethernet, and I'm not going to go through what our exact sales are to various people on Ethernet.
+But I'll just ask any of the team to...
+Q: Is it other industry players there, or are they already customers?
+A: Sorry?
+Q: Is it other industry players, or is it any customers?
+A: Yeah, it's all industry players.
+Q: Yeah.
+A: Yeah, it's other industry players.
+Q: And just maybe the time scale with the repayment?
+A: I think we have to appear to have pretty quickly once the decision is made.
+I think it's a reasonably short period.
+Tony?
+A: Yeah.
+No, it's a reasonably short period.
+So it'll be in this year.
+Q: Thank you.
+A: Okay.
+Cheers.
+O: Thank you.
+Next question is from the line of Stephen Howard from HSBC.
+Please go ahead.
+Q: Thanks very much.
+Two sets of questions please.
+Firstly, just following on from the earlier question about the latest regulatory developments from the European Commission.
+I mean, presumably this gives you a lot more visibility on the Infinity business case.
+And I guess it would help you address some of the calls made by one of your major wholesale customers that your fibre product should be priced regulated from about 2015 onwards.
+So I'd just like your observations on that.
+And secondly, your result statement trumpets a series of Global Services contract wins included, I note, additional branches of Caixa Econmica Federal, the Brazilian Development Bank.
+I mean just if you can help me understand why this is a core competency for BT, and why you are the right person to be providing additional connectivity to extra branches of a Brazilian Development bank.
+Thanks.
+A: All right.
+I'll answer the second one because we have a great expertise.
+We've got quite to note capability in Brazil, and we've got great expertise in VSAT technology.
+If you want particularly to understand why we do, we also do the Brazilian Post Office as well.
+So the customers in Brazil certainly recognize our core competency and provide the - Brazil is a different market from others because of the way the fixed line network and the sheer size of the - it's a big country.
+And that's why we can provide that.
+As well as we got great expertise in financial services sector.
+And it's also bringing that expertise and knowledge to national players, as well as international players.
+Jeff, anything else you'll be adding to the sales pitch?
+A: Yeah.
+I actually would add to that.
+I think, if anything, we're probably too quiet about our assets and technology down there.
+I think we're doing well in the market, as Ian suggested.
+We won our largest transaction last year with the post office down there.
+But I am hearing from some of the industry analysts that we're not as aggressive letting our customer know our asset base down there, so we're going to work on that.
+Q: And you referred to Infinity business case.
+I'm not quite sure if you meant the fibre business case.
+Can I just be clear?
+Because, of course, they are two different things.
+A: I beg your pardon.
+It is to the fibre investment case that I was referring.
+Just you know, we had to - I think we discussed this at the last result.
+Q: Yeah.
+A: There was an interesting interview in the press in which one of your competitors said these should be price regulated.
+A: Yeah.
+Well, look it doesn't affect our business case because basically what the EU staff said what we expected, what we - following UK model.
+And as when we've been asked about, I think, of this price regulation in fibre, if anything, you can maybe look at the prices going up for so long, very long-term investment.
+And we are driving this for volume.
+And I think you'll have to ask the person who may have said that to clarify exactly what we said, which might have been a slight misquote.
+But either way, I think Ofcom has been pretty clear about they didn't see any need for revisiting that issue of regulation.
+And given that the UK enjoys one of the cheapest fibre prices anywhere in the west, actually, I think we're in a pretty good shape on this one.
+Thanks.
+Q: Thanks.
+O: Thank you.
+Next question is from the line of Guy Peddy from Macquarie.
+Please go ahead.
+Q: Yeah, good morning over there.
+Just a couple of quick questions.
+Firstly, on Infinity, Virgin Media managed to outsell you three times on high-speed broadband in the quarter.
+And I was just wondering, is there anything that's underlying that?
+Is it just a question that you haven't marketed your product to as many customers?
+And I'm thinking now that your customer base or your number of lines that are covered by Infinity are broadly similar to Virgin Media's footprint.
+And secondly, on Global Services, it's had two years of being operating cash flow positive.
+We're now going to go operating cash flow negative.
+I know that's not new.
+But given the outlook for revenues is probably under more stress than originally perceived, do we think actually that it could be operating cash flow negative for another two to three years because you have to make these investments in geographies that you previously haven't been occupied in?
+Thank you.
+A: Certainly not our intent or expectation.
+Look, if we look at our retail business its revenues declined, and its profits and cash flow has been increased.
+We said to people we knew this was going to be a difficult year in terms of because of the way the working capital was moving.
+We saw that in advance, and we said the following year it's improved.
+And that still remains our expectation.
+And the investment we're talking about in these new fast-growing company, we've actually either have made or are making most of them in the current financial year.
+So that's really not the issue.
+And we haven't actually said it will be cash flow negative this year either.
+So I think there's sort of a presumption, and then many questions.
+So, no, it was happening in Global Services from a working capital point of view as we expected, overlaid with I think the economics are worst.
+And that's made the importance of self-help even more in Global Services.
+And that's exactly what they're working on.
+In terms of the somewhat bizarre question about the outselling by Virgin, I think they had a forced migration of their customers up to higher speeds.
+I would be delighted to be outsold by a company who lost 10,000 broadband customers in a quarter that we gained 85,000, and we gained 150,000 Infinity fibre customers.
+It's a remarkable question really.
+I don't quite see how any - our performance on any metric in terms of how we're doing on Infinity and actually fibre generally is a multiple better than Virgin have done.
+And we are really pleased with the performance.
+So long way may we be outsold when we came to see how many times we've had more net ads because when they are negative, we are at positive.
+You can't really do the mass.
+But I don't really call that being outsold.
+So strange question, but thank you for it.
+Next, last question.
+O: It's from the line of Stuart Gordon from Berenberg.
+Please go ahead, Stuart.
+Q: Yeah.
+Thanks, guys.
+On - a couple for you.
+On revenue guidance for next year, I'm assuming that this includes the revenue that you expect to get then from the football rights in the second half.
+And clearly, the head guidance for this year we're looking at kind of flat revenue for the second half of this year.
+I'm just curious that you beginning sort of continued worries about the economy when you're just suggesting an improvement in the trend for next year?
+Or are you expecting quite a significant step change in the revenue trend next year?
+Secondly, can you cut the cost transformation slide a slightly different way and comment on what was the cost-cutting magnitude X the cost associated with loss revenues?
+And last one, and this is really for Ian.
+I know that you share my passion for Scottish football.
+I just wondered if you had any interest in helping out the current situation by bidding for either the new Rangers' football rights or skywalk away the full Scottish football rights?
+Thanks.
+A: The last one, I thought for a horrible moment you could ask me if I were going to bid for the Rangers.
+And...
+Q: Please, please do.
+A: And I could - I'd like to confirm whilst we traditionally do never confirm or deny acquisition rumors, that is one I am only too happy to deny.
+But I'll do a workaround.
+I feel I have supported my [indiscernible] and see what they can do.
+Q: If they charge you 10 times for everyone that asks more than one question, we'd probably have enough.
+A: Or indeed they ask one question.
+Scottish football, I have to say, in terms of Scottish football rights, I am completely on it.
+So it's actually not - I'm the last person to ask because I am not at all involved in any bidding for - or any thought about Scottish football, for the reason I'm actually on the board with Celtics.
+So I don't - I'd defer to leave that very much to Gavin and his team are getting involved.
+But actually got - I could honestly answer and say I have no idea.
+And long may it remain that way.
+Also to answer the cost cutting in the second.
+We didn't - just to clear, we've - I mean, you have to calculate your analysis as to what exactly that means in revenue in the second half of the year.
+But when then said improving trend, improving trend does not exclude positive.
+It can also mean positive in the year after.
+And so that's not altered and we think there's a number of football rights, only just one better there.
+I think we - I talked about IP exchange, for instance, before.
+We got the building up of fibre because actually we've only just got to 11 million.
+By the time we speak to you next year, that will be a lot higher.
+And we'll have that base to sell into.
+So there's a lot of good things happening in that area.
+And if you look, excluding the Global Services, actually, we are making that improving trend is coming through in our businesses.
+It's hard work in this environment, but actually the hard work is paying off.
+But, Tony, do you want to talk about the final saying about costs and cutting it a different way?
+A: Yes, sure.
+If you actually look at the slides, what we're trying to do is subdivide the components.
+So if you look at the element 123 million, which relates to transit and POLOs , two components, transit which is a straight flow through.
+The rest of that box relates to movements in the margins associated with the revenue streams.
+And you've got some pluses, you've got some minuses.
+And the margin mix changes.
+The other 124 million is really outside the revenue streams.
+So, effectively, you've got transit flow through, mixes in changes in the margins, capturing 123 million.
+The other 124 million is straight base cost savings.
+Ian Paul Livingston: Okay, thank you very much.
+And thank you, everyone, for the call.
+For those of you who are going off on the summer holidays, have a really good one.
+For those of you staying here and going to be enjoying the Olympics, we host a great show, and we'll speak to you in a few months' time.
+Thank you very much everyone.
+O: Ladies and gentlemen, that concludes your call for today.
+Thank you for joining.
+You may now disconnect.

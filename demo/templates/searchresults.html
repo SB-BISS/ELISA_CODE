@@ -1,0 +1,408 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Plotly.js -->
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+
+	
+	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+     
+  
+	<link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+	<title>ELISA: Emotion Analytics Query System</title>
+</head>
+<body>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+     
+	  <a class="navbar-brand" href="#">
+        <img alt="ELISA" src="{{ url_for('static', filename='elisa.png') }}" onclick="nocando();" height="48px">
+		
+      </a>
+    </div>
+   		   
+      <ul class="nav navbar-nav navbar-right">
+		<li><button type="button" class="btn btn-primary" onclick="location.href = '/'">New Search</button></li>
+        <!--<li><a class="navbar_links" href="#">Help</a></li>
+		<li><a class="navbar_links" href="#">About</a></li>-->
+      </ul>
+
+  </div><!-- /.container-fluid -->
+</nav>
+
+	<div class="container">	
+		<div>
+
+			<div class="row">
+			  <div class="col-md-3">
+				<div class="panel panel-primary">
+					<div class="panel-heading">
+						<h3 class="panel-title">Keyword</h3>
+					</div>
+					<div class="panel-body" id="keyword_div">{{ word }}</div>
+				</div>
+			  </div>
+			  <div class="col-md-3">
+				<div class="panel panel-primary">
+					<div class="panel-heading">
+						<h3 class="panel-title">Company</h3>
+					</div>
+					<div class="panel-body" id="keyword_company">{{ company }}</div>
+				</div>
+			  </div>
+			  <div class="col-md-3">
+				<div class="panel panel-primary">
+					<div class="panel-heading">
+						<h3 class="panel-title">Aggregation level</h3>
+					</div>
+					<div class="panel-body">Sentence</div>
+				</div>
+			  </div>
+			  <div class="col-md-3">
+				<div class="panel panel-primary">
+					<div class="panel-heading">
+						<h3 class="panel-title">Filter</h3>
+					</div>
+					<div class="panel-body"> 
+						<div id="filter_sentenceType">{{ sentenceType }}</div>
+						<br> Min. Word Count: 
+						<div id="filter_wordcount">{{ minWordCount }}</div>
+					</div>
+				</div>
+			  </div>
+			</div>
+		</div>
+      
+
+
+	  <div class="panel panel-info">
+			<!-- Default panel contents -->
+			<div class="panel-heading"><B>SENTIMENT ANALYSIS on Text</B><BR><div>The sentiment analysis on text.</div></div>
+			{{ table|safe }}
+	  </div>
+	 
+		<ul class="nav nav-tabs">
+			<li class="active"><a data-toggle="tab" href="#emoPercent">PERCENT</a></li>
+			<li><a data-toggle="tab" href="#emoMax">MAX</a></li>
+			<li><a data-toggle="tab" href="#emoSpike">SPIKE</a></li>
+			<li><a data-toggle="tab" href="#emoAvg">AVG</a></li>
+			<li><a data-toggle="tab" href="#emoStd">STD.DEV</a></li>
+		</ul>
+	<div class="tab-content">
+	  <div id="emoMax" class="tab-pane fade panel panel-info">
+			<div class="panel-heading"><B>MAXIMUM on Audio</B><BR><div>The highest measurement of a particular emotion in a quartile.</div></div>
+			{{ emotionMaxTable|safe }}
+	  </div>
+	  <div id="emoAvg" class="tab-pane fade panel panel-info">
+			<div class="panel-heading"><B>AVERAGE on Audio</B><BR><div>The average measurements of emotions on audio.</div></div>
+			{{ emotionAvgTable|safe }}
+	  </div>
+	  <div id="emoStd" class="tab-pane fade panel panel-info">
+			<div class="panel-heading"><B>STANDARD DEVIATION on Audio</B><BR><div>The standard deviation of emotion measurements.</div></div>
+			{{ emotionStdTable|safe }}
+	  </div>
+	  <div id="emoPercent" class="tab-pane fade in active panel panel-info">
+			<div class="panel-heading"><B>PERCENTAGE on Audio</B><BR><div>The percentage of a particular emotion to be the most significant emotion. </div></div>
+			{{ emotionPercentTable|safe }}
+	  </div>
+	  <div id="emoSpike" class="tab-pane fade panel panel-info">
+			<div class="panel-heading"><B>SPIKE on Audio</B><BR><div>The percentage of a particular emotion measured higher than two standard deviations than the average.</div></div>
+			{{ emotionSpikeTable|safe }}
+	  </div>
+</div>
+	  <hr><br>
+	  <div class="panel panel-info">
+		<div class="panel-heading"><B>PRICE in Time</B><input id="normalizeEmotionMeasurements" type="checkbox" class="normalizeCheckbox" style=" float:right; width:100px;"></input><label for="normalizeEmotionMeasurements" style=" float:right;">Normalize emotion measurements</label></div>
+			<div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
+	  </div>
+	  <div class="panel panel-info">
+		<div class="panel-heading"><B>WORDCLOUD on Text</B><BR><div>The wordcloud that denotes the most frequent and important words</div></div>
+			<div><img alt="Word cloud" src= "../static/{{ wordCloudPath }}"></div>
+	  </div>
+	  
+	  
+	  <br>
+	</div>
+      <script>
+/*    var trace1 = {
+  x: {{ quartiles|safe }}, 
+  y: {{ pos_results }}, 
+  name: 'Positives', 
+  type: 'bar'
+};
+*/
+var trace1 = {
+  x: {{ price_keys|safe }}, 
+  y: {{ price_vals }}, 
+  name: 'Prices', 
+  type: 'scatter'
+};
+
+//var data = [trace1, trace2];
+var data = [trace1];
+//var layout = {barmode: 'group'};
+var layout = {
+	title: "Stock prices of {{ company }} over time",
+	xaxis: {
+		tick0: '2011-4-1',
+		dtick: 'M3'
+	},
+};
+
+var maxValInPrice = 0;
+
+for(x=0; x<trace1.y.length; x++)
+	{
+		if(trace1.y[x] > maxValInPrice)
+		{
+
+			maxValInPrice = trace1.y[x];
+		}
+	}
+		
+
+Plotly.newPlot('myDiv', data, layout);
+
+function getAsset(x) {
+	var kword = document.getElementById('keyword_div');
+	var company = document.getElementById('keyword_company');
+	var sentenceType = document.getElementById('filter_sentenceType');
+	var wordCount = document.getElementById('filter_wordcount');
+	//alert(kword.innerHTML + "_" + company.innerHTML + "_" + x);
+	window.location.href = "/asset/" + kword.innerHTML + "_" + company.innerHTML + "_" + x + "_" + sentenceType.innerHTML + "_" + wordCount.innerHTML;
+	///asset/<specs>
+
+}
+function normalizeGraphNumbers(val, valCap, maxVal)
+{
+	return ((val / valCap) * maxVal)
+}
+
+function addEmoGraph(tableID, emotion)  {
+
+	var trace2 = {
+	  x: {{ arrStrDates|safe }}, 
+	  y: {{ arrStrAngerMax }}, 
+	  name: emotion, 
+	  type: 'bar'
+	};
+	var normalize = document.getElementById('normalizeEmotionMeasurements').checked;
+	
+	if(tableID.includes('Max'))
+	{
+		//alert("MAX - " + emotion);
+		if(emotion=='Anger') { trace2.name = "MAX (Anger)"; trace2.y = {{ arrStrAngerMax }} }
+		if(emotion=='Disgust') { trace2.name = "MAX (Disgust)"; trace2.y = {{ arrStrDisgustMax }} }
+		if(emotion=='Fear') { trace2.name = "MAX (Fear)"; trace2.y = {{ arrStrFearMax }} }
+		if(emotion=='Sadness') { trace2.name = "MAX (Sadness)"; trace2.y = {{ arrStrSadnessMax }} }
+		if(emotion=='Surprise') { trace2.name = "MAX (Surprise)"; trace2.y = {{ arrStrSurpriseMax }} }
+		if(emotion=='Happiness') { trace2.name = "MAX (Happiness)"; trace2.y = {{ arrStrHappinessMax }} }
+		if(emotion=='Neutral') { trace2.name = "MAX (Neutral)"; trace2.y = {{ arrStrNeutralMax }} }
+		if(normalize)
+		{
+			for(x=0; x<trace2.y.length; x++)
+			{
+				trace2.y[x] = normalizeGraphNumbers(trace2.y[x], 10, maxValInPrice);
+			}
+		}
+	}
+	if(tableID.includes('Avg'))
+	{
+		//alert("Avg - " + emotion);
+		if(emotion=='Anger') { trace2.name = "AVG (Anger)"; trace2.y = {{ arrStrAngerAvg }} }
+		if(emotion=='Disgust') { trace2.name = "AVG (Disgust)"; trace2.y = {{ arrStrDisgustAvg }} }
+		if(emotion=='Fear') { trace2.name = "AVG (Fear)"; trace2.y = {{ arrStrFearAvg }} }
+		if(emotion=='Sadness') { trace2.name = "AVG (Sadness)"; trace2.y = {{ arrStrSadnessAvg }} }
+		if(emotion=='Surprise') { trace2.name = "AVG (Suprise)"; trace2.y = {{ arrStrSurpriseAvg }} }
+		if(emotion=='Happiness') { trace2.name = "AVG (Happiness)"; trace2.y = {{ arrStrHappinessAvg }} }
+		if(emotion=='Neutral') { trace2.name = "AVG (Neutral)"; trace2.y = {{ arrStrNeutralAvg }} }
+		if(normalize)
+		{
+			for(x=0; x<trace2.y.length; x++)
+			{
+				trace2.y[x] = normalizeGraphNumbers(trace2.y[x], 10, maxValInPrice);
+			}
+		}
+	}
+	if(tableID.includes('Spike'))
+	{
+		//alert("Spike - " + emotion);
+		if(emotion=='Anger') { trace2.name = "SPIKE (Anger)"; trace2.y = {{ arrStrAngerSpike }} }
+		if(emotion=='Disgust') { trace2.name = "SPIKE (Disgust)"; trace2.y = {{ arrStrDisgustSpike }} }
+		if(emotion=='Fear') { trace2.name = "SPIKE (Fear)"; trace2.y = {{ arrStrFearSpike }} }
+		if(emotion=='Sadness') { trace2.name = "SPIKE (Sadness)"; trace2.y = {{ arrStrSadnessSpike }} }
+		if(emotion=='Surprise') { trace2.name = "SPIKE (Surprise)"; trace2.y = {{ arrStrSurpriseSpike }} }
+		if(emotion=='Happiness') { trace2.name = "SPIKE (Happiness)"; trace2.y = {{ arrStrHappinessSpike }} }
+		if(emotion=='Neutral') { trace2.name = "SPIKE (Neutral)"; trace2.y = {{ arrStrNeutralSpike }} }
+		if(normalize)
+		{
+			for(x=0; x<trace2.y.length; x++)
+			{
+				trace2.y[x] = normalizeGraphNumbers(trace2.y[x], 0.5, maxValInPrice);
+			}
+		}
+	}
+	if(tableID.includes('Percent'))
+	{
+		//alert("Percent - " + emotion);
+		if(emotion=='Anger') { trace2.name = "PERCENT (Anger)"; trace2.y = {{ arrStrAngerPercent }} }
+		if(emotion=='Disgust') { trace2.name = "PERCENT (Disgust)"; trace2.y = {{ arrStrDisgustPercent }} }
+		if(emotion=='Fear') { trace2.name = "PERCENT (Fear)"; trace2.y = {{ arrStrFearPercent }} }
+		if(emotion=='Sadness') { trace2.name = "PERCENT (Sadness)"; trace2.y = {{ arrStrSadnessPercent }} }
+		if(emotion=='Surprise') { trace2.name = "PERCENT (Surprise)"; trace2.y = {{ arrStrSurprisePercent }} }
+		if(emotion=='Happiness') { trace2.name = "PERCENT (Happiness)"; trace2.y = {{ arrStrHappinessPercent }} }
+		if(emotion=='Neutral') { trace2.name = "PERCENT (Neutral)"; trace2.y = {{ arrStrNeutralPercent }} }
+		if(normalize)
+		{
+			for(x=0; x<trace2.y.length; x++)
+			{
+				trace2.y[x] = normalizeGraphNumbers(trace2.y[x], 1, maxValInPrice);
+			}
+		}
+	}
+	//arrStrPositive = emoArrayObj.arrStrPositive, arrStrNegative = emoArrayObj.arrStrNegative, arrStrAngerMax = emoArrayObj.arrStrAngerMax, arrStrDisgustMax = emoArrayObj.arrStrDisgustMax, arrStrFearMax = emoArrayObj.arrStrFearMax, arrStrHappinessMax = emoArrayObj.arrStrHappinessMax, arrStrNeutralMax = emoArrayObj.arrStrNeutralMax, arrStrSadnessMax = emoArrayObj.arrStrSadnessMax, arrStrSurpriseMax = emoArrayObj.arrStrSurpriseMax, arrStrAngerAvg = emoArrayObj.arrStrAngerAvg, arrStrDisgustAvg = emoArrayObj.arrStrDisgustAvg, arrStrFearAvg = emoArrayObj.arrStrFearAvg, arrStrHappinessAvg = emoArrayObj.arrStrHappinessAvg, arrStrNeutralAvg = emoArrayObj.arrStrNeutralAvg, arrStrSadnessAvg = emoArrayObj.arrStrSadnessAvg, arrStrSurpriseAvg = emoArrayObj.arrStrSurpriseAvg, arrStrAngerPercent = emoArrayObj.arrStrAngerPercent, arrStrDisgustPercent = emoArrayObj.arrStrDisgustPercent, arrStrFearPercent = emoArrayObj.arrStrFearPercent, arrStrHappinessPercent = emoArrayObj.arrStrHappinessPercent, arrStrNeutralPercent = emoArrayObj.arrStrNeutralPercent, arrStrSadnessPercent = emoArrayObj.arrStrSadnessPercent, arrStrSurprisePercent = emoArrayObj.arrStrSurprisePercent, arrStrAngerSpike = emoArrayObj.arrStrAngerSpike, arrStrDisgustSpike = emoArrayObj.arrStrDisgustSpike, arrStrFearSpike = emoArrayObj.arrStrFearSpike, arrStrHappinessSpike = emoArrayObj.arrStrHappinessSpike, arrStrNeutralSpike = emoArrayObj.arrStrNeutralSpike, arrStrSadnessSpike = emoArrayObj.arrStrSadnessSpike, arrStrSurpriseSpike = emoArrayObj.arrStrSurpriseSpike, arrStrDates = emoArrayObj.arrStrDates
+	
+	
+	data = [trace1, trace2];
+	Plotly.newPlot('myDiv', data, layout);
+}
+		</script>
+<script>
+var colors = ["#fceabb", "#e3e2b0", "#c8d9a9", "#aed1a5", "#93c7a4", "#7abda5", "#61b2a7", "#4aa7a8", "#379aa9", "#2b8da8", "#2c80a5", "#36729e"]
+var table = document.getElementById('quartileSentimentTable'),
+    rows = table.rows, rowcount = rows.length, r, cells, cellcount, c, cell;
+for( r=0; r<rowcount; r++) {
+	if(rows[r].cells[0].innerHTML != 'COUNT')
+	{
+		cells = rows[r].cells;
+		cellcount = cells.length;
+		for( c=0; c<cellcount; c++) {
+			cell = cells[c];
+			var valueInCell = cell.innerHTML;
+			if (valueInCell == '1') {cell.style.backgroundColor = colors[1];}
+			if (valueInCell == '2') {cell.style.backgroundColor = colors[3];}
+			if (valueInCell == '3') {cell.style.backgroundColor = colors[5];}
+			if (valueInCell == '4') {cell.style.backgroundColor = colors[7];}
+			if (valueInCell == '5') {cell.style.backgroundColor = colors[9];}
+		}
+	}
+}
+var tableEmo = document.getElementById('quartileEmotionTableMax'),
+    rows = tableEmo.rows, rowcount = rows.length, r, cells, cellcount, c, cell;
+for( r=0; r<rowcount; r++) {
+    cells = rows[r].cells;
+    cellcount = cells.length;
+    for( c=0; c<cellcount; c++) {
+        cell = cells[c];
+        var valueInCell = cell.innerHTML;
+		if (valueInCell == '1') {cell.style.backgroundColor = colors[1];}
+		if (valueInCell == '2') {cell.style.backgroundColor = colors[2];}
+		if (valueInCell == '3') {cell.style.backgroundColor = colors[3];}
+		if (valueInCell == '4') {cell.style.backgroundColor = colors[4];}
+		if (valueInCell == '5') {cell.style.backgroundColor = colors[5];}
+		if (valueInCell == '6') {cell.style.backgroundColor = colors[6];}
+		if (valueInCell == '7') {cell.style.backgroundColor = colors[7];}
+		if (valueInCell == '8') {cell.style.backgroundColor = colors[8];}
+		if (valueInCell == '9') {cell.style.backgroundColor = colors[9];}
+		if (valueInCell == '10') {cell.style.backgroundColor = colors[10];}
+    }
+}
+var tableEmo = document.getElementById('quartileEmotionTableAvg'),
+    rows = tableEmo.rows, rowcount = rows.length, r, cells, cellcount, c, cell;
+for( r=0; r<rowcount; r++) {
+    cells = rows[r].cells;
+    cellcount = cells.length;
+    for( c=0; c<cellcount; c++) {
+        cell = cells[c];
+        var valueInCell = cell.innerHTML;
+		if (valueInCell.includes('1.')) {cell.style.backgroundColor = colors[1];}
+		if (valueInCell.includes('2.')) {cell.style.backgroundColor = colors[2];}
+		if (valueInCell.includes('3.')) {cell.style.backgroundColor = colors[3];}
+		if (valueInCell.includes('4.')) {cell.style.backgroundColor = colors[4];}
+		if (valueInCell.includes('5.')) {cell.style.backgroundColor = colors[5];}
+		if (valueInCell.includes('6.')) {cell.style.backgroundColor = colors[6];}
+		if (valueInCell.includes('7.')) {cell.style.backgroundColor = colors[7];}
+		if (valueInCell.includes('8.')) {cell.style.backgroundColor = colors[8];}
+		if (valueInCell.includes('9.')) {cell.style.backgroundColor = colors[9];}
+		if (valueInCell.includes('10')) {cell.style.backgroundColor = colors[10];}
+    }
+}
+var tableEmo = document.getElementById('quartileEmotionTableStd'),
+    rows = tableEmo.rows, rowcount = rows.length, r, cells, cellcount, c, cell;
+for( r=0; r<rowcount; r++) {
+    cells = rows[r].cells;
+    cellcount = cells.length;
+    for( c=0; c<cellcount; c++) {
+        cell = cells[c];
+        var valueInCell = cell.innerHTML;
+		if (valueInCell.includes('.1')) {cell.style.backgroundColor = colors[1];}
+		if (valueInCell.includes('.2')) {cell.style.backgroundColor = colors[2];}
+		if (valueInCell.includes('.3')) {cell.style.backgroundColor = colors[3];}
+		if (valueInCell.includes('.4')) {cell.style.backgroundColor = colors[4];}
+		if (valueInCell.includes('.5')) {cell.style.backgroundColor = colors[5];}
+		if (valueInCell.includes('.6')) {cell.style.backgroundColor = colors[6];}
+		if (valueInCell.includes('.7')) {cell.style.backgroundColor = colors[7];}
+		if (valueInCell.includes('.8')) {cell.style.backgroundColor = colors[8];}
+		if (valueInCell.includes('.9')) {cell.style.backgroundColor = colors[9];}
+		if (valueInCell.includes('1.')) {cell.style.backgroundColor = colors[10];}
+    }
+}
+var tableEmo = document.getElementById('quartileEmotionTablePercentage'),
+    rows = tableEmo.rows, rowcount = rows.length, r, cells, cellcount, c, cell;
+for( r=0; r<rowcount; r++) {
+    cells = rows[r].cells;
+    cellcount = cells.length;
+    for( c=0; c<cellcount; c++) {
+        cell = cells[c];
+        var valueInCell = cell.innerHTML;
+		if (valueInCell.includes('.1')) {cell.style.backgroundColor = colors[1];}
+		if (valueInCell.includes('.2')) {cell.style.backgroundColor = colors[2];}
+		if (valueInCell.includes('.3')) {cell.style.backgroundColor = colors[3];}
+		if (valueInCell.includes('.4')) {cell.style.backgroundColor = colors[4];}
+		if (valueInCell.includes('.5')) {cell.style.backgroundColor = colors[5];}
+		if (valueInCell.includes('.6')) {cell.style.backgroundColor = colors[6];}
+		if (valueInCell.includes('.7')) {cell.style.backgroundColor = colors[7];}
+		if (valueInCell.includes('.8')) {cell.style.backgroundColor = colors[8];}
+		if (valueInCell.includes('.9')) {cell.style.backgroundColor = colors[9];}
+		if (valueInCell.includes('1.')) {cell.style.backgroundColor = colors[10];}
+    }
+}
+var tableEmo = document.getElementById('quartileEmotionTableSpike'),
+    rows = tableEmo.rows, rowcount = rows.length, r, cells, cellcount, c, cell;
+for( r=0; r<rowcount; r++) {
+    cells = rows[r].cells;
+    cellcount = cells.length;
+    for( c=0; c<cellcount; c++) {
+        cell = cells[c];
+        var valueInCell = cell.innerHTML;
+		if (valueInCell.includes('.1')) {cell.style.backgroundColor = colors[2];}
+		if (valueInCell.includes('.2')) {cell.style.backgroundColor = colors[4];}
+		if (valueInCell.includes('.3')) {cell.style.backgroundColor = colors[6];}
+		if (valueInCell.includes('.4')) {cell.style.backgroundColor = colors[8];}
+		if (valueInCell.includes('.5')) {cell.style.backgroundColor = colors[10];}
+		if (valueInCell.includes('.6')) {cell.style.backgroundColor = colors[10];}
+		if (valueInCell.includes('.7')) {cell.style.backgroundColor = colors[10];}
+		if (valueInCell.includes('.8')) {cell.style.backgroundColor = colors[10];}
+		if (valueInCell.includes('.9')) {cell.style.backgroundColor = colors[10];}
+		if (valueInCell.includes('1.')) {cell.style.backgroundColor = colors[10];}
+    }
+}
+function nocando()
+{
+var audio = new Audio("{{ url_for('static', filename='cantdo.wav') }}");
+
+audio.play();
+}
+</script>
+   </body>
+</html>
