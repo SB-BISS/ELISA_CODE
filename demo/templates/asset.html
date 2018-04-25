@@ -7,7 +7,7 @@
 	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+	
 	
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -42,7 +42,7 @@
 		<div>
 			<BR>
 			<div class="row">
-			  <div class="col-md-4">
+			  <div class="col-md-3">
 				<div class="panel panel-primary">
 					<div class="panel-heading">
 						<h3 class="panel-title">Keyword</h3>
@@ -50,7 +50,7 @@
 					<div class="panel-body" id="keyword_div">{{ html_keyword }}</div>
 				</div>
 			  </div>
-			  <div class="col-md-4">
+			  <div class="col-md-3">
 				<div class="panel panel-primary">
 					<div class="panel-heading">
 						<h3 class="panel-title">Company</h3>
@@ -58,12 +58,20 @@
 					<div class="panel-body">{{ html_company }}</div>
 				</div>
 			  </div>
-			  <div class="col-md-4">
+			  <div class="col-md-3">
 				<div class="panel panel-primary">
 					<div class="panel-heading">
 						<h3 class="panel-title">YearQuartile</h3>
 					</div>
 					<div class="panel-body">{{ html_yearQuartile | safe}}</div>
+				</div>
+			  </div>
+			  <div class="col-md-3">
+				<div class="panel panel-primary">
+					<div class="panel-heading">
+						<h3 class="panel-title">Filter</h3>
+					</div>
+					<div class="panel-body">{{ sentenceType }} <br> Min. Word Count: {{ minWordCount }}</div>
 				</div>
 			  </div>
 			</div>
