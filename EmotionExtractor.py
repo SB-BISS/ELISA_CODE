@@ -97,14 +97,14 @@ class EmotionExtractor:
             return data_frame_emotions
 
 
-        def split_single_song(self, song):
+        def split_single_song(self, song,splits):
           
             mydict = []
             convers = []
            
             #increment = 3000
             #if len(song)< 9000:
-            increment = int(float(len(song))/3)
+            increment = int(float(len(song))/splits)
 
             for i in range(increment,len(song)+increment, increment):
                 # print i
